@@ -1,0 +1,1270 @@
+name,city,state,region,highest_degree,control,gender,admission_rate,sat_avg,undergrads,tuition,faculty_salary_avg,loan_default_rate,median_debt,lon,lat
+Alaska Pacific University,Anchorage,AK,West,Graduate,Private,CoEd,0.4207,1054,275,19610,5804,77,23250,-149.9002778,61.2180556
+Marion Military Institute,Marion,AL,South,Associate,Public,CoEd,0.6139,1055,433,8778,5916,135,11500,-87.3191655,32.6323536
+Auburn University at Montgomery,Montgomery,AL,South,Graduate,Public,CoEd,0.8017,1009,4304,9080,7255,106,21335,-86.2999689,32.3668052
+University of North Alabama,Florence,AL,South,Graduate,Public,CoEd,0.6788,1029,5485,7412,7424,111,21500,-87.677251,34.79981
+Auburn University,Auburn,AL,South,Graduate,Public,CoEd,0.8347,1215,20514,10200,9487,45,21831,-85.4807825,32.6098566
+University of Alabama at Birmingham,Birmingham,AL,South,Graduate,Public,CoEd,0.8569,1107,11383,7510,9957,62,21941.5,-86.80249,33.5206608
+Jacksonville State University,Jacksonville,AL,South,Graduate,Public,CoEd,0.8326,1041,7060,7092,6801,96,23000,-85.7613536,33.8137125
+Samford University,Birmingham,AL,South,Graduate,Private,CoEd,0.5954,1165,3033,27324,8367,7,23000,-86.80249,33.5206608
+University of Montevallo,Montevallo,AL,South,Graduate,Public,CoEd,0.743,1070,2644,10660,7437,103,23266,-86.8641558,33.1006746
+The University of Alabama,Tuscaloosa,AL,South,Graduate,Public,CoEd,0.5105,1185,29851,9826,9667,63,23750,-87.5691735,33.2098407
+Southeastern Bible College,Birmingham,AL,South,Bachelor,Private,CoEd,1,930,170,11370,4554,48,24000,-86.80249,33.5206608
+University of Alabama in Huntsville,Huntsville,AL,South,Graduate,Public,CoEd,0.8203,1219,5451,9158,9302,61,24097,-86.5861037,34.7303688
+University of West Alabama,Livingston,AL,South,Graduate,Public,CoEd,0.7199,990,1916,8018,6146,78,24253,-88.1872475,32.5843025
+University of South Alabama,Mobile,AL,South,Graduate,Public,CoEd,0.8335,1048,11267,7188,7195,75,24711,-88.0398912,30.6953657
+Troy University,Troy,AL,South,Graduate,Public,CoEd,0.4414,1050,15025,7564,6246,113,25000,-85.969951,31.8087678
+Huntingdon College,Montgomery,AL,South,Bachelor,Private,CoEd,0.5839,1026,1149,24550,5772,102,26230,-86.2999689,32.3668052
+University of Mobile,Mobile,AL,South,Graduate,Private,CoEd,0.5847,1014,1460,19475,4914,62,27000,-88.0398912,30.6953657
+Spring Hill College,Mobile,AL,South,Graduate,Private,CoEd,0.5177,1116,1215,32468,6071,66,27000,-88.0398912,30.6953657
+Birmingham Southern College,Birmingham,AL,South,Bachelor,Private,CoEd,0.5339,1181,1180,31708,7451,44,27000,-86.80249,33.5206608
+Oakwood University,Huntsville,AL,South,Graduate,Private,CoEd,0.4787,928,1878,16720,5147,124,27250,-86.5861037,34.7303688
+Concordia College Alabama,Selma,AL,South,Bachelor,Private,CoEd,0.5328,942,322,10320,5812,196,32000,-87.0211007,32.4073589
+Alabama State University,Montgomery,AL,South,Graduate,Public,CoEd,0.5326,851,4811,8720,6609,151,33118.5,-86.2999689,32.3668052
+Tuskegee University,Tuskegee,AL,South,Graduate,Private,CoEd,0.4922,978,2588,19570,8399,127,33500,-85.7077266,32.430237
+Alabama A & M University,Normal,AL,South,Graduate,Public,CoEd,0.5256,827,4206,9096,6892,161,33888,-86.5722237,34.7838409
+Stillman College,Tuscaloosa,AL,South,Bachelor,Private,CoEd,0.5901,811,1056,15865,4597,170,38218,-87.5691735,33.2098407
+University of Arkansas Community College-Morrilton,Morrilton,AR,South,Associate,Public,CoEd,0.6181,930,1920,2732,4855,159,8000.5,-92.7440538,35.1509173
+Southern Arkansas University Main Campus,Magnolia,AR,South,Graduate,Public,CoEd,0.7142,989,2784,7736,6269,166,17000,-93.239334,33.2670725
+Arkansas Tech University,Russellville,AR,South,Graduate,Public,CoEd,0.8626,1010,8845,5862,6083,160,17480,-93.1337856,35.2784173
+Williams Baptist College,Walnut Ridge,AR,South,Bachelor,Private,CoEd,0.7049,983,508,14360,4720,89,19000,-90.9559534,36.0684035
+Arkansas State University-Main Campus,Jonesboro,AR,South,Graduate,Public,CoEd,0.7239,1088,9139,7720,6927,102,19250,-90.704279,35.8422967
+Henderson State University,Arkadelphia,AR,South,Graduate,Public,CoEd,0.6278,989,3226,7860,5624,145,19586,-93.0537839,34.1209292
+Central Baptist College,Conway,AR,South,Bachelor,Private,CoEd,0.5697,985,788,13800,4847,109,21500,-92.4421011,35.0886963
+University of Central Arkansas,Conway,AR,South,Graduate,Public,CoEd,0.9426,1049,9232,7889,6562,91,21500,-92.4421011,35.0886963
+University of Arkansas,Fayetteville,AR,South,Graduate,Public,CoEd,0.6204,1155,21405,8210,9085,63,21500,-94.1718542,36.082156
+University of Arkansas at Little Rock,Little Rock,AR,South,Graduate,Public,CoEd,0.5928,1048,7942,7432,7881,86,21736,-92.2895948,34.7464809
+Ouachita Baptist University,Arkadelphia,AR,South,Bachelor,Private,CoEd,0.7061,1112,1455,23320,6255,68,23250,-93.0537839,34.1209292
+University of the Ozarks,Clarksville,AR,South,Bachelor,Private,CoEd,0.8892,1061,578,24470,6124,163,24200,-93.4665731,35.4714724
+Lyon College,Batesville,AR,South,Bachelor,Private,CoEd,0.6142,1109,690,24300,6404,64,25000,-91.6409721,35.769799
+Hendrix College,Conway,AR,South,Graduate,Private,CoEd,0.8282,1244,1322,39290,7333,48,25500,-92.4421011,35.0886963
+Harding University,Searcy,AR,South,Graduate,Private,CoEd,0.9912,1131,4485,17040,7185,31,26077,-91.7336846,35.2468204
+University of Arkansas at Pine Bluff,Pine Bluff,AR,South,Graduate,Public,CoEd,0.3868,886,2391,6178,5485,190,27728.5,-92.0031955,34.2284312
+Arizona State University-Polytechnic,Mesa,AZ,West,Graduate,Public,CoEd,0.7673,1138,3726,9683,8198,73,20229,-111.8314724,33.4151843
+Arizona State University-West,Glendale,AZ,West,Graduate,Public,CoEd,0.778,1095,3280,9683,8582,73,20229,-112.1859866,33.5386523
+Arizona State University-Downtown Phoenix,Phoenix,AZ,West,Graduate,Public,CoEd,0.7886,1083,9113,10157,8671,73,20229,-112.0740373,33.4483771
+Arizona State University-Tempe,Tempe,AZ,West,Graduate,Public,CoEd,0.8433,1145,39316,10157,10647,73,20229,-111.9400054,33.4255104
+Arizona Christian University,Phoenix,AZ,West,Bachelor,Private,CoEd,0.5673,988,620,22466,5030,59,22500,-112.0740373,33.4483771
+Prescott College,Prescott,AZ,West,Graduate,Private,CoEd,0.6873,1073,454,26415,4386,70,24398.5,-112.4685025,34.5400242
+Pomona College,Claremont,CA,West,Bachelor,Private,CoEd,0.1219,1454,1635,45832,12421,1,9788,-117.7197785,34.0966764
+California Institute of Technology,Pasadena,CA,West,Graduate,Private,CoEd,0.0883,1545,983,43362,18138,25,11812.5,-118.1445155,34.1477849
+Stanford University,Stanford,CA,West,Graduate,Private,CoEd,0.0509,1465,7018,45195,20650,8,12782,-122.1660756,37.424106
+Claremont McKenna College,Claremont,CA,West,Graduate,Private,CoEd,0.1077,1419,1293,47395,12751,1,13500,-117.7197785,34.0966764
+California State University-Los Angeles,Los Angeles,CA,West,Graduate,Public,CoEd,0.6107,871,20643,6348,8683,60,13645,-118.2436849,34.0522342
+Scripps College,Claremont,CA,West,Graduate,Private,Women,0.284,1360,962,47378,10754,28,13749.5,-117.7197785,34.0966764
+University of California-Berkeley,Berkeley,CA,West,Graduate,Public,CoEd,0.1602,1382,27126,12972,15194,29,14200,-122.272747,37.8715926
+University of California-Davis,Davis,CA,West,Graduate,Public,CoEd,0.4037,1226,27547,13896,12587,27,14833,-121.7405167,38.5449065
+California State University-Fullerton,Fullerton,CA,West,Graduate,Public,CoEd,0.4447,1021,32610,6315,8561,35,14944,-117.9242123,33.8703645
+California State University-Northridge,Northridge,CA,West,Graduate,Public,CoEd,0.5286,914,35409,6549,8457,52,15000,-118.530123,34.2381251
+California State University-Long Beach,Long Beach,CA,West,Graduate,Public,CoEd,0.3546,1054,31494,6452,8669,38,15446,-118.1937395,33.7700504
+San Jose State University,San Jose,CA,West,Graduate,Public,CoEd,0.5985,1038,26528,7323,9171,31,15628,-121.8863286,37.3382082
+California State University-Fresno,Fresno,CA,West,Graduate,Public,CoEd,0.594,910,20128,6299,8111,43,15993.5,-119.7725868,36.7468422
+San Diego State University,San Diego,CA,West,Graduate,Public,CoEd,0.3448,1115,27824,6866,9277,36,15998,-117.1610838,32.715738
+University of California-Los Angeles,Los Angeles,CA,West,Graduate,Public,CoEd,0.1856,1330,29627,12705,15841,15,16126,-118.2436849,34.0522342
+California State University-Chico,Chico,CA,West,Graduate,Public,CoEd,0.7096,996,15844,7002,8243,55,16500,-121.8374777,39.7284944
+California State University-Sacramento,Sacramento,CA,West,Graduate,Public,CoEd,0.7265,937,26400,6648,8470,58,16500,-121.4943996,38.5815719
+Thomas Aquinas College,Santa Paula,CA,West,Bachelor,Private,CoEd,0.827,1261,378,24500,9237,12,16500,-119.0592705,34.3541659
+Simpson University,Redding,CA,West,Graduate,Private,CoEd,0.5736,1024,1065,24300,6256,30,16666,-122.3916754,40.5865396
+University of California-Santa Barbara,Santa Barbara,CA,West,Graduate,Public,CoEd,0.3634,1253,20237,13865,13665,40,16800,-119.6981901,34.4208305
+University of California-Irvine,Irvine,CA,West,Graduate,Public,CoEd,0.3742,1168,24474,13179,13297,23,17000,-117.8265049,33.6845673
+California State University-San Bernardino,San Bernardino,CA,West,Graduate,Public,CoEd,0.8445,884,16439,6550,8521,69,17500,-117.2897652,34.1083449
+San Francisco State University,San Francisco,CA,West,Graduate,Public,CoEd,0.6597,990,25170,6468,9248,57,17501,-122.4194155,37.7749295
+Sonoma State University,Rohnert Park,CA,West,Graduate,Public,CoEd,0.8002,984,8441,7276,8659,35,17881,-122.7010984,38.3396367
+California State University-San Marcos,San Marcos,CA,West,Graduate,Public,CoEd,0.618,948,11506,7169,8362,49,18000,-117.1661449,33.1433723
+California State Polytechnic University-Pomona,Pomona,CA,West,Graduate,Public,CoEd,0.5187,1074,22269,6904,9036,32,18500,-117.7499909,34.055103
+University of California-San Diego,La Jolla,CA,West,Graduate,Public,CoEd,0.3329,1313,24801,13427,13689,25,19000,-117.2712717,32.8328112
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,West,Graduate,Public,CoEd,0.3089,1234,19177,8918,8767,16,19166,-120.6596156,35.2827524
+University of California-Merced,Merced,CA,West,Graduate,Public,CoEd,0.6718,1031,5884,13160,9237,52,19500,-120.4829677,37.3021632
+University of California-Riverside,Riverside,CA,West,Graduate,Public,CoEd,0.5829,1128,18784,13407,11880,43,19500,-117.3961564,33.9533487
+Humboldt State University,Arcata,CA,West,Graduate,Public,CoEd,0.7655,986,7962,7171,8118,92,19553,-124.0828396,40.8665166
+University of California-Santa Cruz,Santa Cruz,CA,West,Graduate,Public,CoEd,0.5572,1149,16277,13397,12428,34,19884,-122.0307963,36.9741171
+Fresno Pacific University,Fresno,CA,West,Graduate,Private,CoEd,0.6662,1010,2605,26638,6342,62,19972.5,-119.7725868,36.7468422
+San Diego Christian College,Santee,CA,West,Graduate,Private,CoEd,0.555,992,940,27090,5924,84,20000,-116.9739167,32.8383828
+Santa Clara University,Santa Clara,CA,West,Graduate,Private,CoEd,0.4935,1309,5447,43812,11761,22,20500,-121.9552356,37.3541079
+Chapman University,Orange,CA,West,Graduate,Private,CoEd,0.4704,1210,6211,45393,11197,23,21000,-117.8531007,33.7879139
+The Master's College and Seminary,Santa Clarita,CA,West,Graduate,Private,CoEd,0.7588,1103,1182,29860,6693,26,21250,-118.542586,34.3916641
+Life Pacific College,San Dimas,CA,West,Graduate,Private,CoEd,0.6633,903,479,12860,6317,80,21500,-117.8067257,34.1066756
+William Jessup University,Rocklin,CA,West,Graduate,Private,CoEd,0.7581,1009,1131,24990,6715,84,21500,-121.2357828,38.7907339
+University of Southern California,Los Angeles,CA,West,Graduate,Private,CoEd,0.1802,1380,18392,48280,13355,12,21500,-118.2436849,34.0522342
+Azusa Pacific University,Azusa,CA,West,Graduate,Private,CoEd,0.8183,1037,5918,33096,9360,36,22500,-117.9075627,34.1336186
+Loyola Marymount University,Los Angeles,CA,West,Graduate,Private,CoEd,0.5271,1218,6064,41597,10215,25,22500,-118.2436849,34.0522342
+Concordia University-Irvine,Irvine,CA,West,Graduate,Private,CoEd,0.8608,1038,1884,30640,6855,24,22589,-117.8265049,33.6845673
+Menlo College,Atherton,CA,West,Bachelor,Private,CoEd,0.4506,995,793,37520,12023,80,22746.5,-122.197743,37.4613272
+University of San Diego,San Diego,CA,West,Graduate,Private,CoEd,0.4625,1243,5656,42908,12190,15,22750,-117.1610838,32.715738
+California Lutheran University,Thousand Oaks,CA,West,Graduate,Private,CoEd,0.6097,1109,2799,37140,10313,27,23000,-118.8375937,34.1705609
+Occidental College,Los Angeles,CA,West,Graduate,Private,CoEd,0.4204,1300,2023,47522,10599,28,23231.5,-118.2436849,34.0522342
+University of the Pacific,Stockton,CA,West,Graduate,Private,CoEd,0.549,1185,3802,41342,10193,33,23370,-121.2907796,37.9577016
+Mills College,Oakland,CA,West,Graduate,Private,Women,0.7614,1152,909,42918,10011,38,23471,-122.2711137,37.8043637
+Biola University,La Mirada,CA,West,Graduate,Private,CoEd,0.754,1122,4364,33322,9060,22,24375,-118.0120086,33.9172357
+University of La Verne,La Verne,CA,West,Graduate,Private,CoEd,0.4656,1014,5137,36744,9344,38,24894,-117.7678355,34.1008426
+Westmont College,Santa Barbara,CA,West,Bachelor,Private,CoEd,0.7936,1175,1297,39990,7654,16,24954,-119.6981901,34.4208305
+Vanguard University of Southern California,Costa Mesa,CA,West,Graduate,Private,CoEd,0.58,970,1941,30050,7473,44,25000,-117.9188221,33.6412156
+Mount Saint Mary's University,Los Angeles,CA,West,Graduate,Private,Women,0.783,902,2659,34826,8340,43,25000,-118.2436849,34.0522342
+Whittier College,Whittier,CA,West,Graduate,Private,CoEd,0.6188,1061,1624,41836,8993,43,25000,-118.032844,33.9791793
+Point Loma Nazarene University,San Diego,CA,West,Graduate,Private,CoEd,0.6953,1135,2560,31406,9435,19,25000,-117.1610838,32.715738
+University of San Francisco,San Francisco,CA,West,Graduate,Private,CoEd,0.6005,1152,6745,41450,12667,27,25000,-122.4194155,37.7749295
+John Paul the Great Catholic University,Escondido,CA,West,Graduate,Private,CoEd,0.875,1086,195,24900,6794,198,25748.5,-117.086421,33.1192068
+Saint Mary's College of California,Moraga,CA,West,Graduate,Private,CoEd,0.7595,1109,2949,41380,10123,39,25750,-122.1296871,37.8349263
+Hope International University,Fullerton,CA,West,Graduate,Private,CoEd,0.31,896,816,27130,6827,41,26000,-117.9242123,33.8703645
+Harvey Mudd College,Claremont,CA,West,Bachelor,Private,CoEd,0.1425,1500,802,48594,12765,1,26000,-117.7197785,34.0966764
+Pepperdine University,Malibu,CA,West,Graduate,Private,CoEd,0.3546,1234,3434,46692,11472,19,26500,-118.7797571,34.0259216
+Notre Dame de Namur University,Belmont,CA,West,Graduate,Private,CoEd,0.7771,932,1177,31822,8365,34,26865.5,-122.2758008,37.5202145
+La Sierra University,Riverside,CA,West,Graduate,Private,CoEd,0.4064,934,2054,29895,7132,56,27000,-117.3961564,33.9533487
+Otis College of Art and Design,Los Angeles,CA,West,Graduate,Private,CoEd,0.6648,1010,1090,40490,7184,102,27000,-118.2436849,34.0522342
+Dominican University of California,San Rafael,CA,West,Graduate,Private,CoEd,0.8092,1047,1448,41730,8357,27,27000,-122.5310874,37.9735346
+California Baptist University,Riverside,CA,West,Graduate,Private,CoEd,0.7967,976,6435,29422,8550,47,27000,-117.3961564,33.9533487
+University of Redlands,Redlands,CA,West,Graduate,Private,CoEd,0.7309,1110,3710,43186,9748,30,27000,-117.1825381,34.0555693
+Holy Names University,Oakland,CA,West,Graduate,Private,CoEd,0.5706,885,690,34488,9842,39,27000,-122.2711137,37.8043637
+Pacific Union College,Angwin,CA,West,Graduate,Private,CoEd,0.4744,1017,1583,28131,5863,49,28500,-122.4499796,38.5757402
+Southern California Institute of Architecture,Los Angeles,CA,West,Graduate,Private,CoEd,0.8079,1151,263,40262,10504,46,39500,-118.2436849,34.0522342
+Adams State University,Alamosa,CO,West,Graduate,Public,CoEd,0.6529,955,2110,8014,5861,93,16255,-105.8700214,37.4694491
+University of Colorado Boulder,Boulder,CO,West,Graduate,Public,CoEd,0.8416,1207,25873,10789,10452,27,19500,-105.2705456,40.0149856
+Fort Lewis College,Durango,CO,West,Bachelor,Public,CoEd,0.9082,1020,3609,7252,7697,84,19621.5,-107.8800667,37.27528
+Colorado State University-Pueblo,Pueblo,CO,West,Graduate,Public,CoEd,0.9278,971,4227,7834,6532,92,20500,-104.6091409,38.2544472
+Colorado State University-Fort Collins,Fort Collins,CO,West,Graduate,Public,CoEd,0.8048,1128,22373,9897,9205,28,21000,-105.084423,40.5852602
+University of Colorado Colorado Springs,Colorado Springs,CO,West,Graduate,Public,CoEd,0.924,1089,9310,7462,6840,28,21187.5,-104.8213634,38.8338816
+Western State Colorado University,Gunnison,CO,West,Graduate,Public,CoEd,0.9741,990,1936,7874,6316,55,21421,-106.9253207,38.5458246
+University of Colorado Denver/Anschutz Medical Campus,Denver,CO,West,Graduate,Public,CoEd,0.7299,1055,10786,8500,9568,31,21500,-104.990251,39.7392358
+Colorado Mesa University,Grand Junction,CO,West,Graduate,Public,CoEd,0.8227,970,8413,7116,6471,141,22000,-108.5506486,39.0638705
+University of Northern Colorado,Greeley,CO,West,Graduate,Public,CoEd,0.7088,1033,9104,7733,7590,49,22500,-104.7091322,40.4233142
+Regis University,Denver,CO,West,Graduate,Private,CoEd,0.9604,1108,4914,33060,6541,24,23000,-104.990251,39.7392358
+University of Denver,Denver,CO,West,Graduate,Private,CoEd,0.7649,1231,5629,42090,9916,14,23166,-104.990251,39.7392358
+Metropolitan State University of Denver,Denver,CO,West,Graduate,Public,CoEd,0.6511,973,20583,6070,7415,101,24620,-104.990251,39.7392358
+Colorado School of Mines,Golden,CO,West,Graduate,Public,CoEd,0.3647,1333,4383,16918,10474,8,26849,-105.2210997,39.755543
+Yale University,New Haven,CT,Northeast,Graduate,Private,CoEd,0.063,1493,5473,45800,16529,6,13774,-72.9278835,41.308274
+University of Connecticut,Storrs,CT,Northeast,Graduate,Public,CoEd,0.4996,1246,18016,12700,11820,27,21500,-72.2495231,41.8084314
+University of Connecticut-Tri-Campus,Waterbury,CT,Northeast,Graduate,Public,CoEd,0.6583,1004,2272,10658,13540,27,21500,-73.0514965,41.5581525
+University of Connecticut-Stamford,Stamford,CT,Northeast,Graduate,Public,CoEd,0.5685,1001,1336,10668,15528,27,21500,-73.5387341,41.0534302
+University of Connecticut-Avery Point,Groton,CT,Northeast,Graduate,Public,CoEd,0.6392,1050,670,10658,15528,27,21500,-72.0790717,41.3497456
+Central Connecticut State University,New Britain,CT,Northeast,Graduate,Public,CoEd,0.6044,1015,9600,8877,8802,40,22750,-72.7795419,41.6612104
+Southern Connecticut State University,New Haven,CT,Northeast,Graduate,Public,CoEd,0.7154,932,8133,9157,8602,40,24099,-72.9278835,41.308274
+Western Connecticut State University,Danbury,CT,Northeast,Graduate,Public,CoEd,0.4003,981,5206,9077,9044,68,24500,-73.4540111,41.394817
+Quinnipiac University,Hamden,CT,Northeast,Graduate,Private,CoEd,0.6591,1104,6503,40670,10672,11,26000,-72.9026064,41.3838782
+Post University,Waterbury,CT,Northeast,Graduate,Private,CoEd,0.8707,855,6594,16510,5732,131,26512,-73.0514965,41.5581525
+University of Hartford,West Hartford,CT,Northeast,Graduate,Private,CoEd,0.7213,1000,4956,35444,7472,42,26960,-72.7420151,41.7620842
+University of Bridgeport,Bridgeport,CT,Northeast,Graduate,Private,CoEd,0.6072,899,3021,29920,7283,88,27000,-73.1951767,41.1865478
+University of Saint Joseph,West Hartford,CT,Northeast,Graduate,Private,Women,0.7997,969,930,34755,8018,58,27000,-72.7420151,41.7620842
+University of New Haven,West Haven,CT,Northeast,Graduate,Private,CoEd,0.8086,1063,4974,34630,9526,26,27000,-72.9469711,41.2705484
+Georgetown University,Washington,DC,South,Graduate,Private,CoEd,0.1735,1414,7211,46744,13800,6,17000,-77.0368707,38.9071923
+Gallaudet University,Washington,DC,South,Graduate,Private,CoEd,0.6532,849,1001,15024,10061,53,17750,-77.0368707,38.9071923
+American University,Washington,DC,South,Graduate,Private,CoEd,0.4584,1252,7094,41833,11330,21,24589,-77.0368707,38.9071923
+George Washington University,Washington,DC,South,Graduate,Private,CoEd,0.4379,1297,10433,48760,12900,12,25350,-77.0368707,38.9071923
+Catholic University of America,Washington,DC,South,Graduate,Private,CoEd,0.7391,1130,3529,39726,9619,18,26000,-77.0368707,38.9071923
+Howard University,Washington,DC,South,Graduate,Private,CoEd,0.4841,1105,6961,23970,8428,78,27000,-77.0368707,38.9071923
+University of Delaware,Newark,DE,South,Graduate,Public,CoEd,0.6783,1194,18222,12342,12050,24,24195,-75.7496572,39.6837226
+Delaware State University,Dover,DE,South,Graduate,Public,CoEd,0.4374,894,3654,7336,7139,118,28500,-75.5243682,39.158168
+Wesley College,Dover,DE,South,Graduate,Private,CoEd,0.567,853,1431,24100,6623,144,31000,-75.5243682,39.158168
+Florida College,Temple Terrace,FL,South,Bachelor,Private,CoEd,0.7659,1063,555,15330,6579,43,13000,-82.3892596,28.0352964
+New College of Florida,Sarasota,FL,South,Bachelor,Public,CoEd,0.5987,1274,834,6916,8001,54,15000,-82.5306527,27.3364347
+University of Florida,Gainesville,FL,South,Graduate,Public,CoEd,0.4561,1273,31879,6313,10850,30,15000,-82.3248262,29.6516344
+Trinity Baptist College,Jacksonville,FL,South,Graduate,Private,CoEd,0.6368,899,352,10110,2984,128,16343,-81.655651,30.3321838
+Florida Atlantic University,Boca Raton,FL,South,Graduate,Public,CoEd,0.6603,1058,24228,4831,8445,62,16836,-80.1289321,26.3683064
+Florida International University,Miami,FL,South,Graduate,Public,CoEd,0.5278,1089,39102,6497,9667,68,17250,-80.1917902,25.7616798
+University of North Florida,Jacksonville,FL,South,Graduate,Public,CoEd,0.6057,1133,13884,6385,7401,47,17402,-81.655651,30.3321838
+University of Central Florida,Orlando,FL,South,Graduate,Public,CoEd,0.4961,1185,52280,6368,9211,43,18350,-81.3792365,28.5383355
+The University of West Florida,Pensacola,FL,South,Graduate,Public,CoEd,0.4167,1065,9794,6360,7496,75,18750,-87.2169149,30.421309
+Florida Gulf Coast University,Fort Myers,FL,South,Graduate,Public,CoEd,0.5888,1059,13253,6118,7595,46,18750,-81.8723084,26.640628
+Lynn University,Boca Raton,FL,South,Graduate,Private,CoEd,0.7487,980,1911,35050,5323,47,18833,-80.1289321,26.3683064
+University of South Florida-Sarasota-Manatee,Sarasota,FL,South,Graduate,Public,CoEd,0.3393,1105,1690,5587,7369,53,19500,-82.5306527,27.3364347
+University of South Florida-St Petersburg,St. Petersburg,FL,South,Graduate,Public,CoEd,0.3534,1162,3829,5821,8996,53,19500,-82.6267345,27.7518284
+University of South Florida-Main Campus,Tampa,FL,South,Graduate,Public,CoEd,0.5316,1162,30279,6410,9023,53,19500,-82.4571776,27.950575
+The Baptist College of Florida,Graceville,FL,South,Bachelor,Private,CoEd,0.5556,962,454,9700,4966,36,20052,-85.5165993,30.9568503
+Johnson University Florida,Kissimmee,FL,South,Bachelor,Private,CoEd,0.3533,940,220,14270,7042,76,20199,-81.407571,28.2919557
+Florida State University,Tallahassee,FL,South,Graduate,Public,CoEd,0.5539,1228,32432,6507,9891,50,20887,-84.2807329,30.4382559
+University of Miami,Coral Gables,FL,South,Graduate,Private,CoEd,0.3818,1330,10828,44350,11374,20,21500,-80.2683838,25.72149
+Webber International University,Babson Park,FL,South,Graduate,Private,CoEd,0.5056,950,687,24034,4340,143,21562,-81.5222974,27.8319708
+St Thomas University,Miami Gardens,FL,South,Graduate,Private,CoEd,0.849,919,931,27150,9780,65,22452,-80.2456045,25.9420377
+Ave Maria University,Ave Maria,FL,South,Graduate,Private,CoEd,0.517,1085,1019,17940,6729,100,22500,-81.4379851,26.3368127
+Southeastern University,Lakeland,FL,South,Graduate,Private,CoEd,0.4394,965,2946,22202,7174,65,22500,-81.9498042,28.0394654
+Adventist University of Health Sciences,Orlando,FL,South,Graduate,Private,CoEd,1,928,1870,12430,6957,38,22702,-81.3792365,28.5383355
+Northwood University-Florida,West Palm Beach,FL,South,Graduate,Private,CoEd,0.3979,919,669,23132,7211,88,22750,-80.0533746,26.7153424
+Warner University,Lake Wales,FL,South,Graduate,Private,CoEd,0.26,863,1011,18966,4684,154,23250,-81.5859099,27.9014133
+Flagler College-St Augustine,Saint Augustine,FL,South,Bachelor,Private,CoEd,0.4788,1058,2767,16180,6244,46,23677.5,-81.3124341,29.9012437
+Palm Beach Atlantic University,West Palm Beach,FL,South,Graduate,Private,CoEd,0.9527,1071,2585,26274,7310,56,24750,-80.0533746,26.7153424
+Florida Southern College,Lakeland,FL,South,Graduate,Private,CoEd,0.4481,1147,2352,29990,7316,69,24873,-81.9498042,28.0394654
+Nova Southeastern University,Fort Lauderdale,FL,South,Graduate,Private,CoEd,0.4881,1143,4582,26700,9262,32,25250,-80.1373174,26.1224386
+The University of Tampa,Tampa,FL,South,Graduate,Private,CoEd,0.5188,1094,6811,26330,8576,49,26000,-82.4571776,27.950575
+Florida Institute of Technology,Melbourne,FL,South,Graduate,Private,CoEd,0.6157,1176,3348,37990,9111,123,26987.5,-80.6081089,28.0836269
+Eckerd College,Saint Petersburg,FL,South,Bachelor,Private,CoEd,0.7274,1153,2062,38668,7144,69,27000,-82.6267345,27.7518284
+Florida Agricultural and Mechanical University,Tallahassee,FL,South,Graduate,Public,CoEd,0.4895,948,7995,5785,8205,143,27750,-84.2807329,30.4382559
+Barry University,Miami,FL,South,Graduate,Private,CoEd,0.4611,938,3913,28160,7503,51,28250,-80.1917902,25.7616798
+Edward Waters College,Jacksonville,FL,South,Bachelor,Private,CoEd,0.5295,825,927,12525,4678,188,32550.5,-81.655651,30.3321838
+Bethune-Cookman University,Daytona Beach,FL,South,Graduate,Private,CoEd,0.6371,803,3897,14410,6016,144,36250,-81.0228331,29.2108147
+Augusta University,Augusta,GA,South,Graduate,Public,CoEd,0.7654,1030,5030,7326,7519,65,12350,-82.0105148,33.4734978
+Andrew College,Cuthbert,GA,South,Associate,Private,CoEd,0.4631,798,295,14226,3511,167,12875,-84.7893658,31.7712748
+University of North Georgia,Dahlonega,GA,South,Graduate,Public,CoEd,0.6948,1016,14976,4551,5566,93,15000,-83.9843953,34.5261465
+Abraham Baldwin Agricultural College,Tifton,GA,South,Bachelor,Public,CoEd,0.7726,927,3244,3394,4936,159,15085.5,-83.5084973,31.4504629
+College of Coastal Georgia,Brunswick,GA,South,Bachelor,Public,CoEd,0.9235,920,2833,4510,5712,177,16500,-81.4914894,31.1499528
+Gordon State College,Barnesville,GA,South,Bachelor,Public,CoEd,0.4839,859,3864,3510,5250,142,16807.5,-84.1557495,33.0545709
+University of Georgia,Athens,GA,South,Graduate,Public,CoEd,0.5572,1248,26738,10836,10169,29,19000,-83.357567,33.9519347
+Emory University,Atlanta,GA,South,Graduate,Private,CoEd,0.2682,1366,7730,45008,12358,21,19000,-84.3879824,33.7489954
+Armstrong State University,Savannah,GA,South,Graduate,Public,CoEd,0.6803,1006,6162,5266,5824,81,21000,-81.0998342,32.0835407
+Covenant College,Lookout Mountain,GA,South,Graduate,Private,CoEd,0.9664,1175,1066,30160,6904,36,21441,-85.3577363,34.9775757
+Georgia Southwestern State University,Americus,GA,South,Graduate,Public,CoEd,0.6964,970,2415,5158,5792,88,21500,-84.2326876,32.0723861
+Georgia College and State University,Milledgeville,GA,South,Graduate,Public,CoEd,0.7624,1132,5827,8960,6412,32,21500,-83.2320991,33.0801429
+Georgia Southern University,Statesboro,GA,South,Graduate,Public,CoEd,0.631,1099,17232,6170,6402,61,22500,-81.7831674,32.4487876
+Kennesaw State University,Kennesaw,GA,South,Graduate,Public,CoEd,0.5345,1076,23058,5912,6362,71,22750,-84.6154897,34.0234337
+Georgia State University,Atlanta,GA,South,Graduate,Public,CoEd,0.5944,1055,24619,8618,8247,60,23090,-84.3879824,33.7489954
+Truett-McConnell College,Cleveland,GA,South,Bachelor,Private,CoEd,0.9633,971,729,17400,3921,128,23500,-83.7632366,34.5970402
+Toccoa Falls College,Toccoa Falls,GA,South,Bachelor,Private,CoEd,0.3705,970,807,19700,5139,60,23750,-83.3567409,34.5941656
+Piedmont College,Demorest,GA,South,Graduate,Private,CoEd,0.5755,968,1286,21350,6332,36,23958,-83.5451724,34.565098
+Berry College,Mount Berry,GA,South,Graduate,Private,CoEd,0.6083,1183,2065,30530,7322,22,24000,-85.1832843,34.275093
+University of West Georgia,Carrollton,GA,South,Graduate,Public,CoEd,0.4861,950,9982,5938,5936,88,24250,-85.0766113,33.5801103
+Georgia Institute of Technology-Main Campus,Atlanta,GA,South,Graduate,Public,CoEd,0.3338,1400,13996,11394,11616,17,24250,-84.3879824,33.7489954
+Mercer University,Macon,GA,South,Graduate,Private,CoEd,0.6672,1205,4418,33780,7945,44,25000,-83.6324022,32.8406946
+Columbus State University,Columbus,GA,South,Graduate,Public,CoEd,0.5522,976,6715,5613,6306,87,25039,-84.9877094,32.4609764
+Southern Polytechnic State University,Marietta,GA,South,Graduate,Public,CoEd,0.7906,1134,5890,5839,6149,198,25125,-84.5499327,33.952602
+Valdosta State University,Valdosta,GA,South,Graduate,Public,CoEd,0.5414,1018,9235,6142,6041,86,25247,-83.2784851,30.8327022
+Young Harris College,Young Harris,GA,South,Bachelor,Private,CoEd,0.5029,990,1180,26386,5970,88,26000,-83.8471223,34.9331453
+Clayton  State University,Morrow,GA,South,Graduate,Public,CoEd,0.4245,930,6064,5246,6230,80,26250,-84.3393683,33.5831662
+Spelman College,Atlanta,GA,South,Bachelor,Private,Women,0.54,1005,2135,25496,7491,75,26996,-84.3879824,33.7489954
+Oglethorpe University,Atlanta,GA,South,Graduate,Private,CoEd,0.7823,1139,1064,32500,4886,59,27000,-84.3879824,33.7489954
+Emmanuel College,Franklin Springs,GA,South,Bachelor,Private,CoEd,0.4912,960,727,18170,4930,126,27000,-83.1443161,34.2848284
+LaGrange College,Lagrange,GA,South,Graduate,Private,CoEd,0.5525,1035,874,26620,5807,100,27000,-85.0322444,33.0362218
+Morehouse College,Atlanta,GA,South,Bachelor,Private,Men,0.8403,1004,2106,26090,7004,168,27000,-84.3879824,33.7489954
+Savannah College of Art and Design,Savannah,GA,South,Graduate,Private,CoEd,0.6655,1081,8846,34295,8429,64,27000,-81.0998342,32.0835407
+Brenau University,Gainesville,GA,South,Graduate,Private,Women,0.7581,985,1581,24780,6914,49,27429,-83.8240663,34.2978794
+Shorter University,Rome,GA,South,Graduate,Private,CoEd,0.6922,951,1449,20250,5194,91,29000,-85.1646726,34.257038
+Point University,West Point,GA,South,Bachelor,Private,CoEd,0.5189,917,1399,17650,4790,83,30638,-85.1832746,32.8779056
+Clark Atlanta University,Atlanta,GA,South,Graduate,Private,CoEd,0.8467,860,2567,21334,6640,100,31000,-84.3879824,33.7489954
+Albany State University,Albany,GA,South,Graduate,Public,CoEd,0.4729,875,3261,5192,5779,134,32555,-84.155741,31.5785074
+Savannah State University,Savannah,GA,South,Graduate,Public,CoEd,0.7763,847,4659,5556,5423,152,33202,-81.0998342,32.0835407
+Fort Valley State University,Fort Valley,GA,South,Graduate,Public,CoEd,0.2419,873,2172,6448,6300,178,36250,-83.8874084,32.5537585
+Paine College,Augusta,GA,South,Bachelor,Private,CoEd,0.2181,760,841,13332,4907,179,38185,-82.0105148,33.4734978
+Brigham Young University-Hawaii,Laie,HI,West,Bachelor,Private,CoEd,0.3486,1110,2522,4940,8658,45,8291,-157.9225549,21.6482858
+University of Hawaii at Manoa,Honolulu,HI,West,Graduate,Public,CoEd,0.7882,1070,13667,10620,10733,35,19000,-157.8583333,21.3069444
+University of Hawaii at Hilo,Hilo,HI,West,Graduate,Public,CoEd,0.7134,936,3295,7036,9009,64,19197,-155.0884869,19.7070942
+Chaminade University of Honolulu,Honolulu,HI,West,Graduate,Private,CoEd,0.8562,958,2017,20940,8804,73,22000,-157.8583333,21.3069444
+Grinnell College,Grinnell,IA,Midwest,Bachelor,Private,CoEd,0.2801,1398,1670,45620,9769,20,10876.5,-92.7232456,41.7434092
+Emmaus Bible College,Dubuque,IA,Midwest,Bachelor,Private,CoEd,0.3976,1018,216,15390,4370,20,17000,-90.6645718,42.5005583
+Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Midwest,Graduate,Private,CoEd,0.6733,1004,232,16086,5049,29,17500,-93.6001278,41.7317884
+Waldorf College,Forest City,IA,Midwest,Bachelor,Private,CoEd,0.6885,913,1356,20316,5258,125,20760.5,-93.6371937,43.2624685
+University of Northern Iowa,Cedar Falls,IA,Midwest,Graduate,Public,CoEd,0.7772,1050,9882,7749,8135,40,21039,-92.4453161,42.5348993
+Upper Iowa University,Fayette,IA,Midwest,Graduate,Private,CoEd,0.6994,950,4304,26834,6231,78,21250,-91.8021071,42.8419255
+University of Iowa,Iowa City,IA,Midwest,Graduate,Public,CoEd,0.8095,1164,21486,8079,10844,32,21612,-91.5301683,41.6611277
+Dordt College,Sioux Center,IA,Midwest,Graduate,Private,CoEd,0.7299,1100,1343,27460,6081,8,23250,-96.1756935,43.0797991
+Mount Mercy University,Cedar Rapids,IA,Midwest,Graduate,Private,CoEd,0.5683,1030,1417,27010,5974,45,23489.5,-91.6656232,41.9778795
+Grand View University,Des Moines,IA,Midwest,Graduate,Private,CoEd,0.987,967,1977,23426,6479,87,23848.5,-93.6091064,41.6005448
+Buena Vista University,Storm Lake,IA,Midwest,Graduate,Private,CoEd,0.6789,1047,1892,30406,6132,73,23877.5,-95.2019399,42.6430359
+Briar Cliff University,Sioux City,IA,Midwest,Graduate,Private,CoEd,0.6169,1005,964,27202,5678,66,24000,-96.4003069,42.4999942
+Iowa State University,Ames,IA,Midwest,Graduate,Public,CoEd,0.8691,1145,28336,7731,10468,39,24365,-93.6319131,42.0307812
+Drake University,Des Moines,IA,Midwest,Graduate,Private,CoEd,0.6926,1239,3290,32246,9298,14,24500,-93.6091064,41.6005448
+Graceland University-Lamoni,Lamoni,IA,Midwest,Graduate,Private,CoEd,0.4984,938,1415,24920,5338,84,24900,-93.9341158,40.622777
+Iowa Wesleyan University,Mount Pleasant,IA,Midwest,Bachelor,Private,CoEd,0.4107,990,473,26010,5152,137,25538,-91.5487714,40.9716959
+Northwestern College,Orange City,IA,Midwest,Bachelor,Private,CoEd,0.7783,1103,1113,27860,6266,26,25962.5,-96.0583523,43.0072087
+University of Dubuque,Dubuque,IA,Midwest,Graduate,Private,CoEd,0.7788,941,1764,26950,6007,109,26000,-90.6645718,42.5005583
+Clarke University,Dubuque,IA,Midwest,Graduate,Private,CoEd,0.7049,1029,933,28900,6177,42,26000,-90.6645718,42.5005583
+Saint Ambrose University,Davenport,IA,Midwest,Graduate,Private,CoEd,0.9607,1050,2675,27540,7265,39,26000,-90.5776367,41.5236437
+Loras College,Dubuque,IA,Midwest,Graduate,Private,CoEd,0.9513,1088,1468,29700,6319,37,27000,-90.6645718,42.5005583
+Morningside College,Sioux City,IA,Midwest,Graduate,Private,CoEd,0.5682,1065,1293,27180,6454,38,27000,-96.4003069,42.4999942
+Simpson College,Indianola,IA,Midwest,Graduate,Private,CoEd,0.8545,1125,1644,32550,6479,38,27000,-93.5574376,41.3580484
+Wartburg College,Waverly,IA,Midwest,Bachelor,Private,CoEd,0.7883,1100,1614,36120,6730,40,27000,-92.4668511,42.7272032
+Central College,Pella,IA,Midwest,Bachelor,Private,CoEd,0.689,1101,1333,32124,7017,31,27000,-92.916405,41.4080327
+Cornell College,Mount Vernon,IA,Midwest,Bachelor,Private,CoEd,0.7363,1200,1082,37500,7102,32,27000,-91.4168371,41.9219522
+Coe College,Cedar Rapids,IA,Midwest,Graduate,Private,CoEd,0.553,1146,1363,37320,7651,23,27000,-91.6656232,41.9778795
+Luther College,Decorah,IA,Midwest,Bachelor,Private,CoEd,0.7116,1157,2326,38370,7695,25,27000,-91.7857092,43.3033056
+Brigham Young University-Idaho,Rexburg,ID,West,Bachelor,Private,CoEd,0.9962,1041,23865,3950,8211,27,11000,-111.7924237,43.8231096
+Boise Bible College,Boise,ID,West,Bachelor,Private,CoEd,0.9275,996,172,11665,4203,89,19596,-116.2146068,43.6187102
+Lewis-Clark State College,Lewiston,ID,West,Bachelor,Public,CoEd,0.9904,923,3168,8624,5544,132,22250,-117.001189,46.4004089
+Boise State University,Boise,ID,West,Graduate,Public,CoEd,0.77,1042,16206,6641,7059,83,23500,-116.2146068,43.6187102
+University of Idaho,Moscow,ID,West,Graduate,Public,CoEd,0.6748,1057,8162,6784,8246,64,24428,-117.000165,46.7323875
+Northwest Nazarene University,Nampa,ID,West,Graduate,Private,CoEd,0.6507,1052,1300,27340,5678,38,25500,-116.5634625,43.5407172
+The College of Idaho,Caldwell,ID,West,Graduate,Private,CoEd,0.929,1076,1113,24955,6147,26,27000,-116.6873596,43.6629384
+Lincoln College,Lincoln,IL,Midwest,Bachelor,Private,CoEd,0.5624,1125,1184,17500,5010,102,12000,-89.3648183,40.1483768
+University of Chicago,Chicago,IL,Midwest,Graduate,Private,CoEd,0.0876,1505,5729,49380,17082,14,12500,-87.6297982,41.8781136
+Northeastern Illinois University,Chicago,IL,Midwest,Graduate,Public,CoEd,0.5761,890,8284,8868,7022,61,14293,-87.6297982,41.8781136
+Governors State University,University Park,IL,Midwest,Graduate,Public,CoEd,0.9409,909,3557,9386,6580,40,16350,-87.6833769,41.4400344
+University of Illinois at Chicago,Chicago,IL,Midwest,Graduate,Public,CoEd,0.7448,1125,16635,13634,10600,32,18750,-87.6297982,41.8781136
+Northwestern University,Evanston,IL,Midwest,Graduate,Private,CoEd,0.1311,1461,8725,47251,15044,10,18900,-87.6876969,42.0450722
+University of Illinois at Springfield,Springfield,IL,Midwest,Graduate,Public,CoEd,0.6158,1081,2969,11367,7553,34,19500,-89.6501481,39.7817213
+University of Illinois at Urbana-Champaign,Champaign,IL,Midwest,Graduate,Public,CoEd,0.5904,1326,31875,15020,11830,21,20500,-88.2433829,40.1164204
+Greenville College,Greenville,IL,Midwest,Graduate,Private,CoEd,0.5568,1056,1055,24360,5888,53,21500,-89.4131356,38.8922687
+Aurora University,Aurora,IL,Midwest,Graduate,Private,CoEd,0.811,1010,3199,21320,7695,37,21677.5,-88.3200715,41.7605849
+Southern Illinois University-Edwardsville,Edwardsville,IL,Midwest,Graduate,Public,CoEd,0.8696,1070,11371,9738,7866,59,21875,-89.953157,38.8114364
+Elmhurst College,Elmhurst,IL,Midwest,Graduate,Private,CoEd,0.6771,1089,2773,33950,7524,25,22000,-87.9403418,41.8994744
+Southern Illinois University-Carbondale,Carbondale,IL,Midwest,Graduate,Public,CoEd,0.8153,1055,13171,12248,6882,83,22250,-89.2167501,37.7272727
+Illinois State University,Normal,IL,Midwest,Graduate,Public,CoEd,0.7388,1110,18056,13296,7962,28,22500,-88.9906312,40.5142026
+Wheaton College,Wheaton,IL,Midwest,Graduate,Private,CoEd,0.6915,1311,2402,31900,8607,11,22500,-88.1070127,41.8661403
+Quincy University,Quincy,IL,Midwest,Graduate,Private,CoEd,0.8893,1024,1075,26572,5651,66,22727.5,-91.4098726,39.9356016
+Lincoln Christian University,Lincoln,IL,Midwest,Graduate,Private,CoEd,0.4758,1006,553,16050,5271,61,22750,-89.3648183,40.1483768
+Benedictine University,Lisle,IL,Midwest,Graduate,Private,CoEd,0.7717,1030,3750,26558,7575,44,23000,-88.0747875,41.801141
+Eastern Illinois University,Charleston,IL,Midwest,Graduate,Public,CoEd,0.4976,1010,7525,11108,7893,55,23250,-88.1761521,39.4961458
+Northern Illinois University,Dekalb,IL,Midwest,Graduate,Public,CoEd,0.5089,1030,15391,13505,7828,69,23347,-88.7503647,41.9294736
+Judson University,Elgin,IL,Midwest,Graduate,Private,CoEd,0.7312,1080,1051,27530,6422,42,23500,-88.2825668,42.0354084
+Roosevelt University,Chicago,IL,Midwest,Graduate,Private,CoEd,0.7764,1050,3727,26900,7939,66,23562.5,-87.6297982,41.8781136
+Western Illinois University,Macomb,IL,Midwest,Graduate,Public,CoEd,0.6964,970,9645,12217,8439,55,24091,-90.6717971,40.4592076
+Saint Xavier University,Chicago,IL,Midwest,Graduate,Private,CoEd,0.4964,1008,2940,30100,7789,50,24250,-87.6297982,41.8781136
+McKendree University,Lebanon,IL,Midwest,Graduate,Private,CoEd,0.6115,1048,2452,26900,6728,62,24447.5,-89.8073195,38.6039375
+Concordia University-Chicago,River Forest,IL,Midwest,Graduate,Private,CoEd,0.5385,1031,1491,28718,4048,34,25000,-87.8139483,41.8978091
+Dominican University,River Forest,IL,Midwest,Graduate,Private,CoEd,0.6067,1029,2149,29770,6819,28,25000,-87.8139483,41.8978091
+Olivet Nazarene University,Bourbonnais,IL,Midwest,Graduate,Private,CoEd,0.7449,1105,3504,31390,7004,43,25000,-87.879523,41.1760108
+School of the Art Institute of Chicago,Chicago,IL,Midwest,Graduate,Private,CoEd,0.6915,1065,2783,42230,7156,72,25000,-87.6297982,41.8781136
+University of St Francis,Joliet,IL,Midwest,Graduate,Private,CoEd,0.5056,1064,1732,28790,7694,47,25000,-88.0817251,41.525031
+Lewis University,Romeoville,IL,Midwest,Graduate,Private,CoEd,0.6191,1070,4605,27830,9078,40,25000,-88.0895061,41.6475306
+Loyola University Chicago,Chicago,IL,Midwest,Graduate,Private,CoEd,0.6334,1212,10042,37412,9929,33,25000,-87.6297982,41.8781136
+Eureka College,Eureka,IL,Midwest,Bachelor,Private,CoEd,0.6448,1053,652,20060,5969,61,25375,-89.2728627,40.7214251
+North Central College,Naperville,IL,Midwest,Graduate,Private,CoEd,0.5984,1125,2685,34230,8104,33,25515,-88.1535352,41.7508391
+Rockford University,Rockford,IL,Midwest,Graduate,Private,CoEd,0.548,1009,1017,27530,5306,72,25700,-89.0939952,42.2711311
+Blackburn College,Carlinville,IL,Midwest,Bachelor,Private,CoEd,0.651,989,578,19560,5784,126,26000,-89.8817662,39.2797699
+Trinity Christian College,Palos Heights,IL,Midwest,Graduate,Private,CoEd,0.9022,1080,1237,25515,6092,31,26196.5,-87.7964416,41.6680885
+North Park University,Chicago,IL,Midwest,Graduate,Private,CoEd,0.5461,1025,2181,24600,7895,52,26500,-87.6297982,41.8781136
+Millikin University,Decatur,IL,Midwest,Graduate,Private,CoEd,0.6273,1046,2082,29620,5818,71,27000,-88.9548001,39.8403147
+Trinity International University-Illinois,Deerfield,IL,Midwest,Graduate,Private,CoEd,1,1062,857,27360,7129,61,27000,-87.8445119,42.1711365
+Illinois Wesleyan University,Bloomington,IL,Midwest,Bachelor,Private,CoEd,0.6043,1249,1883,40844,7863,22,27000,-88.9936873,40.4842027
+Bradley University,Peoria,IL,Midwest,Graduate,Private,CoEd,0.643,1162,4585,30844,8457,21,27000,-89.5889864,40.6936488
+Illinois Institute of Technology,Chicago,IL,Midwest,Graduate,Private,CoEd,0.506,1266,3046,41645,11923,26,27000,-87.6297982,41.8781136
+Monmouth College,Monmouth,IL,Midwest,Bachelor,Private,CoEd,0.6906,1033,1281,33200,6814,64,27436,-90.6473576,40.9114271
+MacMurray College,Jacksonville,IL,Midwest,Bachelor,Private,CoEd,0.7837,970,546,23600,5323,108,28155,-90.2290098,39.733936
+Chicago State University,Chicago,IL,Midwest,Graduate,Public,CoEd,0.2996,870,3874,9846,7380,133,30269,-87.6297982,41.8781136
+Methodist College,Peoria,IL,Midwest,Bachelor,Private,CoEd,0.4386,930,595,19600,6261,30,30600.5,-89.5889864,40.6936488
+Oakland City University,Oakland City,IN,Midwest,Graduate,Private,CoEd,0.5504,960,616,19800,4290,78,16973,-87.3450132,38.3386591
+Indiana University-Kokomo,Kokomo,IN,Midwest,Graduate,Public,CoEd,0.6726,934,2724,6811,5696,108,19052,-86.1336033,40.486427
+Goshen College,Goshen,IN,Midwest,Graduate,Private,CoEd,0.54,1109,746,29700,5910,33,20671,-85.8344383,41.5822716
+Indiana University-East,Richmond,IN,Midwest,Graduate,Public,CoEd,0.6376,943,3200,6787,5819,131,21172,-84.8902382,39.8289369
+University of Notre Dame,Notre Dame,IN,Midwest,Graduate,Private,CoEd,0.2114,1450,8427,46237,13102,6,21250,-86.2353388,41.7055716
+Purdue University-Calumet Campus,Hammond,IN,Midwest,Graduate,Public,CoEd,0.5968,965,7316,6758,8118,94,22028,-87.5000412,41.5833688
+Grace College and Theological Seminary,Winona Lake,IN,Midwest,Graduate,Private,CoEd,0.8012,1110,1478,24670,6425,46,22375,-85.8219345,41.2272668
+Indiana University-Southeast,New Albany,IN,Midwest,Graduate,Public,CoEd,0.8032,959,5476,6827,6624,105,22500,-85.8241312,38.2856247
+Purdue University-Main Campus,West Lafayette,IN,Midwest,Graduate,Public,CoEd,0.5929,1213,29977,10002,11141,34,22500,-86.9080655,40.4258686
+University of Southern Indiana,Evansville,IN,Midwest,Graduate,Public,CoEd,0.7134,1001,8233,6957,6785,67,22866,-87.5710898,37.9715592
+Indiana University-Bloomington,Bloomington,IN,Midwest,Graduate,Public,CoEd,0.7609,1198,32252,10388,9783,39,23000,-86.5263857,39.165325
+Indiana State University,Terre Haute,IN,Midwest,Graduate,Public,CoEd,0.8254,913,10497,8416,7057,96,23713,-87.4139092,39.4667034
+Indiana University-Purdue University-Indianapolis,Indianapolis,IN,Midwest,Graduate,Public,CoEd,0.7049,1010,21777,8909,7799,59,24147.5,-86.158068,39.768403
+Indiana Wesleyan University-Marion,Marion,IN,Midwest,Graduate,Private,CoEd,0.9505,1081,10218,24102,6993,54,24160,-85.6591442,40.5583739
+Taylor University,Upland,IN,Midwest,Graduate,Private,CoEd,0.8803,1184,1855,29538,6559,36,24500,-85.4944168,40.4755974
+Holy Cross College,Notre Dame,IN,Midwest,Bachelor,Private,CoEd,0.9316,969,512,27150,4612,102,25000,-86.2353388,41.7055716
+Purdue University-North Central Campus,Westville,IN,Midwest,Graduate,Public,CoEd,0.7251,959,3231,7329,7014,103,25000,-86.9005825,41.5414297
+Ball State University,Muncie,IN,Midwest,Graduate,Public,CoEd,0.5988,1066,15895,9344,7454,49,25000,-85.3863599,40.1933767
+Wabash College,Crawfordsville,IN,Midwest,Bachelor,Private,Men,0.6998,1128,923,37750,8554,69,25000,-86.8744516,40.0411536
+DePauw University,Greencastle,IN,Midwest,Bachelor,Private,CoEd,0.566,1213,2185,42746,9104,45,25000,-86.8647316,39.6444898
+Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,Midwest,Graduate,Public,CoEd,0.9087,1002,9314,7949,7360,100,25500,-85.1393513,41.079273
+Indiana University-South Bend,South Bend,IN,Midwest,Graduate,Public,CoEd,0.7333,942,5398,6905,5766,104,25537,-86.2519898,41.6763545
+University of Saint Francis-Fort Wayne,Fort Wayne,IN,Midwest,Graduate,Private,CoEd,0.9686,981,1796,25930,5763,55,25750,-85.1393513,41.079273
+Trine University,Angola,IN,Midwest,Graduate,Private,CoEd,0.7599,1078,1654,29600,7632,82,26000,-84.9994088,41.6347726
+University of Evansville,Evansville,IN,Midwest,Graduate,Private,CoEd,0.8295,1144,2266,31776,7644,23,26450,-87.5710898,37.9715592
+Huntington University,Huntington,IN,Midwest,Graduate,Private,CoEd,0.9711,1034,1001,24771,6127,27,26745,-85.497476,40.8831011
+Saint Josephs College,Rensselaer,IN,Midwest,Graduate,Private,CoEd,0.6641,996,1074,27890,5523,76,27000,-87.1508562,40.9367045
+Marian University,Indianapolis,IN,Midwest,Graduate,Private,CoEd,0.5644,1036,1999,29400,5989,47,27000,-86.158068,39.768403
+Anderson University,Anderson,IN,Midwest,Graduate,Private,CoEd,0.5491,1048,1831,26850,6449,46,27000,-85.6802541,40.1053196
+Indiana University-Northwest,Gary,IN,Midwest,Graduate,Public,CoEd,0.7678,916,4370,6854,6586,122,27000,-87.3464271,41.5933696
+Franklin College,Franklin,IN,Midwest,Bachelor,Private,CoEd,0.6922,1031,1022,28185,6637,30,27000,-86.0549863,39.4806055
+Manchester University,North Manchester,IN,Midwest,Graduate,Private,CoEd,0.7428,1000,1254,29040,6850,84,27000,-85.768597,41.0006005
+Saint Mary's College,Notre Dame,IN,Midwest,Bachelor,Private,Women,0.8334,1144,1508,35970,7047,17,27000,-86.2353388,41.7055716
+University of Indianapolis,Indianapolis,IN,Midwest,Graduate,Private,CoEd,0.6648,1018,4136,25414,7090,60,27000,-86.158068,39.768403
+Valparaiso University,Valparaiso,IN,Midwest,Graduate,Private,CoEd,0.8236,1155,3210,34760,7110,30,27000,-87.0611412,41.4730948
+Butler University,Indianapolis,IN,Midwest,Graduate,Private,CoEd,0.6846,1205,4013,35652,7625,16,27000,-86.158068,39.768403
+Hanover College,Hanover,IN,Midwest,Bachelor,Private,CoEd,0.6447,1101,1136,33023,7711,41,27000,-85.4735707,38.7142263
+Rose-Hulman Institute of Technology,Terre Haute,IN,Midwest,Graduate,Private,CoEd,0.5879,1308,2208,43683,10195,17,27000,-87.4139092,39.4667034
+Indiana Institute of Technology,Fort Wayne,IN,Midwest,Graduate,Private,CoEd,0.7057,965,6397,24860,7244,127,27013.5,-85.1393513,41.079273
+Saint Mary-of-the-Woods College,Saint Mary of the Woods,IN,Midwest,Graduate,Private,CoEd,1,943,678,28351,5017,70,28000,-87.4669729,39.5107254
+Cleveland University-Kansas City,Overland Park,KS,Midwest,Graduate,Private,CoEd,1,1050,47,9120,5060,52,9062.5,-94.6707917,38.9822282
+MidAmerica Nazarene University,Olathe,KS,Midwest,Graduate,Private,CoEd,0.6899,1010,1322,24250,6327,54,17010,-94.8191285,38.8813958
+Pittsburg State University,Pittsburg,KS,Midwest,Graduate,Public,CoEd,0.7919,1010,5842,6230,7094,85,19557,-94.70496,37.410884
+University of Kansas,Lawrence,KS,Midwest,Graduate,Public,CoEd,0.9142,1145,18802,10448,9845,44,19793,-95.2352501,38.9716689
+Manhattan Christian College,Manhattan,KS,Midwest,Bachelor,Private,CoEd,0.5909,1030,289,13642,5219,69,19822.5,-96.5716694,39.1836082
+Newman University,Wichita,KS,Midwest,Graduate,Private,CoEd,0.5281,1076,1182,24800,5688,65,20216.5,-97.330053,37.6871761
+Emporia State University,Emporia,KS,Midwest,Graduate,Public,CoEd,0.7649,1009,3777,5746,6474,70,20848,-96.1816626,38.403903
+Tabor College,Hillsboro,KS,Midwest,Bachelor,Private,CoEd,0.8568,1037,708,23900,4724,76,21500,-97.2044723,38.3519555
+Central Christian College of Kansas,McPherson,KS,Midwest,Bachelor,Private,CoEd,0.4963,966,985,16204,3436,156,23375,-97.6642087,38.3708415
+University of Saint Mary,Leavenworth,KS,Midwest,Graduate,Private,CoEd,0.475,1002,819,24450,5811,50,24000,-94.9224637,39.3111112
+Friends University,Wichita,KS,Midwest,Graduate,Private,CoEd,0.6138,1029,1339,24630,6539,79,24500,-97.330053,37.6871761
+McPherson College,McPherson,KS,Midwest,Bachelor,Private,CoEd,0.9928,1005,619,24035,5519,90,25000,-97.6642087,38.3708415
+Kansas Wesleyan University,Salina,KS,Midwest,Graduate,Private,CoEd,0.6147,1059,643,25200,5671,63,25000,-97.6114237,38.8402805
+Baker University,Baldwin City,KS,Midwest,Graduate,Private,CoEd,0.6953,1059,1649,26370,5745,53,25250,-95.1863603,38.775007
+Southwestern College,Winfield,KS,Midwest,Graduate,Private,CoEd,0.8793,1007,1288,24835,5646,50,25450,-96.9955918,37.2397486
+Sterling College,Sterling,KS,Midwest,Bachelor,Private,CoEd,0.4437,978,701,21950,4526,91,25500,-98.2070059,38.2100111
+Benedictine College,Atchison,KS,Midwest,Graduate,Private,CoEd,0.9778,1120,1836,25100,6299,31,26000,-95.1216356,39.5630521
+Bethel College-North Newton,North Newton,KS,Midwest,Bachelor,Private,CoEd,0.491,1000,483,24200,5463,71,26050,-97.3455917,38.0722333
+Bethany College,Lindsborg,KS,Midwest,Bachelor,Private,CoEd,0.9745,969,637,24390,4100,131,27000,-97.6744838,38.5736176
+Berea College,Berea,KY,South,Bachelor,Private,CoEd,0.3366,1125,1577,24270,7556,95,6056,-84.2963223,37.568694
+University of the Cumberlands,Williamsburg,KY,South,Graduate,Private,CoEd,0.6628,1038,1844,20000,5404,62,16382.5,-84.1596561,36.7434169
+Alice Lloyd College,Pippa Passes,KY,South,Bachelor,Private,CoEd,0.3617,1008,657,10980,4569,139,16495,-82.8740498,37.334822
+Campbellsville University,Campbellsville,KY,South,Graduate,Private,CoEd,0.7272,964,2119,22842,5437,149,18500,-85.3419069,37.3433974
+University of Louisville,Louisville,KY,South,Graduate,Public,CoEd,0.7386,1144,15038,10432,9450,74,20493,-85.7584557,38.2526647
+Murray State University,Murray,KY,South,Graduate,Public,CoEd,0.7996,1064,8126,7392,7011,104,20907.5,-88.314761,36.6103334
+University of Kentucky,Lexington,KY,South,Graduate,Public,CoEd,0.7221,1142,21725,10616,9766,55,21500,-84.5037164,38.0405837
+University of Pikeville,Pikeville,KY,South,Graduate,Private,CoEd,1,966,1329,18290,8782,149,23000,-82.5187629,37.4792672
+Eastern Kentucky University,Richmond,KY,South,Graduate,Public,CoEd,0.7387,1008,13323,7920,6954,116,23500,-84.2946539,37.7478572
+Kentucky Wesleyan College,Owensboro,KY,South,Bachelor,Private,CoEd,0.6072,1021,691,22230,5154,104,23567.5,-87.1111676,37.7719074
+Western Kentucky University,Bowling Green,KY,South,Graduate,Public,CoEd,0.9332,1047,15388,9140,7082,118,24010.5,-86.4808043,36.9685219
+Northern Kentucky University,Highland Heights,KY,South,Graduate,Public,CoEd,0.9072,1046,11654,8856,6905,95,24184,-84.4518854,39.0331169
+Morehead State University,Morehead,KY,South,Graduate,Public,CoEd,0.8443,1029,7212,7866,6638,97,25000,-83.4326841,38.1839705
+Spalding University,Louisville,KY,South,Graduate,Private,CoEd,0.4571,967,1227,22950,7024,89,25000,-85.7584557,38.2526647
+Bellarmine University,Louisville,KY,South,Graduate,Private,CoEd,0.834,1120,2499,36290,7648,41,25000,-85.7584557,38.2526647
+Asbury University,Wilmore,KY,South,Graduate,Private,CoEd,0.687,1135,1499,26868,6303,38,25250,-84.6616105,37.8620226
+Kentucky Christian University,Grayson,KY,South,Graduate,Private,CoEd,0.4774,966,547,16830,4676,130,26500,-82.9485023,38.3325812
+Georgetown College,Georgetown,KY,South,Graduate,Private,CoEd,0.8875,1102,972,32960,6322,55,27000,-84.5588311,38.2097967
+Thomas More College,Crestview Hills,KY,South,Graduate,Private,CoEd,0.9328,982,1243,28743,6378,59,27000,-84.5849438,39.0272829
+Centre College,Danville,KY,South,Bachelor,Private,CoEd,0.7157,1263,1379,37100,7855,15,27000,-84.7721702,37.6456329
+Transylvania University,Lexington,KY,South,Bachelor,Private,CoEd,0.8262,1230,1014,33360,8294,24,27000,-84.5037164,38.0405837
+Brescia University,Owensboro,KY,South,Graduate,Private,CoEd,0.4927,1039,1003,19990,5287,103,30500,-87.1111676,37.7719074
+Kentucky State University,Frankfort,KY,South,Graduate,Public,CoEd,0.4769,883,1627,7404,6179,184,30982,-84.8732835,38.2009055
+Louisiana State University-Alexandria,Alexandria,LA,South,Graduate,Public,CoEd,0.5455,987,2244,6009,5340,115,16021.5,-92.4451371,31.3112936
+University of New Orleans,New Orleans,LA,South,Graduate,Public,CoEd,0.4357,1082,6742,7392,7540,75,16989,-90.0715323,29.9510658
+Louisiana State University-Shreveport,Shreveport,LA,South,Graduate,Public,CoEd,0.7667,1050,2640,6168,6320,87,17250,-93.7501789,32.5251516
+Louisiana State University and Agricultural & Mechanical College,Baton Rouge,LA,South,Graduate,Public,CoEd,0.7663,1161,24452,8750,9461,38,20000,-91.1403196,30.4582829
+University of Louisiana at Lafayette,Lafayette,LA,South,Graduate,Public,CoEd,0.558,1070,14667,6872,7652,76,20250,-92.0198427,30.2240897
+Nicholls State University,Thibodaux,LA,South,Graduate,Public,CoEd,0.8837,1031,5513,7234,5803,91,20308,-90.822871,29.7957633
+Louisiana Tech University,Ruston,LA,South,Graduate,Public,CoEd,0.6503,1104,7272,8052,7344,70,20500,-92.637927,32.5232053
+McNeese State University,Lake Charles,LA,South,Graduate,Public,CoEd,0.7527,1030,6597,6334,6419,120,20785,-93.2173758,30.2265949
+University of Louisiana at Monroe,Monroe,LA,South,Graduate,Public,CoEd,0.7722,1030,5799,6963,6976,94,21082.5,-92.1193012,32.5093109
+Southeastern Louisiana University,Hammond,LA,South,Graduate,Public,CoEd,0.8373,1030,11199,6547,6306,77,21313,-90.4611995,30.5043583
+Northwestern State University of Louisiana,Natchitoches,LA,South,Graduate,Public,CoEd,0.7298,1027,6828,6863,6054,108,22375,-93.0862749,31.7607195
+Southern University at New Orleans,New Orleans,LA,South,Graduate,Public,CoEd,0.207,806,1658,5218,5676,118,23590,-90.0715323,29.9510658
+Louisiana College,Pineville,LA,South,Graduate,Private,CoEd,0.6106,990,957,14570,5561,80,23743.5,-92.4343035,31.3224044
+Our Lady of the Lake College,Baton Rouge,LA,South,Graduate,Private,CoEd,0.726,1010,1551,11144,7056,45,25000,-91.1403196,30.4582829
+Centenary College of Louisiana,Shreveport,LA,South,Graduate,Private,CoEd,0.6567,1109,548,33500,7143,56,25000,-93.7501789,32.5251516
+Loyola University New Orleans,New Orleans,LA,South,Graduate,Private,CoEd,0.9025,1135,2734,36630,8648,41,25500,-90.0715323,29.9510658
+Xavier University of Louisiana,New Orleans,LA,South,Graduate,Private,CoEd,0.6599,1039,2313,21552,8131,103,27000,-90.0715323,29.9510658
+Tulane University of Louisiana,New Orleans,LA,South,Graduate,Private,CoEd,0.2795,1342,7892,48305,10897,41,27000,-90.0715323,29.9510658
+Southern University and A & M College,Baton Rouge,LA,South,Graduate,Public,CoEd,0.5365,910,5133,6630,5683,114,31271.5,-91.1403196,30.4582829
+Dillard University,New Orleans,LA,South,Bachelor,Private,CoEd,0.4059,886,1200,16252,6582,152,35000,-90.0715323,29.9510658
+Grambling State University,Grambling,LA,South,Graduate,Public,CoEd,0.4395,868,3520,6525,6246,153,37524,-92.7140402,32.5276503
+Harvard University,Cambridge,MA,Northeast,Graduate,Private,CoEd,0.0596,1501,7236,43938,19115,9,6500,-71.1097335,42.3736158
+Wellesley College,Wellesley,MA,Northeast,Bachelor,Private,Women,0.3011,1390,2172,45078,11511,25,9000,-71.2923877,42.296797
+Amherst College,Amherst,MA,Northeast,Bachelor,Private,CoEd,0.1384,1439,1792,48526,12035,15,11706,-72.5198537,42.3732216
+Williams College,Williamstown,MA,Northeast,Graduate,Private,CoEd,0.1932,1452,2019,48310,11865,23,13211.5,-73.2036898,42.7120196
+Massachusetts Institute of Technology,Cambridge,MA,Northeast,Graduate,Private,CoEd,0.0788,1500,4476,45016,16314,17,14990,-71.1097335,42.3736158
+Franklin W Olin College of Engineering,Needham,MA,Northeast,Bachelor,Private,CoEd,0.12,1475,334,46681,10552,1,16125,-71.2377548,42.2809285
+Dean College,Franklin,MA,Northeast,Bachelor,Private,CoEd,0.6866,857,1256,34390,6165,149,17184.5,-71.396725,42.0834313
+Tufts University,Medford,MA,Northeast,Graduate,Private,CoEd,0.1724,1423,5143,48643,11496,15,18000,-71.1061639,42.4184296
+Boston College,Chestnut Hill,MA,Northeast,Graduate,Private,CoEd,0.3391,1380,9483,47436,13825,6,19000,-71.166187,42.3303798
+Worcester State University,Worcester,MA,Northeast,Graduate,Public,CoEd,0.613,997,5063,8557,8567,59,19500,-71.8022934,42.2625932
+Fitchburg State University,Fitchburg,MA,Northeast,Graduate,Public,CoEd,0.7231,1004,4134,9260,8387,58,22650,-71.8022955,42.5834228
+Bay Path University,Longmeadow,MA,Northeast,Graduate,Private,Women,0.6305,951,1574,30859,7838,64,22878.5,-72.5828642,42.0501022
+Westfield State University,Westfield,MA,Northeast,Graduate,Public,CoEd,0.7456,997,5429,8682,7701,26,23175,-72.749538,42.1250929
+Framingham State University,Framingham,MA,Northeast,Graduate,Public,CoEd,0.6226,1011,4329,8320,8033,50,23979,-71.4161565,42.279286
+Emerson College,Boston,MA,Northeast,Graduate,Private,CoEd,0.4918,1244,3757,37350,9470,11,24000,-71.0588801,42.3600825
+University of Massachusetts-Amherst,Amherst,MA,Northeast,Graduate,Public,CoEd,0.6139,1217,21864,13443,11456,40,24300,-72.5198537,42.3732216
+Eastern Nazarene College,Quincy,MA,Northeast,Graduate,Private,CoEd,0.5287,918,1054,29012,5990,53,24362,-71.0022705,42.2528772
+Bridgewater State University,Bridgewater,MA,Northeast,Graduate,Public,CoEd,0.7931,991,9500,8353,8493,51,24500,-70.9750541,41.9903519
+Springfield College,Springfield,MA,Northeast,Graduate,Private,CoEd,0.7087,1025,2136,33455,8202,70,24826.5,-72.589811,42.1014831
+Lesley University,Cambridge,MA,Northeast,Graduate,Private,CoEd,0.7149,1086,1727,24375,7833,38,25000,-71.1097335,42.3736158
+Massachusetts College of Liberal Arts,North Adams,MA,Northeast,Graduate,Public,CoEd,0.7227,977,1517,8975,8227,46,25000,-73.1087148,42.700915
+Salem State University,Salem,MA,Northeast,Graduate,Public,CoEd,0.7057,984,7180,8646,8921,78,25000,-70.8967155,42.51954
+University of Massachusetts-Lowell,Lowell,MA,Northeast,Graduate,Public,CoEd,0.6201,1145,12190,12447,11281,53,25000,-71.3161718,42.6334247
+University of Massachusetts-Dartmouth,North Dartmouth,MA,Northeast,Graduate,Public,CoEd,0.7682,1025,7185,11681,10261,57,25750,-70.9694555,41.640396
+College of Our Lady of the Elms,Chicopee,MA,Northeast,Graduate,Private,CoEd,0.7897,946,1336,31188,6795,70,26000,-72.6078672,42.1487043
+Becker College,Worcester,MA,Northeast,Bachelor,Private,CoEd,0.6247,1015,1975,32870,7661,122,26000,-71.8022934,42.2625932
+Curry College,Milton,MA,Northeast,Graduate,Private,CoEd,0.8688,948,2843,35725,9145,66,26000,-71.0661653,42.2495321
+Massachusetts College of Art and Design,Boston,MA,Northeast,Graduate,Public,CoEd,0.7294,1077,1781,11225,9297,83,26000,-71.0588801,42.3600825
+Simmons College,Boston,MA,Northeast,Graduate,Private,Women,0.5216,1170,1598,36230,8020,20,26250,-71.0588801,42.3600825
+Boston Baptist College,Boston,MA,Northeast,Bachelor,Private,CoEd,0.7391,875,73,14836,4592,48,26750.5,-71.0588801,42.3600825
+American International College,Springfield,MA,Northeast,Graduate,Private,CoEd,0.6757,887,1473,30940,6062,62,27000,-72.589811,42.1014831
+Mount Ida College,Newton,MA,Northeast,Graduate,Private,CoEd,0.6849,886,1290,30447,6353,99,27000,-71.2092214,42.3370413
+Wheelock College,Boston,MA,Northeast,Graduate,Private,CoEd,0.8752,963,867,32830,6963,37,27000,-71.0588801,42.3600825
+Gordon College,Wenham,MA,Northeast,Graduate,Private,CoEd,0.8837,1161,1703,34390,7243,13,27000,-70.8911612,42.604261
+Lasell College,Newton,MA,Northeast,Graduate,Private,CoEd,0.7632,974,1727,31000,7466,49,27000,-71.2092214,42.3370413
+Massachusetts Maritime Academy,Buzzards Bay,MA,Northeast,Graduate,Public,CoEd,0.616,1105,1395,7250,7830,42,27000,-70.618087,41.7453829
+Wentworth Institute of Technology,Boston,MA,Northeast,Graduate,Private,CoEd,0.8264,1116,4295,30765,8168,42,27000,-71.0588801,42.3600825
+Emmanuel College,Boston,MA,Northeast,Graduate,Private,CoEd,0.693,1093,1967,35532,8440,48,27000,-71.0588801,42.3600825
+MCPHS University,Boston,MA,Northeast,Graduate,Private,CoEd,0.8401,1074,3944,30400,8488,10,27000,-71.0588801,42.3600825
+Suffolk University,Boston,MA,Northeast,Graduate,Private,CoEd,0.8391,1049,5274,32660,8672,37,27000,-71.0588801,42.3600825
+Western New England University,Springfield,MA,Northeast,Graduate,Private,CoEd,0.8015,1077,2722,33466,9582,43,27000,-72.589811,42.1014831
+Brandeis University,Waltham,MA,Northeast,Graduate,Private,CoEd,0.3522,1369,3715,47558,12113,24,27000,-71.2356113,42.3764852
+Bentley University,Waltham,MA,Northeast,Graduate,Private,CoEd,0.4611,1247,4190,42511,12401,11,27000,-71.2356113,42.3764852
+Boston University,Boston,MA,Northeast,Graduate,Private,CoEd,0.3451,1300,16457,46664,12562,18,27000,-71.0588801,42.3600825
+Babson College,Wellesley,MA,Northeast,Graduate,Private,CoEd,0.2631,1272,2107,45120,15140,11,27000,-71.2923877,42.296797
+Northeastern University,Boston,MA,Northeast,Graduate,Private,CoEd,0.3222,1420,13492,43440,11983,28,28501,-71.0588801,42.3600825
+Pine Manor College,Chestnut Hill,MA,Northeast,Graduate,Private,CoEd,0.6784,780,401,26180,6191,172,32125,-71.166187,42.3303798
+Johns Hopkins University,Baltimore,MD,South,Graduate,Private,CoEd,0.1608,1439,6039,47060,10307,15,16250,-76.6121893,39.2903848
+Towson University,Towson,MD,South,Graduate,Public,CoEd,0.5921,1082,18546,8590,7148,39,18500,-76.6019125,39.4014955
+Coppin State University,Baltimore,MD,South,Graduate,Public,CoEd,0.43120000000000003,880,2652,6624,7291,165,19500,-76.6121893,39.2903848
+University of Maryland-College Park,College Park,MD,South,Graduate,Public,CoEd,0.4793,1315,26532,9427,12209,20,19500,-76.93776,38.9896967
+University of Baltimore,Baltimore,MD,South,Graduate,Public,CoEd,0.6204,920,3444,8018,10436,55,20500,-76.6121893,39.2903848
+St Mary's College of Maryland,St. Mary's City,MD,South,Graduate,Public,CoEd,0.7887,1188,1668,13824,7261,27,20962.5,-76.4343173,38.1872404
+University of Maryland-Baltimore County,Baltimore,MD,South,Graduate,Public,CoEd,0.5961,1213,11274,10384,9686,49,21943,-76.6121893,39.2903848
+Frostburg State University,Frostburg,MD,South,Graduate,Public,CoEd,0.5851,967,4765,7982,7015,91,22250,-78.928357,39.6581424
+Bowie State University,Bowie,MD,South,Graduate,Public,CoEd,0.5506,867,4401,7299,8178,120,22927,-76.7791365,39.0067768
+Capitol Technology University,Laurel,MD,South,Graduate,Private,CoEd,0.705,1075,406,22896,7030,68,23000,-76.8483061,39.0992752
+Stevenson University,Stevenson,MD,South,Graduate,Private,CoEd,0.6231,990,3778,28980,8130,61,25803,-76.7132892,39.4105843
+Mount St Mary's University,Emmitsburg,MD,South,Graduate,Private,CoEd,0.6687,1048,1806,36021,7517,15,25995,-77.3269307,39.7045417
+Washington Adventist University,Takoma Park,MD,South,Graduate,Private,CoEd,0.4492,854,790,21395,5418,82,27000,-77.0074765,38.9778882
+Maryland Institute College of Art,Baltimore,MD,South,Graduate,Private,CoEd,0.5416,1165,1907,42390,6721,50,27000,-76.6121893,39.2903848
+McDaniel College,Westminster,MD,South,Graduate,Private,CoEd,0.7613,1094,1649,38350,7079,40,27000,-76.9958149,39.5753791
+Notre Dame of Maryland University,Baltimore,MD,South,Graduate,Private,Women,0.4946,1048,1153,33010,7321,45,27000,-76.6121893,39.2903848
+University of Maryland Eastern Shore,Princess Anne,MD,South,Graduate,Public,CoEd,0.6127,842,3441,7287,7737,155,27000,-75.692427,38.2028993
+St John's College,Annapolis,MD,South,Graduate,Private,CoEd,0.8696,1323,429,47726,8299,72,27000,-76.4921829,38.9784453
+Morgan State University,Baltimore,MD,South,Graduate,Public,CoEd,0.6525,874,6239,7378,8502,164,31000,-76.6121893,39.2903848
+Maine College of Health Professions,Lewiston,ME,Northeast,Associate,Private,CoEd,0.3333,1000,178,9890,5628,29,16000,-70.2147764,44.100351
+University of Maine at Fort Kent,Fort Kent,ME,Northeast,Bachelor,Public,CoEd,0.7461,899,956,7575,6829,111,18500,-68.589491,47.2586502
+Colby College,Waterville,ME,Northeast,Bachelor,Private,CoEd,0.2805,1333,1847,47350,11500,1,19195.5,-69.6317121,44.5520105
+University of Southern Maine,Portland,ME,Northeast,Graduate,Public,CoEd,0.8395,998,5783,7796,9133,60,22913,-70.2553259,43.661471
+University of Maine,Orono,ME,Northeast,Graduate,Public,CoEd,0.8257,1078,8682,10606,9610,47,26150,-68.6719411,44.8831125
+Husson University,Bangor,ME,Northeast,Graduate,Private,CoEd,0.7195,951,2292,16097,6865,82,26250,-68.7778138,44.8011821
+Saint Joseph's College of Maine,Standish,ME,Northeast,Graduate,Private,CoEd,0.7853,965,1817,31920,6114,29,27000,-70.5509356,43.7355927
+University of New England,Biddeford,ME,Northeast,Graduate,Private,CoEd,0.8568,1073,2217,34080,7873,30,27000,-70.4533844,43.4925843
+University of Michigan-Ann Arbor,Ann Arbor,MI,Midwest,Graduate,Public,CoEd,0.3224,1380,28217,13486,10677,16,20495.5,-83.7430378,42.2808256
+Wayne State University,Detroit,MI,Midwest,Graduate,Public,CoEd,0.7733,1070,17242,11449,9856,90,21393,-83.0457538,42.331427
+Northern Michigan University,Marquette,MI,Midwest,Graduate,Public,CoEd,0.7209,1010,7718,9324,7578,96,22000,-87.3955954,46.5475825
+Northwood University-Michigan,Midland,MI,Midwest,Graduate,Private,CoEd,0.6947,1004,2808,23132,6225,88,22750,-84.2472116,43.6155825
+Cornerstone University,Grand Rapids,MI,Midwest,Graduate,Private,CoEd,0.6884,1051,2020,25112,5809,53,23438,-85.6680863,42.9633599
+Rochester College,Rochester Hills,MI,Midwest,Graduate,Private,CoEd,0.4059,972,976,20486,5517,64,23529,-83.1499322,42.6583661
+Ferris State University,Big Rapids,MI,Midwest,Graduate,Public,CoEd,0.7842,1010,12632,10677,8172,76,24425.5,-85.4836557,43.6980782
+Lake Superior State University,Sault Ste Marie,MI,Midwest,Graduate,Public,CoEd,0.9109,1028,2213,10253,6259,100,24454,-84.3453169,46.4952996
+Kuyper College,Grand Rapids,MI,Midwest,Bachelor,Private,CoEd,0.7065,1030,264,19084,5388,48,24750,-85.6680863,42.9633599
+Spring Arbor University,Spring Arbor,MI,Midwest,Graduate,Private,CoEd,0.6664,1035,2632,24350,4880,43,25000,-84.5527387,42.2050383
+Aquinas College,Grand Rapids,MI,Midwest,Graduate,Private,CoEd,0.6509,1090,1734,27906,6027,53,25000,-85.6680863,42.9633599
+Madonna University,Livonia,MI,Midwest,Graduate,Private,CoEd,0.5859,1049,2841,17390,7565,54,25000,-83.3527097,42.36837
+University of Detroit Mercy,Detroit,MI,Midwest,Graduate,Private,CoEd,0.6906,1110,2677,37320,8629,42,25000,-83.0457538,42.331427
+Oakland University,Rochester Hills,MI,Midwest,Graduate,Public,CoEd,0.67,1070,16528,10613,8809,49,25000,-83.1499322,42.6583661
+Cleary University,Howell,MI,Midwest,Graduate,Private,CoEd,0.7929,990,438,19200,4765,78,25458,-83.9293952,42.6072552
+Michigan State University,East Lansing,MI,Midwest,Graduate,Public,CoEd,0.6609,1158,38395,13200,10802,40,25458,-84.4838654,42.7369792
+Grand Valley State University,Allendale,MI,Midwest,Graduate,Public,CoEd,0.8043,1089,21561,10752,8045,39,25500,-85.9540407,42.9721934
+University of Michigan-Dearborn,Dearborn,MI,Midwest,Graduate,Public,CoEd,0.6267,1105,6906,10952,8859,57,25750,-83.1763145,42.3222599
+Kalamazoo College,Kalamazoo,MI,Midwest,Bachelor,Private,CoEd,0.6965,1239,1431,41161,8098,24,25936,-85.5872286,42.2917069
+Eastern Michigan University,Ypsilanti,MI,Midwest,Graduate,Public,CoEd,0.6887,1028,17723,9663,8960,102,26000,-83.6129939,42.2411499
+Michigan Technological University,Houghton,MI,Midwest,Graduate,Public,CoEd,0.755,1244,5576,14040,9518,38,26264,-88.5694182,47.1211331
+Western Michigan University,Kalamazoo,MI,Midwest,Graduate,Public,CoEd,0.8406,1030,18450,10685,9175,61,26587,-85.5872286,42.2917069
+Calvin College,Grand Rapids,MI,Midwest,Graduate,Private,CoEd,0.7314,1182,3825,29635,8189,15,26999.5,-85.6680863,42.9633599
+Olivet College,Olivet,MI,Midwest,Graduate,Private,CoEd,0.6143,917,945,23800,5268,78,27000,-84.9241542,42.4414273
+Alma College,Alma,MI,Midwest,Bachelor,Private,CoEd,0.7198,1101,1362,34220,5472,52,27000,-84.6597274,43.3789199
+Albion College,Albion,MI,Midwest,Bachelor,Private,CoEd,0.6079,1125,1249,37485,7108,30,27000,-84.7530304,42.243097
+Lawrence Technological University,Southfield,MI,Midwest,Graduate,Private,CoEd,0.5742,1127,2798,30200,7570,50,27000,-83.2218731,42.4733688
+Adrian College,Adrian,MI,Midwest,Graduate,Private,CoEd,0.6189,1009,1570,32660,7637,78,27000,-84.0371659,41.8975471
+Saginaw Valley State University,University Center,MI,Midwest,Graduate,Public,CoEd,0.7996,1030,8453,8691,7644,71,27000,-83.984501,43.5375937
+Kettering University,Flint,MI,Midwest,Graduate,Private,CoEd,0.7164,1223,1689,36980,7786,35,27000,-83.6874562,43.0125274
+Hope College,Holland,MI,Midwest,Bachelor,Private,CoEd,0.7741,1185,3312,29560,7922,22,27000,-86.1089301,42.7875235
+College for Creative Studies,Detroit,MI,Midwest,Graduate,Private,CoEd,0.4561,1010,1376,37092,8298,55,27000,-83.0457538,42.331427
+Central Michigan University,Mount Pleasant,MI,Midwest,Graduate,Public,CoEd,0.6927,1050,20297,11550,8439,55,27000,-84.7675139,43.5978075
+Finlandia University,Hancock,MI,Midwest,Bachelor,Private,CoEd,0.4545,910,464,21480,4693,113,27500,-88.5809563,47.1268714
+University of Michigan-Flint,Flint,MI,Midwest,Graduate,Public,CoEd,0.7864,993,6565,9694,7838,78,27500,-83.6874562,43.0125274
+Andrews University,Berrien Springs,MI,Midwest,Graduate,Private,CoEd,0.3688,1081,1629,26256,4979,53,27750,-86.338905,41.9464342
+Marygrove College,Detroit,MI,Midwest,Graduate,Private,CoEd,0.4842,800,881,20336,6030,72,35500,-83.0457538,42.331427
+Carleton College,Northfield,MN,Midwest,Bachelor,Private,CoEd,0.2277,1408,2042,47736,11246,4,17500,-93.161604,44.4582983
+Oak Hills Christian College,Bemidji,MN,Midwest,Bachelor,Private,CoEd,0.6667,964,124,15759,4136,38,19125,-94.8858492,47.4875361
+University of Minnesota-Morris,Morris,MN,Midwest,Bachelor,Public,CoEd,0.6359,1148,1803,12583,6795,43,19157,-95.9188889,45.5919444
+University of Minnesota-Crookston,Crookston,MN,Midwest,Bachelor,Public,CoEd,0.7196,1006,1876,11468,6835,78,19500,-96.6093911,47.7745617
+University of Minnesota-Rochester,Rochester,MN,Midwest,Bachelor,Public,CoEd,0.3759,1112,479,13056,5941,26,20500,-92.4801989,44.0121221
+Saint Mary's University of Minnesota,Winona,MN,Midwest,Graduate,Private,CoEd,0.7424,1067,1859,30315,6689,27,20500,-91.6663523,44.0553908
+University of Minnesota-Twin Cities,Minneapolis,MN,Midwest,Graduate,Public,CoEd,0.4535,1271,30135,13560,11091,26,20500,-93.2650108,44.977753
+The College of Saint Scholastica,Duluth,MN,Midwest,Graduate,Private,CoEd,0.6618,1106,2788,32842,6668,35,21500,-92.1004852,46.7866719
+Bemidji State University,Bemidji,MN,Midwest,Graduate,Public,CoEd,0.9353,1010,4386,8134,7585,57,21500,-94.8858492,47.4875361
+Martin Luther College,New Ulm,MN,Midwest,Graduate,Private,CoEd,0.9732,1125,744,12920,5501,15,22194,-94.4593018,44.3144394
+University of Northwestern-St Paul,Saint Paul,MN,Midwest,Graduate,Private,CoEd,0.6954,1110,1945,28726,6102,29,22250,-93.0899578,44.9537029
+Minnesota State University Moorhead,Moorhead,MN,Midwest,Graduate,Public,CoEd,0.8419,1049,5496,7816,7745,59,22250,-96.7678039,46.8737648
+Southwest Minnesota State University,Marshall,MN,Midwest,Graduate,Public,CoEd,0.6694,990,2359,8074,8046,66,22500,-95.7911916,44.448423
+Minnesota State University-Mankato,Mankato,MN,Midwest,Graduate,Public,CoEd,0.6658,1010,12332,7574,8145,44,22997,-93.9993996,44.1635775
+Saint Cloud State University,Saint Cloud,MN,Midwest,Graduate,Public,CoEd,0.8219,1010,10878,7553,8161,54,23185,-94.1632404,45.5579451
+Winona State University,Winona,MN,Midwest,Graduate,Public,CoEd,0.6304,1050,7944,8750,7652,41,23664.5,-91.6663523,44.0553908
+Macalester College,Saint Paul,MN,Midwest,Bachelor,Private,CoEd,0.3635,1354,2053,47195,9845,22,23747,-93.0899578,44.9537029
+Bethel University,Saint Paul,MN,Midwest,Graduate,Private,CoEd,0.9543,1146,2936,32990,7599,27,24069,-93.0899578,44.9537029
+Bethany Lutheran College,Mankato,MN,Midwest,Bachelor,Private,CoEd,0.7768,1070,503,24450,6442,53,25000,-93.9993996,44.1635775
+University of Minnesota-Duluth,Duluth,MN,Midwest,Graduate,Public,CoEd,0.7678,1110,9120,12802,7678,28,25190,-92.1004852,46.7866719
+Hamline University,Saint Paul,MN,Midwest,Graduate,Private,CoEd,0.6959,1101,2157,36270,6391,32,25500,-93.0899578,44.9537029
+North Central University,Minneapolis,MN,Midwest,Bachelor,Private,CoEd,0.912,1062,928,20776,6900,46,25500,-93.2650108,44.977753
+College of Saint Benedict,Saint Joseph,MN,Midwest,Bachelor,Private,Women,0.8218,1179,2020,39402,8112,10,26000,-94.317966,45.5647724
+Crown College,Saint Bonifacius,MN,Midwest,Graduate,Private,CoEd,0.284,1016,1032,23180,4691,39,26259,-93.7474636,44.9055181
+University of St Thomas,Saint Paul,MN,Midwest,Graduate,Private,CoEd,0.8662,949,6080,36682,10006,21,26722.5,-93.0899578,44.9537029
+Minneapolis College of Art and Design,Minneapolis,MN,Midwest,Graduate,Private,CoEd,0.6441,1088,658,34146,7182,56,26875,-93.2650108,44.977753
+Concordia College at Moorhead,Moorhead,MN,Midwest,Graduate,Private,CoEd,0.6428,1166,2296,34114,7049,23,27000,-96.7678039,46.8737648
+Augsburg College,Minneapolis,MN,Midwest,Graduate,Private,CoEd,0.6802,1074,2552,34431,7257,53,27000,-93.2650108,44.977753
+Saint Johns University,Collegeville,MN,Midwest,Graduate,Private,Men,0.7876,1155,1789,38704,8167,2,27000,-94.3641026,45.5938815
+St Olaf College,Northfield,MN,Midwest,Bachelor,Private,CoEd,0.5128,1292,2990,41700,8497,5,27000,-93.161604,44.4582983
+St Catherine University,Saint Paul,MN,Midwest,Graduate,Private,Women,0.6721,1032,3399,36420,6948,49,28065,-93.0899578,44.9537029
+Cottey College,Nevada,MO,Midwest,Bachelor,Private,Women,0.7063,1019,269,19300,6552,78,12000,-94.3546719,37.8392052
+Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,Midwest,Bachelor,Private,CoEd,0.6053,1050,1175,21830,5743,84,17093,-92.6837943,39.1458654
+Midwestern Baptist Theological Seminary,Kansas City,MO,Midwest,Graduate,Private,CoEd,0.7636,970,346,5760,4798,30,19000,-94.5785667,39.0997265
+Calvary Bible College and Theological Seminary,Kansas City,MO,Midwest,Graduate,Private,CoEd,1,1014,225,10600,3938,45,19399,-94.5785667,39.0997265
+Rockhurst University,Kansas City,MO,Midwest,Graduate,Private,CoEd,0.7694,1164,1671,32865,6901,36,19950,-94.5785667,39.0997265
+Washington University in St Louis,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.1713,1478,6913,46467,13731,14,20500,-90.1994042,38.6270025
+University of Missouri-Kansas City,Kansas City,MO,Midwest,Graduate,Public,CoEd,0.6426,1129,8127,7774,8481,72,20605,-94.5785667,39.0997265
+Southwest Baptist University,Bolivar,MO,Midwest,Graduate,Private,CoEd,0.6185,1070,2477,20840,5693,89,20990,-93.4104749,37.6144838
+Missouri Southern State University,Joplin,MO,Midwest,Graduate,Public,CoEd,0.96,990,5076,5416,6002,115,21000,-94.513281,37.0842271
+University of Missouri-St Louis,Saint Louis,MO,Midwest,Graduate,Public,CoEd,0.7578,1105,8936,8844,8340,76,21113.5,-90.1994042,38.6270025
+Missouri Baptist University,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.6023,984,1706,22760,5430,59,21250,-90.1994042,38.6270025
+University of Missouri-Columbia,Columbia,MO,Midwest,Graduate,Public,CoEd,0.7767,1166,27276,9433,9145,42,21647,-92.3340724,38.9517053
+Evangel University,Springfield,MO,Midwest,Graduate,Private,CoEd,0.6453,1055,1788,20796,6185,64,22062,-93.2922989,37.2089572
+Southeast Missouri State University,Cape Girardeau,MO,Midwest,Graduate,Public,CoEd,0.8478,1050,9382,7058,7060,101,22105,-89.5181476,37.3058839
+Truman State University,Kirksville,MO,Midwest,Graduate,Public,CoEd,0.7448,1226,5394,7374,7095,39,22250,-92.5832496,40.1947539
+William Woods University,Fulton,MO,Midwest,Graduate,Private,CoEd,0.763,1042,990,21260,5283,35,22282.5,-91.9479586,38.8467082
+Missouri State University-Springfield,Springfield,MO,Midwest,Graduate,Public,CoEd,0.8503,1090,16177,7008,7303,73,22313,-93.2922989,37.2089572
+University of Central Missouri,Warrensburg,MO,Midwest,Graduate,Public,CoEd,0.7795,1010,9017,7265,7008,88,22983,-93.7360498,38.7627893
+Drury University,Springfield,MO,Midwest,Graduate,Private,CoEd,0.7441,1185,3790,23885,6567,147,23454,-93.2922989,37.2089572
+Culver-Stockton College,Canton,MO,Midwest,Bachelor,Private,CoEd,0.5772,986,931,24050,4892,81,23702,-91.6251597,40.1250446
+Maryville University of Saint Louis,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.7205,1137,2736,25884,7280,55,24000,-90.1994042,38.6270025
+Webster University,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.7206,1105,3349,24600,8677,51,25000,-90.1994042,38.6270025
+Missouri University of Science and Technology,Rolla,MO,Midwest,Graduate,Public,CoEd,0.8585,1283,6418,8961,10238,31,25000,-91.7715303,37.948544
+Northwest Missouri State University,Maryville,MO,Midwest,Graduate,Public,CoEd,0.7658,1051,5222,6525,6547,78,25375,-94.8724706,40.3461017
+Saint Louis University,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.6108,1239,7822,37966,9089,43,25500,-90.1994042,38.6270025
+William Jewell College,Liberty,MO,Midwest,Bachelor,Private,CoEd,0.6283,1141,1043,31620,6480,56,26625,-94.4191177,39.2461138
+Avila University,Kansas City,MO,Midwest,Graduate,Private,CoEd,0.5198,1038,1321,25700,6679,68,26625,-94.5785667,39.0997265
+Fontbonne University,Saint Louis,MO,Midwest,Graduate,Private,CoEd,0.9061,1052,1121,22770,6267,61,26959,-90.1994042,38.6270025
+Saint Louis Christian College,Florissant,MO,Midwest,Bachelor,Private,CoEd,0.9333,990,166,9145,4715,96,27000,-90.322614,38.789217
+Stephens College,Columbia,MO,Midwest,Graduate,Private,Women,0.536,1064,667,28510,5451,60,27000,-92.3340724,38.9517053
+Lindenwood University,Saint Charles,MO,Midwest,Graduate,Private,CoEd,0.5288,1038,7986,15580,5841,34,27000,-90.4974359,38.7881062
+Kansas City Art Institute,Kansas City,MO,Midwest,Bachelor,Private,CoEd,0.5997,1086,650,35118,5906,102,27000,-94.5785667,39.0997265
+Westminster College,Fulton,MO,Midwest,Bachelor,Private,CoEd,0.6634,1114,943,22560,5935,101,27000,-91.9479586,38.8467082
+Mississippi University for Women,Columbus,MS,South,Graduate,Public,CoEd,0.9361,988,2316,5640,6070,75,14560,-88.4272627,33.4956744
+University of Mississippi,University,MS,South,Graduate,Public,CoEd,0.8122,1098,17809,7096,8817,80,20500,-89.538443,34.3647324
+William Carey University,Hattiesburg,MS,South,Graduate,Private,CoEd,0.5042,1080,2039,11400,5575,82,21376.5,-89.2903392,31.3271189
+Delta State University,Cleveland,MS,South,Graduate,Public,CoEd,0.9234,968,2778,6562,6024,103,22500,-90.7248187,33.7440023
+Mississippi State University,Mississippi State,MS,South,Graduate,Public,CoEd,0.7102,1126,15800,7140,8047,79,23537,-88.7903868,33.4555279
+University of Southern Mississippi,Hattiesburg,MS,South,Graduate,Public,CoEd,0.6674,1029,11939,6980,7251,110,25000,-89.2903392,31.3271189
+Rust College,Holly Springs,MS,South,Bachelor,Private,CoEd,0.3885,760,963,9286,4784,182,25966,-89.4486894,34.7675967
+Mississippi College,Clinton,MS,South,Graduate,Private,CoEd,0.6304,1120,2942,15458,7369,61,26145,-90.3217585,32.3415342
+Millsaps College,Jackson,MS,South,Graduate,Private,CoEd,0.5718,1178,762,33982,7367,54,27000,-90.1848103,32.2987573
+Alcorn State University,Alcorn State,MS,South,Graduate,Public,CoEd,0.7844,872,3006,6200,6595,150,28000,-91.1372924,31.8742035
+Jackson State University,Jackson,MS,South,Graduate,Public,CoEd,0.7047,911,7160,6602,7000,126,29500,-90.1848103,32.2987573
+Mississippi Valley State University,Itta Bena,MS,South,Graduate,Public,CoEd,0.1633,825,1813,5916,5745,156,30362.5,-90.3198067,33.49512
+Tougaloo College,Tougaloo,MS,South,Bachelor,Private,CoEd,0.403,864,895,10218,4889,135,32750,-90.1589761,32.3976436
+Montana State University-Northern,Havre,MT,West,Graduate,Public,CoEd,1,917,1125,5480,5400,130,15873,-109.6840887,48.549999
+Montana Tech of the University of Montana,Butte,MT,West,Graduate,Public,CoEd,0.9075,1125,1868,6494,7070,82,20667,-112.5347775,46.0038232
+The University of Montana,Missoula,MT,West,Graduate,Public,CoEd,0.9272,1075,10969,6099,7988,99,23431,-113.996586,46.8787176
+Montana State University,Bozeman,MT,West,Graduate,Public,CoEd,0.8385,1128,13117,6800,8381,48,24854,-111.0429339,45.6769979
+Rocky Mountain College,Billings,MT,West,Graduate,Private,CoEd,0.6361,1031,903,24530,6385,82,25626,-108.5006904,45.7832856
+Carroll College,Helena,MT,West,Bachelor,Private,CoEd,0.5753,1133,1410,29280,6336,34,27000,-112.0245054,46.5883707
+Duke University,Durham,NC,South,Graduate,Private,CoEd,0.1141,1454,6480,47243,14904,6,7500,-78.898619,35.9940329
+Carolinas College of Health Sciences,Charlotte,NC,South,Associate,Public,CoEd,0.1719,1013,483,13412,6278,6,13500,-80.8431267,35.2270869
+Cabarrus College of Health Sciences,Concord,NC,South,Bachelor,Private,CoEd,0.8913,970,434,11636,6173,62,15800,-80.579511,35.4087517
+Louisburg College,Louisburg,NC,South,Associate,Private,CoEd,0.421,775,697,16678,4316,194,16000,-78.301106,36.0990393
+University of North Carolina at Chapel Hill,Chapel Hill,NC,South,Graduate,Public,CoEd,0.285,1328,17908,8336,10898,16,16149,-79.0558445,35.9131996
+Davidson College,Davidson,NC,South,Bachelor,Private,CoEd,0.2167,1337,1765,45377,11828,13,16385,-80.8486846,35.4993031
+Appalachian State University,Boone,NC,South,Graduate,Public,CoEd,0.6266,1148,16116,6553,7670,34,20000,-81.6745517,36.216795
+Piedmont International University,Winston-Salem,NC,South,Graduate,Private,CoEd,0.4607,937,190,9580,2941,54,20427,-80.244216,36.0998596
+North Carolina State University at Raleigh,Raleigh,NC,South,Graduate,Public,CoEd,0.516,1253,22925,8296,8440,34,20500,-78.6381787,35.7795897
+University of North Carolina Wilmington,Wilmington,NC,South,Graduate,Public,CoEd,0.5855,1145,12686,6392,7830,44,20584,-77.9447102,34.2257255
+University of North Carolina at Pembroke,Pembroke,NC,South,Graduate,Public,CoEd,0.7326,930,5303,5287,6359,140,21000,-79.1950373,34.6801626
+Fayetteville State University,Fayetteville,NC,South,Graduate,Public,CoEd,0.5032,892,4862,4655,8173,106,21278,-78.8783585,35.0526641
+University of North Carolina at Asheville,Asheville,NC,South,Graduate,Public,CoEd,0.7314,1191,3425,6392,7611,47,21451.5,-82.5514869,35.5950581
+St Andrews University,Laurinburg,NC,South,Graduate,Private,CoEd,0.5713,940,601,23682,5411,143,21562,-79.4628248,34.7740494
+Western Carolina University,Cullowhee,NC,South,Graduate,Public,CoEd,0.4311,1035,8603,6305,7445,70,21810,-83.1765333,35.3137111
+North Carolina Wesleyan College,Rocky Mount,NC,South,Bachelor,Private,CoEd,0.5326,923,1864,27400,5457,142,22555,-77.7905339,35.9382103
+University of North Carolina at Greensboro,Greensboro,NC,South,Graduate,Public,CoEd,0.6073,1043,14497,6454,8058,60,22864,-79.7919754,36.0726354
+University of North Carolina at Charlotte,Charlotte,NC,South,Graduate,Public,CoEd,0.6409,1079,22120,6277,8490,55,23187,-80.8431267,35.2270869
+Warren Wilson College,Swannanoa,NC,South,Graduate,Private,CoEd,0.7177,1134,819,30852,6097,41,23250,-82.3998431,35.5978935
+High Point University,High Point,NC,South,Graduate,Private,CoEd,0.8019,1096,4197,31480,7203,65,23250,-80.0053176,35.9556923
+William Peace University,Raleigh,NC,South,Bachelor,Private,CoEd,0.6291,890,1077,24650,5840,61,23500,-78.6381787,35.7795897
+Elon University,Elon,NC,South,Graduate,Private,CoEd,0.5393,1225,5782,31247,8936,9,23951,-79.5115433,36.0982762
+Gardner-Webb University,Boiling Springs,NC,South,Graduate,Private,CoEd,0.6712,1020,2688,27080,6481,80,23988,-81.6670407,35.254292
+Campbell University,Buies Creek,NC,South,Graduate,Private,CoEd,0.6806,1025,4228,27530,8359,44,23992.5,-78.7355728,35.4132168
+Pfeiffer University,Misenheimer,NC,South,Graduate,Private,CoEd,0.4723,948,951,25855,5929,84,24000,-80.2883904,35.4848625
+East Carolina University,Greenville,NC,South,Graduate,Public,CoEd,0.7728,1036,21207,6143,7965,51,24360,-77.3663538,35.612661
+Tennessee Temple University,Winston Salem,NC,South,Graduate,Private,CoEd,0.5817,962,496,12460,2197,193,24500,-80.244216,36.0998596
+Salem College,Winston-Salem,NC,South,Graduate,Private,Women,0.5985,1102,946,25356,6055,56,25000,-80.244216,36.0998596
+Greensboro College,Greensboro,NC,South,Graduate,Private,CoEd,0.7311,876,741,26850,5881,124,26000,-79.7919754,36.0726354
+Queens University of Charlotte,Charlotte,NC,South,Graduate,Private,CoEd,0.7845,1051,1621,30910,7196,39,26000,-80.8431267,35.2270869
+Elizabeth City State University,Elizabeth City,NC,South,Graduate,Public,CoEd,0.49,866,1763,4498,7590,183,26000,-76.2510461,36.2946008
+Wingate University,Wingate,NC,South,Graduate,Private,CoEd,0.7506,1001,1941,26300,7359,34,26500,-80.4492319,34.9843176
+University of North Carolina School of the Arts,Winston-Salem,NC,South,Graduate,Public,CoEd,0.432,1116,852,8363,6796,35,26922.5,-80.244216,36.0998596
+Belmont Abbey College,Belmont,NC,South,Bachelor,Private,CoEd,0.6923,1000,1545,18500,4534,136,27000,-81.037297,35.2429175
+Mars Hill University,Mars Hill,NC,South,Graduate,Private,CoEd,0.6209,924,1396,27590,5079,168,27000,-82.5492999,35.8264981
+Barton College,Wilson,NC,South,Graduate,Private,CoEd,0.3846,962,998,26664,5817,112,27000,-77.9155395,35.7212689
+Methodist University,Fayetteville,NC,South,Graduate,Private,CoEd,0.5594,962,2171,29080,6986,86,27000,-78.8783585,35.0526641
+Winston-Salem State University,Winston-Salem,NC,South,Graduate,Public,CoEd,0.6016,859,4743,5583,7902,132,27000,-80.244216,36.0998596
+University of Mount Olive,Mount Olive,NC,South,Bachelor,Private,CoEd,0.4685,902,3258,17800,6416,89,27250,-78.0663788,35.1965531
+Montreat College,Montreat,NC,South,Graduate,Private,CoEd,0.4606,1016,647,23520,4890,53,27498,-82.3028972,35.6442841
+North Carolina A & T State University,Greensboro,NC,South,Graduate,Public,CoEd,0.57,910,8894,5642,8732,144,28500,-79.7919754,36.0726354
+North Carolina Central University,Durham,NC,South,Graduate,Public,CoEd,0.4322,886,5554,5526,7715,132,31000,-78.898619,35.9940329
+Johnson C Smith University,Charlotte,NC,South,Bachelor,Private,CoEd,0.4225,808,1375,18236,6127,181,31142,-80.8431267,35.2270869
+Chowan University,Murfreesboro,NC,South,Bachelor,Private,CoEd,0.5981,773,1478,22900,6335,176,32000,-77.0985752,36.4423754
+Mid-Atlantic Christian University,Elizabeth City,NC,South,Bachelor,Private,CoEd,0.3789,983,195,12800,5195,95,33500,-76.2510461,36.2946008
+Saint Augustine's University,Raleigh,NC,South,Bachelor,Private,CoEd,0.7403,740,1016,17890,5253,187,35198,-78.6381787,35.7795897
+Livingstone College,Salisbury,NC,South,Bachelor,Private,CoEd,0.6425,720,1301,16825,5108,190,41000,-80.4742261,35.6709727
+Minot State University,Minot,ND,Midwest,Graduate,Public,CoEd,0.5768,1035,2570,6225,6404,65,18951,-101.2922906,48.2329668
+Dickinson State University,Dickinson,ND,Midwest,Bachelor,Public,CoEd,0.6103,957,1231,6050,6239,61,19500,-102.7896242,46.8791756
+Valley City State University,Valley City,ND,Midwest,Graduate,Public,CoEd,0.9027,1020,952,6674,5786,75,21550,-98.0031547,46.9233129
+University of Mary,Bismarck,ND,Midwest,Graduate,Private,CoEd,0.7865,1050,1928,15665,2997,52,22722,-100.7837392,46.8083268
+North Dakota State University-Main Campus,Fargo,ND,Midwest,Graduate,Public,CoEd,0.8274,1092,11763,7940,7753,37,24000,-96.7898034,46.8771863
+University of North Dakota,Grand Forks,ND,Midwest,Graduate,Public,CoEd,0.86,1090,10978,7741,8565,35,24000,-97.0328547,47.9252568
+University of Jamestown,Jamestown,ND,Midwest,Graduate,Private,CoEd,0.6436,1178,866,19170,6412,53,27000,-98.7084357,46.9105438
+Trinity Bible College,Ellendale,ND,Midwest,Bachelor,Private,CoEd,0.3645,946,212,14620,3513,100,27592,-98.5270458,46.0027502
+Grace University,Omaha,NE,Midwest,Graduate,Private,CoEd,0.4462,1064,387,19290,4798,31,17625,-95.9979883,41.2523634
+University of Nebraska at Omaha,Omaha,NE,Midwest,Graduate,Public,CoEd,0.785,1050,11989,6750,7912,50,20000,-95.9979883,41.2523634
+University of Nebraska at Kearney,Kearney,NE,Midwest,Graduate,Public,CoEd,0.8411,1049,5081,6586,7076,45,20700,-99.0816784,40.6993303
+University of Nebraska-Lincoln,Lincoln,NE,Midwest,Graduate,Public,CoEd,0.6989,1146,19979,8170,10194,35,21500,-96.6851982,40.8257625
+Doane University-Arts & Sciences,Crete,NE,Midwest,Bachelor,Private,CoEd,0.7935,1060,1064,27200,5852,32,22158.5,-96.9615141,40.6252173
+Creighton University,Omaha,NE,Midwest,Graduate,Private,CoEd,0.7267,1200,3977,35360,8908,20,23250,-95.9979883,41.2523634
+Bryan College of Health Sciences,Lincoln,NE,Midwest,Graduate,Private,CoEd,0.573,1050,588,13592,6431,22,24280.5,-96.6851982,40.8257625
+Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Midwest,Graduate,Private,CoEd,0.8261,1090,742,13614,5999,20,24688,-95.9979883,41.2523634
+Midland University,Fremont,NE,Midwest,Graduate,Private,CoEd,0.6018,1010,1236,28150,5923,96,25250,-96.4981467,41.4333909
+Clarkson College,Omaha,NE,Midwest,Graduate,Private,CoEd,0.6134,990,739,13352,5569,31,26000,-95.9979883,41.2523634
+Concordia University-Nebraska,Seward,NE,Midwest,Graduate,Private,CoEd,0.7661,1067,1232,25950,6191,20,26000,-97.0984927,40.9078784
+York College,York,NE,Midwest,Bachelor,Private,CoEd,0.4076,970,402,16080,5197,60,26540,-97.5920867,40.8673915
+Union College,Lincoln,NE,Midwest,Graduate,Private,CoEd,0.5214,1030,747,21080,5383,35,27000,-96.6851982,40.8257625
+Nebraska Wesleyan University,Lincoln,NE,Midwest,Graduate,Private,CoEd,0.7814,1124,1803,28500,6356,16,27000,-96.6851982,40.8257625
+Hastings College,Hastings,NE,Midwest,Graduate,Private,CoEd,0.6965,1079,1135,26280,6376,50,27000,-98.3898726,40.5862583
+Dartmouth College,Hanover,NH,Northeast,Graduate,Private,CoEd,0.115,1444,4184,48108,13346,17,12000,-72.2895526,43.7022451
+Rivier University,Nashua,NH,Northeast,Graduate,Private,CoEd,0.6256,962,1433,28900,6436,21,25500,-71.467566,42.7653662
+Keene State College,Keene,NH,Northeast,Graduate,Public,CoEd,0.7859,965,4662,12864,8748,48,26000,-72.2781409,42.933692
+Franklin Pierce University,Rindge,NH,Northeast,Graduate,Private,CoEd,0.843,949,1731,31782,5371,47,27000,-72.0098021,42.7511964
+University of New Hampshire at Manchester,Manchester,NH,Northeast,Bachelor,Public,CoEd,0.7008,1010,718,13768,9826,20,27000,-71.4547891,42.9956397
+University of New Hampshire-Main Campus,Durham,NH,Northeast,Graduate,Public,CoEd,0.8002,1104,12591,16552,11336,20,27000,-70.9264393,43.1339545
+Princeton University,Princeton,NJ,Northeast,Graduate,Private,CoEd,0.0744,1491,5258,41820,16242,24,7500,-74.6672226,40.3572976
+New Jersey City University,Jersey City,NJ,Northeast,Graduate,Public,CoEd,0.7659,890,6163,10852,9923,72,17500,-74.0776417,40.7281575
+Rowan University,Glassboro,NJ,Northeast,Graduate,Public,CoEd,0.4357,1103,11690,12616,9050,35,21500,-75.1118422,39.7028923
+Stockton University,Galloway,NJ,Northeast,Graduate,Public,CoEd,0.6475,1078,7676,12568,9431,41,21500,-74.5596879,39.4928235
+New Jersey Institute of Technology,Newark,NJ,Northeast,Graduate,Public,CoEd,0.6339,1168,6748,15648,11139,41,21500,-74.1723667,40.735657
+Rutgers University-Camden,Camden,NJ,Northeast,Graduate,Public,CoEd,0.6038,1025,4801,13683,10444,35,21745,-75.1196199,39.9259463
+Rutgers University-New Brunswick,New Brunswick,NJ,Northeast,Graduate,Public,CoEd,0.605,1215,34094,13813,10979,35,21745,-74.4518188,40.4862157
+Rutgers University-Newark,Newark,NJ,Northeast,Graduate,Public,CoEd,0.6275,1035,6841,13297,12339,35,21745,-74.1723667,40.735657
+Ramapo College of New Jersey,Mahwah,NJ,Northeast,Graduate,Public,CoEd,0.5332,1082,5447,13388,9809,34,22500,-74.1435843,41.0886216
+College of Saint Elizabeth,Morristown,NJ,Northeast,Graduate,Private,Women,0.5759,843,862,31095,6566,46,23000,-74.4815438,40.7967667
+Montclair State University,Montclair,NJ,Northeast,Graduate,Public,CoEd,0.6683,975,15676,11540,9590,26,23000,-74.2090053,40.8259007
+The College of New Jersey,Ewing,NJ,Northeast,Graduate,Public,CoEd,0.4897,1213,6407,15024,9699,13,23250,-74.7909125,40.2599864
+Kean University,Union,NJ,Northeast,Graduate,Public,CoEd,0.7036,907,11938,11244,9226,61,24500,-74.2631635,40.6975898
+Felician University,Lodi,NJ,Northeast,Graduate,Private,CoEd,0.8416,870,1629,30605,6233,46,25000,-74.0831971,40.8823215
+Saint Peter's University,Jersey City,NJ,Northeast,Graduate,Private,CoEd,0.569,899,2409,33232,8655,71,25000,-74.0776417,40.7281575
+Seton Hall University,South Orange,NJ,Northeast,Graduate,Private,CoEd,0.7554,1133,5609,36926,9184,25,25000,-74.2609903,40.7489277
+William Paterson University of New Jersey,Wayne,NJ,Northeast,Graduate,Public,CoEd,0.7458,980,9508,12244,10489,60,25000,-74.2765441,40.9253725
+Centenary College,Hackettstown,NJ,Northeast,Graduate,Private,CoEd,0.8191,926,1612,30942,6781,46,25437.5,-74.8290555,40.8539879
+Georgian Court University,Lakewood,NJ,Northeast,Graduate,Private,CoEd,0.6806,945,1423,30998,8166,47,25700,-74.2097014,40.082129
+Caldwell University,Caldwell,NJ,Northeast,Graduate,Private,CoEd,0.6393,950,1596,30050,8056,56,26040,-74.2765366,40.8398218
+Rider University,Lawrenceville,NJ,Northeast,Graduate,Private,CoEd,0.7091,1026,4188,36830,11388,44,26174,-74.7361013,40.3016375
+Fairleigh Dickinson University-College at Florham,Madison,NJ,Northeast,Graduate,Private,CoEd,0.8075,1031,2359,38236,7503,47,26250,-74.417097,40.7598227
+Monmouth University,West Long Branch,NJ,Northeast,Graduate,Private,CoEd,0.7419,1055,4584,32310,8446,36,26250,-74.0176381,40.2903891
+Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,Northeast,Graduate,Private,CoEd,0.8011,944,3870,35880,8529,47,26250,-74.0116536,40.8932469
+Drew University,Madison,NJ,Northeast,Graduate,Private,CoEd,0.7017,1118,1356,45364,8724,30,27000,-74.417097,40.7598227
+Stevens Institute of Technology,Hoboken,NJ,Northeast,Graduate,Private,CoEd,0.4378,1346,2842,45366,11554,22,27532.5,-74.0323626,40.7439905
+Bloomfield College,Bloomfield,NJ,Northeast,Graduate,Private,CoEd,0.634,810,1933,26750,8004,104,30500,-74.1854209,40.8067546
+New Mexico Military Institute,Roswell,NM,West,Associate,Public,CoEd,0.3989,945,459,4536,5832,154,7577.5,-104.5230242,33.3942655
+Eastern New Mexico University-Main Campus,Portales,NM,West,Graduate,Public,CoEd,0.6306,935,3731,4858,6638,162,15750,-103.3343978,34.1861922
+New Mexico Institute of Mining and Technology,Socorro,NM,West,Graduate,Public,CoEd,0.3639,1193,1525,6256,7852,52,16006,-106.8914159,34.0583995
+New Mexico State University-Main Campus,Las Cruces,NM,West,Graduate,Public,CoEd,0.696,984,12171,5950,8185,178,18340,-106.7636538,32.3199396
+University of New Mexico-Main Campus,Albuquerque,NM,West,Graduate,Public,CoEd,0.4538,1060,20261,6846,8909,129,19576,-106.6055534,35.0853336
+University of Nevada-Reno,Reno,NV,West,Graduate,Public,CoEd,0.8388,1081,16330,6610,9880,55,18733,-119.8138027,39.5296329
+University of Nevada-Las Vegas,Las Vegas,NV,West,Graduate,Public,CoEd,0.8689,1000,23329,6710,10139,77,19000,-115.1398296,36.1699412
+Sierra Nevada College,Incline Village,NV,West,Graduate,Private,CoEd,0.6574,1010,548,29159,5757,60,23000,-119.9526847,39.249683
+CUNY York College,Jamaica,NY,Northeast,Graduate,Public,CoEd,0.3713,900,7245,6396,9291,45,9500,-73.7889689,40.702677
+CUNY Lehman College,Bronx,NY,Northeast,Graduate,Public,CoEd,0.2891,995,9417,6408,9725,55,10000,-73.8648268,40.8447819
+CUNY Hunter College,New York,NY,Northeast,Graduate,Public,CoEd,0.3467,1160,15778,6429,10498,42,10053,-74.0059413,40.7127837
+CUNY John Jay College of Criminal Justice,New York,NY,Northeast,Graduate,Public,CoEd,0.3731,970,12758,6359,9820,65,10092,-74.0059413,40.7127837
+CUNY Brooklyn College,Brooklyn,NY,Northeast,Graduate,Public,CoEd,0.3533,1085,12925,6536,10073,61,10456,-73.9441579,40.6781784
+CUNY Queens College,Queens,NY,Northeast,Graduate,Public,CoEd,0.3982,1090,14842,6507,10200,45,11000,-73.7948516,40.7282239
+CUNY Bernard M Baruch College,New York,NY,Northeast,Graduate,Public,CoEd,0.279,1235,14420,6561,11566,40,11000,-74.0059413,40.7127837
+CUNY City College,New York,NY,Northeast,Graduate,Public,CoEd,0.3806,1130,12175,6389,10956,57,11551,-74.0059413,40.7127837
+Cornell University,Ithaca,NY,Northeast,Graduate,Private,CoEd,0.1419,1422,14195,47286,14170,10,12034.5,-76.5018807,42.4439614
+College of Staten Island CUNY,Staten Island,NY,Northeast,Graduate,Public,CoEd,0.9427,1005,12944,6458,9631,79,14666,-74.1502007,40.5795317
+SUNY College of Technology at Alfred,Alfred,NY,Northeast,Bachelor,Public,CoEd,0.5424,982,3607,7646,5919,86,14750,-77.7905509,42.2542366
+Hamilton College,Clinton,NY,Northeast,Bachelor,Private,CoEd,0.2635,1393,1890,47820,11538,21,15300,-75.3785034,43.0484029
+SUNY College at Old Westbury,Old Westbury,NY,Northeast,Graduate,Public,CoEd,0.6235,995,4173,7323,8171,77,15609.5,-73.5995717,40.7887113
+Farmingdale State College,Farmingdale,NY,Northeast,Bachelor,Public,CoEd,0.4665,982,7768,7483,8123,50,15958.5,-73.4454009,40.7325997
+Colgate University,Hamilton,NY,Northeast,Graduate,Private,CoEd,0.2624,1369,2865,48175,11203,26,16114.5,-75.5446238,42.8270136
+Vassar College,Poughkeepsie,NY,Northeast,Bachelor,Private,CoEd,0.2354,1403,2389,49570,11101,3,16725,-73.9209701,41.7003713
+Barnard College,New York,NY,Northeast,Bachelor,Private,Women,0.2377,1343,2556,46040,12043,8,16725,-74.0059413,40.7127837
+SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY,Northeast,Bachelor,Public,CoEd,0.7334,877,2512,7609,6496,87,17492,-74.4854172,42.677853
+SUNY Polytechnic Institute,Utica,NY,Northeast,Graduate,Public,CoEd,0.561,1099,1890,7420,9653,46,17500,-75.232664,43.100903
+Cooper Union for the Advancement of Science and Art,New York,NY,Northeast,Graduate,Private,CoEd,0.1506,1388,852,41400,12073,83,18250,-74.0059413,40.7127837
+Yeshiva University,New York,NY,Northeast,Graduate,Private,CoEd,0.818,1221,2814,38730,8233,17,19000,-74.0059413,40.7127837
+Stony Brook University,Stony Brook,NY,Northeast,Graduate,Public,CoEd,0.4134,1254,16170,8430,10681,29,19351,-73.1409429,40.9256538
+State University of New York at New Paltz,New Paltz,NY,Northeast,Graduate,Public,CoEd,0.4193,1122,6464,7418,6851,28,19500,-74.0868095,41.7475933
+Skidmore College,Saratoga Springs,NY,Northeast,Graduate,Private,CoEd,0.3734,1241,2612,47464,9232,23,19500,-73.7845651,43.0831301
+University at Buffalo,Buffalo,NY,Northeast,Graduate,Public,CoEd,0.5781,1165,19488,8870,10135,31,19500,-78.8783689,42.8864468
+Morrisville State College,Morrisville,NY,Northeast,Bachelor,Public,CoEd,0.5619,895,2728,7689,5872,137,20000,-75.6401825,42.8986791
+SUNY at Binghamton,Vestal,NY,Northeast,Graduate,Public,CoEd,0.4406,1287,13372,8620,9201,29,20000,-76.053575,42.0855898
+SUNY College of Environmental Science and Forestry,Syracuse,NY,Northeast,Graduate,Public,CoEd,0.5113,1193,1718,7398,8340,21,20450,-76.1474244,43.0481221
+SUNY College at Geneseo,Geneseo,NY,Northeast,Graduate,Public,CoEd,0.5913,1221,5497,7774,7272,20,20500,-77.816947,42.795896
+Davis College,Johnson City,NY,Northeast,Bachelor,Private,CoEd,0.4779,954,252,12640,4894,72,21000,-75.9588092,42.1156308
+SUNY at Albany,Albany,NY,Northeast,Graduate,Public,CoEd,0.5584,1098,12659,8302,9208,46,21489.5,-73.7562317,42.6525793
+SUNY College at Brockport,Brockport,NY,Northeast,Graduate,Public,CoEd,0.4895,1056,6951,7562,7291,37,21500,-77.9391797,43.2136713
+SUNY Buffalo State,Buffalo,NY,Northeast,Graduate,Public,CoEd,0.6155,939,9185,7347,7526,79,21500,-78.8783689,42.8864468
+Roberts Wesleyan College,Rochester,NY,Northeast,Graduate,Private,CoEd,0.6875,1059,1335,28068,6299,40,21946.5,-77.6109219,43.16103
+SUNY College at Plattsburgh,Plattsburgh,NY,Northeast,Graduate,Public,CoEd,0.4786,1031,5430,7517,6936,56,22000,-73.4529124,44.6994873
+Saint Joseph's College-New York,Brooklyn,NY,Northeast,Graduate,Private,CoEd,0.7073,1031,3985,22830,8718,40,22143.5,-73.9441579,40.6781784
+The College of New Rochelle,New Rochelle,NY,Northeast,Graduate,Private,CoEd,0.3853,958,3075,32300,8213,115,22175,-73.7823549,40.9114882
+SUNY Oneonta,Oneonta,NY,Northeast,Graduate,Public,CoEd,0.4988,1086,5803,7568,6595,31,22500,-75.0637746,42.4528571
+SUNY College at Oswego,Oswego,NY,Northeast,Graduate,Public,CoEd,0.4837,1106,7102,7581,6865,51,22500,-76.5104973,43.4553461
+SUNY at Purchase College,Purchase,NY,Northeast,Graduate,Public,CoEd,0.4082,1095,3925,7933,7230,51,22844,-73.7144477,41.0400135
+Marymount Manhattan College,New York,NY,Northeast,Bachelor,Private,CoEd,0.735,1065,1831,27636,8200,70,23000,-74.0059413,40.7127837
+Columbia University in the City of New York,New York,NY,Northeast,Graduate,Private,CoEd,0.0695,1470,8100,51008,16831,17,23000,-74.0059413,40.7127837
+St. Thomas Aquinas College,Sparkill,NY,Northeast,Graduate,Private,CoEd,0.8082,958,1147,27630,8603,43,23250,-73.9282607,41.0299672
+The King<cd>s College,New York,NY,Northeast,Bachelor,Private,CoEd,0.7039,1127,482,32300,9023,24,23250,-74.0059413,40.7127837
+New York University,New York,NY,Northeast,Graduate,Private,CoEd,0.3545,1344,24539,46170,13314,20,23300,-74.0059413,40.7127837
+Hofstra University,Hempstead,NY,Northeast,Graduate,Private,CoEd,0.6161,1147,6803,38900,13033,42,23500,-73.6187397,40.7062128
+New York Institute of Technology,Old Westbury,NY,Northeast,Graduate,Private,CoEd,0.6403,1069,4160,32180,11534,48,24187.5,-73.5995717,40.7887113
+The New School,New York,NY,Northeast,Graduate,Private,CoEd,0.659,1117,6695,41870,10134,47,24384,-74.0059413,40.7127837
+SUNY at Fredonia,Fredonia,NY,Northeast,Graduate,Public,CoEd,0.5322,1056,4900,7741,6906,47,24750,-79.3317105,42.4400576
+St Francis College,Brooklyn Heights,NY,Northeast,Graduate,Private,CoEd,0.7704,935,2661,22300,8931,92,24774,-73.9932872,40.6960105
+Saint John Fisher College,Rochester,NY,Northeast,Graduate,Private,CoEd,0.6791,1091,2834,29550,8579,35,24980,-77.6109219,43.16103
+Medaille College,Buffalo,NY,Northeast,Graduate,Private,CoEd,0.619,840,1914,25002,5212,78,25000,-78.8783689,42.8864468
+Nyack College,Nyack,NY,Northeast,Graduate,Private,CoEd,0.9936,909,1695,23800,6520,91,25000,-73.9179146,41.0906519
+Canisius College,Buffalo,NY,Northeast,Graduate,Private,CoEd,0.8023,1085,2736,34000,7622,37,25000,-78.8783689,42.8864468
+Niagara University,Niagara University,NY,Northeast,Graduate,Private,CoEd,0.6586,1040,3130,29060,7899,70,25000,-79.0353197,43.1365152
+Adelphi University,Garden City,NY,Northeast,Graduate,Private,CoEd,0.7242,1092,5036,32340,11626,32,25000,-73.6342954,40.7267682
+Pace University-New York,New York,NY,Northeast,Graduate,Private,CoEd,0.8499,1054,8163,39697,11763,46,25000,-74.0059413,40.7127837
+Fordham University,Bronx,NY,Northeast,Graduate,Private,CoEd,0.4812,1254,8485,45623,13033,24,25000,-73.8648268,40.8447819
+Iona College,New Rochelle,NY,Northeast,Graduate,Private,CoEd,0.867,1022,3052,34030,9154,48,25400,-73.7823549,40.9114882
+LIU Post,Brookville,NY,Northeast,Graduate,Private,CoEd,0.8302,950,3774,34852,10890,59,25499,-73.5673482,40.8131553
+Houghton College,Houghton,NY,Northeast,Graduate,Private,CoEd,0.9381,1121,1010,28556,5907,33,25500,-78.1572319,42.4233981
+D'Youville College,Buffalo,NY,Northeast,Graduate,Private,CoEd,0.6879,1035,1796,23562,6320,65,25500,-78.8783689,42.8864468
+St John's University-New York,Queens,NY,Northeast,Graduate,Private,CoEd,0.6252,1107,10878,38680,11847,65,25910,-73.7948516,40.7282239
+Mount Saint Mary College,Newburgh,NY,Northeast,Graduate,Private,CoEd,0.8862,1011,2096,27312,8442,38,25941.5,-74.0104178,41.5034271
+Concordia College-New York,Bronxville,NY,Northeast,Graduate,Private,CoEd,0.7477,872,886,28775,5820,84,26000,-73.8320784,40.9381544
+Manhattan College,Riverdale,NY,Northeast,Graduate,Private,CoEd,0.6654,1097,3471,37188,9825,26,26000,-73.9109977,40.8940853
+Albany College of Pharmacy and Health Sciences,Albany,NY,Northeast,Graduate,Private,CoEd,0.674,1165,1076,30131,8635,6,26144,-73.7562317,42.6525793
+Le Moyne College,Syracuse,NY,Northeast,Graduate,Private,CoEd,0.6595,1071,2728,31340,8884,41,26248.5,-76.1474244,43.0481221
+LIM College,New York,NY,Northeast,Graduate,Private,CoEd,0.7421,914,1548,24225,5594,57,26335,-74.0059413,40.7127837
+SUNY Maritime College,Throggs Neck,NY,Northeast,Graduate,Public,CoEd,0.5265,1106,1624,7446,6944,51,26500,-73.8213213,40.818399
+Pratt Institute-Main,Brooklyn,NY,Northeast,Graduate,Private,CoEd,0.5299,1141,3232,44804,9737,40,26691,-73.9441579,40.6781784
+School of Visual Arts,New York,NY,Northeast,Graduate,Private,CoEd,0.7677,1029,3577,33560,4285,61,27000,-74.0059413,40.7127837
+Elmira College,Elmira,NY,Northeast,Graduate,Private,CoEd,0.8221,1073,1318,38150,5193,43,27000,-76.8077338,42.0897965
+Alfred University,Alfred,NY,Northeast,Graduate,Private,CoEd,0.6944,1064,1842,26026,6406,54,27000,-77.7905509,42.2542366
+St Bonaventure University,Saint Bonaventure,NY,Northeast,Graduate,Private,CoEd,0.7043,1066,1735,30466,6500,44,27000,-78.4750213,42.0803426
+Wells College,Aurora,NY,Northeast,Bachelor,Private,CoEd,0.5659,1053,525,36700,6980,73,27000,-76.7024485,42.7539591
+College of Mount Saint Vincent,Bronx,NY,Northeast,Graduate,Private,CoEd,0.9521,931,1671,31290,7255,50,27000,-73.8648268,40.8447819
+Dominican College of Blauvelt,Orangeburg,NY,Northeast,Graduate,Private,CoEd,0.6281,872,1483,25702,7811,62,27000,-73.9495818,41.0464858
+Siena College,Loudonville,NY,Northeast,Graduate,Private,CoEd,0.6586,1127,3085,32293,8171,24,27000,-73.7548424,42.7048009
+Molloy College,Rockville Centre,NY,Northeast,Graduate,Private,CoEd,0.754,1072,3293,26850,9026,39,27000,-73.6412406,40.6587138
+Rochester Institute of Technology,Rochester,NY,Northeast,Graduate,Private,CoEd,0.5747,1240,12635,35768,9711,42,27000,-77.6109219,43.16103
+Clarkson University,Potsdam,NY,Northeast,Graduate,Private,CoEd,0.6214,1195,3130,42530,10296,28,27000,-74.9813084,44.6697805
+Syracuse University,Syracuse,NY,Northeast,Graduate,Private,CoEd,0.5323,1184,14768,41886,11147,33,27000,-76.1474244,43.0481221
+Rensselaer Polytechnic Institute,Troy,NY,Northeast,Graduate,Private,CoEd,0.375,1372,5557,47908,12092,18,27500,-73.6917851,42.7284117
+Wilberforce University,Wilberforce,OH,Midwest,Graduate,Private,CoEd,0.3754,735,364,15140,4689,132,18786,-83.8777063,39.716171
+Aultman College of Nursing and Health Sciences,Canton,OH,Midwest,Associate,Private,CoEd,0.75,1085,356,19263,6037,36,19000,-81.378447,40.7989473
+Mount Carmel College of Nursing,Columbus,OH,Midwest,Graduate,Private,CoEd,0.7389,1030,926,12016,6971,27,19000,-82.9987942,39.9611755
+Kenyon College,Gambier,OH,Midwest,Bachelor,Private,CoEd,0.2506,1332,1651,47330,8416,9,19000,-82.3971038,40.3756194
+The Christ College of Nursing and Health Sciences,Cincinnati,OH,Midwest,Associate,Private,CoEd,0.7568,947,712,20031,6612,23,20000,-84.5120196,39.1031182
+Ohio University-Main Campus,Athens,OH,Midwest,Graduate,Public,CoEd,0.7427,1106,23390,10602,8569,111,21250,-82.1012554,39.3292396
+Ohio State University-Main Campus,Columbus,OH,Midwest,Graduate,Public,CoEd,0.5296,1292,43733,10037,11461,51,21959.5,-82.9987942,39.9611755
+Cleveland State University,Cleveland,OH,Midwest,Graduate,Public,CoEd,0.8421,1014,11308,9686,8677,82,22656,-81.6943605,41.49932
+University of Cincinnati-Main Campus,Cincinnati,OH,Midwest,Graduate,Public,CoEd,0.7578,1165,23795,11000,9379,80,23100,-84.5120196,39.1031182
+Franciscan University of Steubenville,Steubenville,OH,Midwest,Graduate,Private,CoEd,0.7792,1183,2065,23930,7458,26,23316.5,-80.6339638,40.3697905
+The University of Findlay,Findlay,OH,Midwest,Graduate,Private,CoEd,0.7197,1035,2767,30640,6537,25,23734,-83.6499321,41.04422
+Good Samaritan College of Nursing and Health Science,Cincinnati,OH,Midwest,Bachelor,Private,CoEd,0.7885,910,353,19420,6104,48,23750,-84.5120196,39.1031182
+University of Toledo,Toledo,OH,Midwest,Graduate,Public,CoEd,0.9473,1031,15182,9463,8096,107,24000,-83.555212,41.6639383
+Case Western Reserve University,Cleveland,OH,Midwest,Graduate,Private,CoEd,0.3831,1375,4807,43158,10401,12,24250,-81.6943605,41.49932
+Cedarville University,Cedarville,OH,Midwest,Graduate,Private,CoEd,0.7449,1187,3082,26420,7032,20,24994,-83.8085372,39.7442268
+Malone University,Canton,OH,Midwest,Graduate,Private,CoEd,0.7174,1045,1496,26416,6337,66,25000,-81.378447,40.7989473
+Miami University-Oxford,Oxford,OH,Midwest,Graduate,Public,CoEd,0.6584,1240,15454,14287,8677,123,25000,-84.745231,39.5069974
+Kent State University at Kent,Kent,OH,Midwest,Graduate,Public,CoEd,0.8438,1050,22530,10012,8482,119,25997,-81.3578859,41.1536674
+Bowling Green State University-Main Campus,Bowling Green,OH,Midwest,Graduate,Public,CoEd,0.5337,1012,13697,10726,8221,96,26000,-83.6513229,41.3747744
+The College of Wooster,Wooster,OH,Midwest,Bachelor,Private,CoEd,0.5909,1229,2029,43350,8279,25,26000,-81.935143,40.8050565
+University of Dayton,Dayton,OH,Midwest,Graduate,Private,CoEd,0.5901,1194,8305,37230,8506,19,26000,-84.1916069,39.7589478
+University of Akron Main Campus,Akron,OH,Midwest,Graduate,Public,CoEd,0.9571,1050,18148,10260,9132,125,26000,-81.5190053,41.0814447
+Oberlin College,Oberlin,OH,Midwest,Graduate,Private,CoEd,0.3272,1349,2961,48682,10298,22,26000,-82.2173786,41.2939386
+Cincinnati Christian University,Cincinnati,OH,Midwest,Graduate,Private,CoEd,0.5851,969,602,15266,5265,54,26350,-84.5120196,39.1031182
+Ohio Christian University,Circleville,OH,Midwest,Graduate,Private,CoEd,0.654,930,3306,17720,1451,161,26736,-82.9460133,39.600618
+Mount Vernon Nazarene University,Mount Vernon,OH,Midwest,Graduate,Private,CoEd,0.7598,1046,1706,24650,6203,42,26769,-82.4857181,40.3933956
+Art Academy of Cincinnati,Cincinnati,OH,Midwest,Graduate,Private,CoEd,0.2434,961,201,26376,4363,177,27000,-84.5120196,39.1031182
+Notre Dame College,Cleveland,OH,Midwest,Graduate,Private,CoEd,0.895,937,1820,26844,5021,86,27000,-81.6943605,41.49932
+Hiram College,Hiram,OH,Midwest,Graduate,Private,CoEd,0.6208,1004,1217,30290,5440,81,27000,-81.1437098,41.3125552
+Bluffton University,Bluffton,OH,Midwest,Graduate,Private,CoEd,0.5603,1029,896,29316,5792,54,27000,-83.8888288,40.8953301
+Defiance College,Defiance,OH,Midwest,Graduate,Private,CoEd,0.6469,975,801,29916,5797,76,27000,-84.3557802,41.2844933
+Columbus College of Art and Design,Columbus,OH,Midwest,Graduate,Private,CoEd,0.8864,1044,1193,30390,6286,79,27000,-82.9987942,39.9611755
+Lake Erie College,Painesville,OH,Midwest,Graduate,Private,CoEd,0.6936,966,761,28354,6453,71,27000,-81.245657,41.7244885
+Marietta College,Marietta,OH,Midwest,Graduate,Private,CoEd,0.6946,1105,1336,33140,6618,21,27000,-81.4548436,39.415352
+Ashland University,Ashland,OH,Midwest,Graduate,Private,CoEd,0.7257,1048,3227,19852,6850,34,27000,-82.3182178,40.8686675
+Otterbein University,Westerville,OH,Midwest,Graduate,Private,CoEd,0.7531,1094,2271,31442,7066,44,27000,-82.9290696,40.1261743
+University of Mount Union,Alliance,OH,Midwest,Graduate,Private,CoEd,0.7355,1057,2144,27990,7690,42,27000,-81.1059309,40.9153362
+Youngstown State University,Youngstown,OH,Midwest,Graduate,Public,CoEd,0.833,985,10695,8317,8023,174,27000,-80.6495194,41.0997803
+Xavier University,Cincinnati,OH,Midwest,Graduate,Private,CoEd,0.7315,1113,4464,33960,8299,27,27000,-84.5120196,39.1031182
+John Carroll University,University Heights,OH,Midwest,Graduate,Private,CoEd,0.8291,1116,3069,35800,8367,42,27000,-81.5373456,41.4978306
+Ohio Northern University,Ada,OH,Midwest,Graduate,Private,CoEd,0.6859,1180,2234,28050,8435,25,27000,-83.8227148,40.7694969
+Capital University,Columbus,OH,Midwest,Graduate,Private,CoEd,0.7274,1100,2636,32190,8884,46,27000,-82.9987942,39.9611755
+Muskingum University,New Concord,OH,Midwest,Graduate,Private,CoEd,0.7644,1009,1598,24676,9573,59,27000,-81.7340168,39.9936837
+Wilmington College,Wilmington,OH,Midwest,Graduate,Private,CoEd,0.9537,970,1196,29120,5640,71,27058,-83.8285375,39.4453393
+Ursuline College,Pepper Pike,OH,Midwest,Graduate,Private,Women,0.6551,1014,694,27700,5901,57,28000,-81.4637295,41.4783865
+Mount Saint Joseph University,Cincinnati,OH,Midwest,Graduate,Private,CoEd,0.8762,1005,1463,26850,6572,59,28000,-84.5120196,39.1031182
+Walsh University,North Canton,OH,Midwest,Graduate,Private,CoEd,0.8068,1043,2257,26650,6681,60,28000,-81.4023356,40.875891
+Ohio Dominican University,Columbus,OH,Midwest,Graduate,Private,CoEd,0.4657,1005,1350,29430,6857,72,28713,-82.9987942,39.9611755
+Cleveland Institute of Art,Cleveland,OH,Midwest,Bachelor,Private,CoEd,0.6699,1048,551,37565,5575,117,29000,-81.6943605,41.49932
+Heidelberg University,Tiffin,OH,Midwest,Graduate,Private,CoEd,0.7506,1027,1096,27480,6190,78,29000,-83.1779746,41.1144992
+Lourdes University,Sylvania,OH,Midwest,Graduate,Private,CoEd,0.6455,950,1449,18353,6199,109,30500,-83.7129935,41.7189392
+Central State University,Wilberforce,OH,Midwest,Graduate,Public,CoEd,0.3772,804,1728,6246,6438,195,39793,-83.8777063,39.716171
+Northwestern Oklahoma State University,Alva,OK,South,Graduate,Public,CoEd,0.6623,930,1876,5843,5389,133,14290,-98.6664737,36.8050308
+Southeastern Oklahoma State University,Durant,OK,South,Graduate,Public,CoEd,0.7867,970,3372,5688,7144,158,15864,-96.3971233,33.9924186
+Rogers State University,Claremore,OK,South,Bachelor,Public,CoEd,0.7701,850,3611,5725,5515,133,16000,-95.61609,36.3125963
+Southwestern Oklahoma State University,Weatherford,OK,South,Graduate,Public,CoEd,0.8526,1010,4051,5820,6686,154,16675,-98.7075744,35.5261633
+Northeastern State University,Tahlequah,OK,South,Graduate,Public,CoEd,0.7501,1009,6914,5285,5840,138,17750,-94.969956,35.91537
+East Central University,Ada,OK,South,Graduate,Public,CoEd,0.9719,1005,3636,5599,5526,148,18010,-96.6783449,34.774531
+Oklahoma Panhandle State University,Goodwell,OK,South,Bachelor,Public,CoEd,0.595,910,1136,7137,4792,113,18187,-101.6365504,36.5953038
+Hillsdale Free Will Baptist College,Moore,OK,South,Bachelor,Private,CoEd,0.5313,940,226,11980,3496,160,19000,-97.4867028,35.3395079
+University of Oklahoma-Norman Campus,Norman,OK,South,Graduate,Public,CoEd,0.8133,1189,20538,9495,9535,38,19500,-97.4394777,35.2225668
+Oklahoma State University-Main Campus,Stillwater,OK,South,Graduate,Public,CoEd,0.7495,1137,20636,7442,8488,62,20083.5,-97.0583681,36.1156071
+Oklahoma Wesleyan University,Bartlesville,OK,South,Graduate,Private,CoEd,0.627,999,1153,23180,5080,46,21276.5,-95.9808179,36.7473114
+University of Central Oklahoma,Edmond,OK,South,Graduate,Public,CoEd,0.9032,990,14728,5806,6874,87,21325,-97.4780954,35.6528323
+University of Science and Arts of Oklahoma,Chickasha,OK,South,Bachelor,Public,CoEd,0.6755,1039,845,6270,5607,135,22274,-97.9364326,35.052565
+Oklahoma City University,Oklahoma City,OK,South,Graduate,Private,CoEd,0.6777,1165,1793,30726,7055,48,23835,-97.5164276,35.4675602
+Oklahoma Christian University,Edmond,OK,South,Graduate,Private,CoEd,0.6401,1127,1938,19120,5870,71,24500,-97.4780954,35.6528323
+Southwestern Christian University,Bethany,OK,South,Graduate,Private,CoEd,0.8088,981,774,12470,4599,178,25000,-97.6322639,35.5186678
+Oklahoma Baptist University,Shawnee,OK,South,Graduate,Private,CoEd,0.6048,1171,1824,22800,6324,87,26000,-96.9253004,35.3272928
+University of Tulsa,Tulsa,OK,South,Graduate,Private,CoEd,0.4026,1296,3441,35855,9905,41,26000,-95.992775,36.1539816
+Bacone College,Muskogee,OK,South,Bachelor,Private,CoEd,0.4296,845,939,14050,4256,123,26350,-95.3696909,35.7478769
+Oral Roberts University,Tulsa,OK,South,Graduate,Private,CoEd,0.7976,1010,2947,23410,7336,54,27000,-95.992775,36.1539816
+Reed College,Portland,OR,West,Graduate,Private,CoEd,0.3873,1383,1335,47760,10152,24,16000,-122.6764815,45.5230622
+University of Oregon,Eugene,OR,West,Graduate,Public,CoEd,0.749,1116,20252,9918,9390,46,21500,-123.0867536,44.0520691
+George Fox University,Newberg,OR,West,Graduate,Private,CoEd,0.7776,1081,2494,31866,7096,22,22000,-122.9731565,45.3001178
+Eastern Oregon University,La Grande,OR,West,Graduate,Public,CoEd,0.6418,948,2997,7440,6145,80,22466,-118.0877188,45.3245771
+Oregon State University,Corvallis,OR,West,Graduate,Public,CoEd,0.7776,1112,22925,9122,9055,39,23000,-123.2620435,44.5645659
+Southern Oregon University,Ashland,OR,West,Graduate,Public,CoEd,0.7737,1029,4397,7701,7134,64,23334,-122.7094767,42.1945758
+Portland State University,Portland,OR,West,Graduate,Public,CoEd,0.6933,1030,19662,7794,8121,51,23368.5,-122.6764815,45.5230622
+Multnomah University,Portland,OR,West,Graduate,Private,CoEd,0.5667,1047,418,22100,5091,17,23500,-122.6764815,45.5230622
+Willamette University,Salem,OR,West,Graduate,Private,CoEd,0.8131,1209,2009,44076,9545,31,23500,-123.0350963,44.9428975
+Northwest Christian University,Eugene,OR,West,Graduate,Private,CoEd,0.7191,987,492,26180,5119,18,23750,-123.0867536,44.0520691
+Western Oregon University,Monmouth,OR,West,Graduate,Public,CoEd,0.8874,1001,4923,9105,6444,71,24500,-123.2339888,44.8484524
+University of Portland,Portland,OR,West,Graduate,Private,CoEd,0.6293,1195,3648,40424,7817,15,24906,-122.6764815,45.5230622
+Corban University,Salem,OR,West,Graduate,Private,CoEd,0.3738,1016,924,28640,5349,25,25000,-123.0350963,44.9428975
+Linfield College-McMinnville Campus,McMinnville,OR,West,Bachelor,Private,CoEd,0.9377,1083,1643,37416,6760,36,25000,-123.1987163,45.2101162
+Concordia University-Portland,Portland,OR,West,Graduate,Private,CoEd,0.5262,1037,1243,27420,7612,31,25000,-122.6764815,45.5230622
+Oregon Institute of Technology,Klamath Falls,OR,West,Graduate,Public,CoEd,0.5984,1044,3457,8445,7236,30,25322.5,-121.7816704,42.224867
+Pacific University,Forest Grove,OR,West,Graduate,Private,CoEd,0.8045,1090,1802,38510,7572,23,26604,-123.1106631,45.5198364
+Valley Forge Military College,Wayne,PA,Northeast,Associate,Private,CoEd,0.9673,800,322,25466,4683,173,12000,-75.3698895,40.0415996
+Haverford College,Haverford,PA,Northeast,Bachelor,Private,CoEd,0.2469,1422,1187,47214,9832,7,14000,-75.3208107,40.0022406
+Manor College,Jenkintown,PA,Northeast,Associate,Private,CoEd,0.5376,758,749,16070,5075,124,17500,-75.1251743,40.0959438
+Summit University of Pennsylvania,Clarks Summit,PA,Northeast,Graduate,Private,CoEd,0.8649,1004,570,20250,5800,41,17772,-75.7085248,41.4886892
+Swarthmore College,Swarthmore,PA,Northeast,Bachelor,Private,CoEd,0.1702,1433,1530,46060,12156,16,18100,-75.3499123,39.9020565
+Lancaster Bible College,Lancaster,PA,Northeast,Graduate,Private,CoEd,0.5946,996,1336,18800,5355,57,18750,-76.3055144,40.0378755
+University of Pennsylvania,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.1037,1452,10678,47668,15855,11,21500,-75.1652215,39.9525839
+Bryn Athyn College of the New Church,Bryn Athyn,PA,Northeast,Bachelor,Private,CoEd,0.5802,900,271,18609,7156,151,22294.5,-75.0673938,40.1314988
+Mount Aloysius College,Cresson,PA,Northeast,Graduate,Private,CoEd,0.7398,913,1565,20790,6241,101,23508,-78.5916837,40.4597938
+West Chester University of Pennsylvania,West Chester,PA,Northeast,Graduate,Public,CoEd,0.5348,1079,13610,9144,9185,38,23875,-75.6054882,39.9606643
+East Stroudsburg University of Pennsylvania,East Stroudsburg,PA,Northeast,Graduate,Public,CoEd,0.8146,954,6125,9376,9371,52,24250,-75.1812913,40.9995386
+La Roche College,Pittsburgh,PA,Northeast,Graduate,Private,CoEd,0.9394,926,1269,25500,6062,70,25000,-79.9958864,40.4406248
+California University of Pennsylvania,California,PA,Northeast,Graduate,Public,CoEd,0.8967,934,6031,9556,9645,74,25000,-79.8917139,40.0656291
+Shippensburg University of Pennsylvania,Shippensburg,PA,Northeast,Graduate,Public,CoEd,0.8313,981,6246,9774,9792,54,25000,-77.5202647,40.0506453
+Bryn Mawr College,Bryn Mawr,PA,Northeast,Graduate,Private,Women,0.4047,1313,1303,45540,10521,22,25000,-75.3151772,40.0230237
+Lehigh University,Bethlehem,PA,Northeast,Graduate,Private,CoEd,0.3427,1326,5034,44890,12676,11,25000,-75.3704579,40.6259316
+Lafayette College,Easton,PA,Northeast,Bachelor,Private,CoEd,0.2975,1300,2471,46385,11146,8,25185,-75.2207323,40.688432
+Slippery Rock University of Pennsylvania,Slippery Rock,PA,Northeast,Graduate,Public,CoEd,0.6597,999,7529,9309,9650,44,25250,-80.0564468,41.0639506
+Carnegie Mellon University,Pittsburgh,PA,Northeast,Graduate,Private,CoEd,0.246,1436,5819,49022,11357,7,25250,-79.9958864,40.4406248
+Millersville University of Pennsylvania,Millersville,PA,Northeast,Graduate,Public,CoEd,0.6871,1012,7070,10268,9696,58,25500,-76.3541274,39.9978764
+Drexel University,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.7601,1186,16681,47051,10597,31,25500,-75.1652215,39.9525839
+Gwynedd Mercy University,Gwynedd Valley,PA,Northeast,Graduate,Private,CoEd,0.7638,961,1941,30460,6741,58,25556,-75.2487748,40.1848419
+Keystone College,La Plume,PA,Northeast,Graduate,Private,CoEd,0.9205,921,1431,21900,6528,110,25789.5,-75.754592,41.5580976
+Eastern University,Saint Davids,PA,Northeast,Graduate,Private,CoEd,0.6218,1038,2381,29680,6375,71,25872,-75.3785234,40.0409428
+Messiah College,Mechanicsburg,PA,Northeast,Graduate,Private,CoEd,0.7998,1125,2713,31340,8121,8,25989.5,-77.0085876,40.2142565
+Temple University,Philadelphia,PA,Northeast,Graduate,Public,CoEd,0.6173,1125,27669,14696,9835,50,25999.5,-75.1652215,39.9525839
+Geneva College,Beaver Falls,PA,Northeast,Graduate,Private,CoEd,0.7106,1072,1404,25220,6649,52,26000,-80.3192295,40.7520097
+Cabrini University,Radnor,PA,Northeast,Graduate,Private,CoEd,0.7528,897,1334,29842,6752,46,26000,-75.3754599,40.043912
+Bloomsburg University of Pennsylvania,Bloomsburg,PA,Northeast,Graduate,Public,CoEd,0.8781,970,9109,8914,8880,49,26000,-76.4549457,41.003698
+Kutztown University of Pennsylvania,Kutztown,PA,Northeast,Graduate,Public,CoEd,0.7967,960,8516,9099,8887,56,26000,-75.7774177,40.5173165
+Clarion University of Pennsylvania,Clarion,PA,Northeast,Graduate,Public,CoEd,0.9271,928,4744,9788,9556,76,26000,-79.3853218,41.2147851
+Immaculata University,Immaculata,PA,Northeast,Graduate,Private,CoEd,0.7594,962,2012,32000,5185,66,26020.5,-75.5681268,40.0273195
+York College Pennsylvania,York,PA,Northeast,Graduate,Private,CoEd,0.4549,1050,4720,17630,6820,38,26247,-76.727745,39.9625984
+Villanova University,Villanova,PA,Northeast,Graduate,Private,CoEd,0.4933,1313,6895,45966,10551,11,26352,-75.3491813,40.0375832
+DeSales University,Center Valley,PA,Northeast,Graduate,Private,CoEd,0.7965,1033,2383,32350,6770,48,26500,-75.3936935,40.5294058
+Delaware Valley University,Doylestown,PA,Northeast,Graduate,Private,CoEd,0.7574,990,1823,33826,7235,61,26551,-75.1298939,40.3101063
+University of Pittsburgh-Titusville,Titusville,PA,Northeast,Associate,Public,CoEd,0.7707,881,367,11604,6055,43,26813.5,-79.6736631,41.6270036
+University of Pittsburgh-Greensburg,Greensburg,PA,Northeast,Bachelor,Public,CoEd,0.7452,1011,1578,13372,6740,43,26813.5,-79.5389289,40.3014581
+University of Pittsburgh-Johnstown,Johnstown,PA,Northeast,Bachelor,Public,CoEd,0.8018,1014,2864,13374,6821,43,26813.5,-78.9219698,40.3267407
+University of Pittsburgh-Bradford,Bradford,PA,Northeast,Bachelor,Public,CoEd,0.6542,985,1466,13322,7079,43,26813.5,-78.649163,41.9564953
+University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,Northeast,Graduate,Public,CoEd,0.5312,1275,18474,17772,9846,43,26813.5,-79.9958864,40.4406248
+Wilkes University,Wilkes-Barre,PA,Northeast,Graduate,Private,CoEd,0.7863,1045,2316,31262,8405,40,26918,-75.8813075,41.2459149
+Arcadia University,Glenside,PA,Northeast,Graduate,Private,CoEd,0.588,1105,2482,38160,7786,47,26972,-75.1527928,40.0999077
+Pennsylvania State University-World Campus,University Park,PA,Northeast,Graduate,Public,CoEd,0.5808,1040,5736,13516,4415,57,27000,-77.8653126,40.8147955
+Chestnut Hill College,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.7471,968,1428,32110,5044,63,27000,-75.1652215,39.9525839
+Rosemont College,Rosemont,PA,Northeast,Graduate,Private,CoEd,0.5788,993,516,31580,5236,64,27000,-75.3237979,40.0256664
+Cairn University-Langhorne,Langhorne,PA,Northeast,Graduate,Private,CoEd,0.978,993,805,23245,5712,24,27000,-74.9226665,40.1745538
+University of Valley Forge,Phoenixville,PA,Northeast,Graduate,Private,CoEd,0.9304,941,711,20394,5893,136,27000,-75.5149128,40.1303822
+Alvernia University,Reading,PA,Northeast,Graduate,Private,CoEd,0.7479,970,2272,30080,6185,74,27000,-75.9268747,40.3356483
+Wilson College,Chambersburg,PA,Northeast,Graduate,Private,CoEd,0.3128,976,516,24380,6512,58,27000,-77.6611022,39.9375911
+Saint Francis University,Loretto,PA,Northeast,Graduate,Private,CoEd,0.6872,1033,1932,31078,6534,31,27000,-78.630296,40.5031263
+Westminster College,New Wilmington,PA,Northeast,Graduate,Private,CoEd,0.9366,1055,1142,33410,6631,38,27000,-80.3328428,41.1222812
+The University of the Arts,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.6954,1006,1726,38410,6642,65,27000,-75.1652215,39.9525839
+Carlow University,Pittsburgh,PA,Northeast,Graduate,Private,CoEd,0.907,941,1323,26178,6663,59,27000,-79.9958864,40.4406248
+Pennsylvania State University-Penn State Lehigh Valley,Center Valley,PA,Northeast,Graduate,Public,CoEd,0.8512,1003,775,13930,6725,57,27000,-75.3936935,40.5294058
+Neumann University,Aston,PA,Northeast,Graduate,Private,CoEd,0.9404,853,2464,25860,6739,88,27000,-75.4257325,39.8648194
+Pennsylvania State University-Penn State Shenango,Sharon,PA,Northeast,Bachelor,Public,CoEd,0.6716,885,468,13332,6835,57,27000,-80.4934035,41.2331116
+Waynesburg University,Waynesburg,PA,Northeast,Graduate,Private,CoEd,0.8356,1008,1501,21290,6986,45,27000,-80.1792299,39.8964641
+Saint Vincent College,Latrobe,PA,Northeast,Graduate,Private,CoEd,0.7192,1034,1564,31370,7146,40,27000,-79.3794811,40.3211808
+Pennsylvania State University-Penn State DuBois,DuBois,PA,Northeast,Bachelor,Public,CoEd,0.8862,925,490,13528,7210,57,27000,-78.7583257,41.1210115
+Misericordia University,Dallas,PA,Northeast,Graduate,Private,CoEd,0.7146,1074,2407,29010,7227,56,27000,-75.9632546,41.3361911
+Lycoming College,Williamsport,PA,Northeast,Bachelor,Private,CoEd,0.7222,1043,1340,34706,7237,64,27000,-77.0010786,41.2411897
+Moravian College,Bethlehem,PA,Northeast,Graduate,Private,CoEd,0.862,1022,1564,37572,7261,40,27000,-75.3704579,40.6259316
+Pennsylvania State University-Penn State Fayette- Eberly,Lemont Furnace,PA,Northeast,Bachelor,Public,CoEd,0.8359,914,666,13588,7284,57,27000,-79.6642441,39.9106962
+Pennsylvania State University-Penn State Altoona,Altoona,PA,Northeast,Bachelor,Public,CoEd,0.8835,1001,3829,14588,7385,57,27000,-78.3947359,40.5186809
+Gannon University,Erie,PA,Northeast,Graduate,Private,CoEd,0.7767,1037,2763,28368,7390,51,27000,-80.085059,42.1292241
+Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA,Northeast,Bachelor,Public,CoEd,0.7802,948,837,13648,7463,57,27000,-77.5583232,39.8442593
+Holy Family University,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.7326,925,1797,28456,7496,46,27000,-75.1652215,39.9525839
+Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA,Northeast,Bachelor,Public,CoEd,0.7584,967,554,13648,7512,57,27000,-79.8641232,40.3470671
+Pennsylvania State University-Penn State Beaver,Monaca,PA,Northeast,Bachelor,Public,CoEd,0.8107,954,665,13636,7556,57,27000,-80.2714505,40.6872885
+Pennsylvania State University-Penn State Brandywine,Media,PA,Northeast,Bachelor,Public,CoEd,0.8477,968,1334,13942,7652,57,27000,-75.387693,39.9167783
+Pennsylvania State University-Penn State Abington,Abington,PA,Northeast,Graduate,Public,CoEd,0.7934,951,3505,13942,7704,57,27000,-75.1195107,40.1240795
+University of the Sciences,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.5788,1169,1626,36096,7716,21,27000,-75.1652215,39.9525839
+Pennsylvania State University-Penn State Wilkes-Barre,Lehman,PA,Northeast,Bachelor,Public,CoEd,0.838,964,493,13588,7876,57,27000,-76.0223932,41.3166058
+Pennsylvania State University-Penn State Worthington Scranton,Dunmore,PA,Northeast,Bachelor,Public,CoEd,0.7611,959,1073,13882,7922,57,27000,-75.6324112,41.4198027
+Point Park University,Pittsburgh,PA,Northeast,Graduate,Private,CoEd,0.7074,995,3100,27190,7968,94,27000,-79.9958864,40.4406248
+Pennsylvania State University-Penn State Schuylkill,Schuylkill Haven,PA,Northeast,Bachelor,Public,CoEd,0.7478,899,755,13870,7997,57,27000,-76.171054,40.6306464
+Marywood University,Scranton,PA,Northeast,Graduate,Private,CoEd,0.7418,1030,1878,31695,8023,44,27000,-75.6624122,41.408969
+Pennsylvania State University-Penn State York,York,PA,Northeast,Graduate,Public,CoEd,0.8335,1021,948,13930,8025,57,27000,-76.727745,39.9625984
+Pennsylvania State University-Penn State Hazleton,Hazleton,PA,Northeast,Bachelor,Public,CoEd,0.8598,946,803,13882,8061,57,27000,-75.9746472,40.9584181
+Pennsylvania State University-Penn State Berks,Reading,PA,Northeast,Graduate,Public,CoEd,0.8866,973,2699,14588,8110,57,27000,-75.9268747,40.3356483
+Pennsylvania State University-Penn State New Kensington,New Kensington,PA,Northeast,Bachelor,Public,CoEd,0.8123,974,627,13588,8218,57,27000,-79.7647705,40.5697892
+Elizabethtown College,Elizabethtown,PA,Northeast,Graduate,Private,CoEd,0.7082,1133,1754,39920,8307,37,27000,-76.6027455,40.1528719
+Pennsylvania State University-Penn State Erie-Behrend College,Erie,PA,Northeast,Graduate,Public,CoEd,0.867,1054,3891,14588,8710,57,27000,-80.085059,42.1292241
+Duquesne University,Pittsburgh,PA,Northeast,Graduate,Private,CoEd,0.7306,1144,5969,32636,8869,25,27000,-79.9958864,40.4406248
+La Salle University,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.7823,994,4122,39800,9217,40,27000,-75.1652215,39.9525839
+Pennsylvania State University-Penn State Harrisburg,Middletown,PA,Northeast,Graduate,Public,CoEd,0.8208,1024,3595,14588,9280,57,27000,-76.7310806,40.199814
+Edinboro University of Pennsylvania,Edinboro,PA,Northeast,Graduate,Public,CoEd,0.993,928,5494,9256,9357,95,27000,-80.1317236,41.8742225
+Indiana University of Pennsylvania-Main Campus,Indiana,PA,Northeast,Graduate,Public,CoEd,0.9473,958,12032,9470,9359,88,27000,-79.1525349,40.6214551
+Mansfield University of Pennsylvania,Mansfield,PA,Northeast,Graduate,Public,CoEd,0.907,950,2518,9526,9460,80,27000,-77.077468,41.8072961
+University of Scranton,Scranton,PA,Northeast,Graduate,Private,CoEd,0.7726,1125,3909,39956,9729,32,27000,-75.6624122,41.408969
+Lock Haven University,Lock Haven,PA,Northeast,Graduate,Public,CoEd,0.9339,947,4448,9276,9758,69,27000,-77.4469263,41.1370133
+Robert Morris University,Moon Township,PA,Northeast,Graduate,Private,CoEd,0.762,1051,4546,26054,9999,46,27000,-80.2213477,40.5169767
+Pennsylvania State University-Main Campus,University Park,PA,Northeast,Graduate,Public,CoEd,0.5029,1196,39958,17502,10175,57,27000,-77.8653126,40.8147955
+Bucknell University,Lewisburg,PA,Northeast,Graduate,Private,CoEd,0.3072,1317,3528,48498,10389,11,27000,-76.8844101,40.9645293
+Philadelphia University,Philadelphia,PA,Northeast,Graduate,Private,CoEd,0.6394,1074,2885,35230,8235,35,27800,-75.1652215,39.9525839
+Thiel College,Greenville,PA,Northeast,Bachelor,Private,CoEd,0.6949,970,1025,27828,6422,128,28000,-80.3911785,41.404499
+Widener University-Main Campus,Chester,PA,Northeast,Graduate,Private,CoEd,0.6501,1023,3144,39830,7679,46,28000,-75.3557457,39.849557
+Allegheny College,Meadville,PA,Northeast,Bachelor,Private,CoEd,0.7177,1170,1968,40660,8143,48,29046,-80.1514484,41.6414438
+Cedar Crest College,Allentown,PA,Northeast,Graduate,Private,Women,0.5233,1005,1310,34504,7163,44,29183,-75.4901833,40.6084305
+Lincoln University,Lincoln University,PA,Northeast,Graduate,Public,CoEd,0.2716,862,1576,10232,7016,175,31326.5,-75.9273377,39.807212
+Brown University,Providence,RI,Northeast,Graduate,Private,CoEd,0.0874,1435,6264,47434,13754,5,15500,-71.4128343,41.8239891
+Rhode Island College,Providence,RI,Northeast,Graduate,Public,CoEd,0.6545,918,7271,7602,7527,64,21500,-71.4128343,41.8239891
+University of Rhode Island,Kingston,RI,Northeast,Graduate,Public,CoEd,0.7681,1077,13205,12506,9502,52,23250,-71.5225598,41.4803791
+Rhode Island School of Design,Providence,RI,Northeast,Graduate,Private,CoEd,0.3259,1254,2014,44594,7840,20,27000,-71.4128343,41.8239891
+University of South Carolina-Sumter,Sumter,SC,South,Associate,Public,CoEd,0.5759,917,729,6686,5701,121,9788,-80.3414693,33.9204354
+University of South Carolina-Salkehatchie,Allendale,SC,South,Associate,Public,CoEd,0.5339,802,723,6686,5389,191,12000,-81.3084405,33.0079345
+Spartanburg Methodist College,Spartanburg,SC,South,Associate,Private,CoEd,0.6563,870,790,15930,5670,171,12000,-81.9320482,34.9495672
+University of South Carolina-Union,Union,SC,South,Associate,Public,CoEd,0.7116,774,294,6686,6004,197,18500,-81.623711,34.7154122
+Bob Jones University,Greenville,SC,South,Graduate,Private,CoEd,0.8101,1052,2553,14220,4185,12,19000,-82.3940104,34.8526176
+Columbia International University,Columbia,SC,South,Graduate,Private,CoEd,0.3322,1035,552,19480,4515,33,20750,-81.0348144,34.0007104
+North Greenville University,Tigerville,SC,South,Graduate,Private,CoEd,0.5946,1152,2183,15510,5737,94,21500,-82.3690411,35.0699768
+Clemson University,Clemson,SC,South,Graduate,Public,CoEd,0.5152,1261,17083,13446,10159,27,21830.5,-82.8373654,34.6834382
+College of Charleston,Charleston,SC,South,Graduate,Public,CoEd,0.7802,1137,10069,10981,8182,42,22251,-79.9310512,32.7764749
+University of South Carolina-Lancaster,Lancaster,SC,South,Associate,Public,CoEd,0.6353,875,963,6686,5309,41,23000,-80.7709014,34.7204257
+University of South Carolina-Upstate,Spartanburg,SC,South,Graduate,Public,CoEd,0.4682,947,5056,10518,6268,87,23000,-81.9320482,34.9495672
+University of South Carolina-Columbia,Columbia,SC,South,Graduate,Public,CoEd,0.652,1217,24623,11158,9726,41,23000,-81.0348144,34.0007104
+University of South Carolina-Beaufort,Bluffton,SC,South,Bachelor,Public,CoEd,0.5724,933,1790,9404,6418,103,23292,-80.8603868,32.2371465
+Coastal Carolina University,Conway,SC,South,Graduate,Public,CoEd,0.636,996,9058,10320,7439,92,25000,-79.0478143,33.8360034
+Wofford College,Spartanburg,SC,South,Bachelor,Private,CoEd,0.7739,1194,1654,37120,7930,23,25000,-81.9320482,34.9495672
+Citadel Military College of South Carolina,Charleston,SC,South,Graduate,Public,CoEd,0.7554,1073,2688,11098,8359,34,25000,-79.9310512,32.7764749
+Presbyterian College,Clinton,SC,South,Graduate,Private,CoEd,0.5372,1090,1032,34828,7554,57,25875,-81.8806562,34.4726276
+University of South Carolina-Aiken,Aiken,SC,South,Graduate,Public,CoEd,0.6546,970,3023,9602,6533,60,26250,-81.7195533,33.5604168
+Newberry College,Newberry,SC,South,Bachelor,Private,CoEd,0.5675,945,1076,24300,5255,125,27000,-81.6187178,34.2745833
+Erskine College,Due West,SC,South,Graduate,Private,CoEd,0.6057,1016,587,31580,5584,34,27000,-82.387902,34.3334469
+Anderson University,Anderson,SC,South,Graduate,Private,CoEd,0.7152,1038,2500,23750,5595,70,27000,-82.6501332,34.5034394
+Lander University,Greenwood,SC,South,Graduate,Public,CoEd,0.5778,936,2670,10418,5876,108,27000,-82.1617883,34.1954001
+Columbia College,Columbia,SC,South,Graduate,Private,Women,0.7905,1033,1117,27350,6176,78,27000,-81.0348144,34.0007104
+Converse College,Spartanburg,SC,South,Graduate,Private,Women,0.5348,1045,822,16500,6278,62,27000,-81.9320482,34.9495672
+Winthrop University,Rock Hill,SC,South,Graduate,Public,CoEd,0.7118,1053,4653,14082,7402,61,27000,-81.0250784,34.9248667
+Charleston Southern University,Charleston,SC,South,Graduate,Private,CoEd,0.5866,997,2949,22840,6057,87,27741,-79.9310512,32.7764749
+Limestone College,Gaffney,SC,South,Graduate,Private,CoEd,0.52,1020,3039,23000,5062,104,28750,-81.6498195,35.0717945
+Claflin University,Orangeburg,SC,South,Graduate,Private,CoEd,0.4377,806,1779,15010,6292,134,29600,-80.8556476,33.4918203
+Coker College,Hartsville,SC,South,Graduate,Private,CoEd,0.509,992,1138,25536,5302,83,30112,-80.0734005,34.3740431
+Francis Marion University,Florence,SC,South,Graduate,Public,CoEd,0.5911,933,3249,9738,7396,108,31250,-79.7625625,34.1954331
+South Carolina State University,Orangeburg,SC,South,Graduate,Public,CoEd,0.8454,810,2753,10007,6927,174,34500,-80.8556476,33.4918203
+University of Sioux Falls,Sioux Falls,SD,Midwest,Graduate,Private,CoEd,0.9724,1028,1082,25480,6205,56,23489,-96.7311034,43.5445959
+University of South Dakota,Vermillion,SD,Midwest,Graduate,Public,CoEd,0.8882,1044,6331,8022,7406,65,24250,-96.9292104,42.7794417
+Dakota State University,Madison,SD,Midwest,Graduate,Public,CoEd,0.842,1026,1770,7506,7242,55,24750,-97.1139496,44.0060847
+Northern State University,Aberdeen,SD,Midwest,Graduate,Public,CoEd,0.8289,1025,1693,7563,6897,95,24847,-98.4864829,45.4646985
+Presentation College,Aberdeen,SD,Midwest,Bachelor,Private,CoEd,0.5695,980,705,17875,4809,78,25000,-98.4864829,45.4646985
+South Dakota State University,Brookings,SD,Midwest,Graduate,Public,CoEd,0.9201,1068,10003,7713,7698,46,25245,-96.7983877,44.3113573
+Black Hills State University,Spearfish,SD,Midwest,Graduate,Public,CoEd,0.941,951,2910,7617,6957,80,25625,-103.8593697,44.4908172
+Dakota Wesleyan University,Mitchell,SD,Midwest,Graduate,Private,CoEd,0.7343,1044,765,23650,5187,86,27000,-98.0297992,43.7094283
+Mount Marty College,Yankton,SD,Midwest,Graduate,Private,CoEd,0.7236,990,634,22892,5788,88,27000,-97.3972813,42.8711088
+Augustana University,Sioux Falls,SD,Midwest,Graduate,Private,CoEd,0.6129,1162,1619,29214,6531,31,27000,-96.7311034,43.5445959
+South Dakota School of Mines and Technology,Rapid City,SD,Midwest,Graduate,Public,CoEd,0.8802,1181,2336,10040,9124,49,27000,-103.2310149,44.0805434
+Roane State Community College,Harriman,TN,South,Associate,Public,CoEd,0.9873,910,4626,3831,6093,143,9722,-84.5524358,35.9339638
+Cleveland State Community College,Cleveland,TN,South,Associate,Public,CoEd,1,910,2734,3811,5258,169,10000,-84.8766115,35.1595182
+Hiwassee College,Madisonville,TN,South,Bachelor,Private,CoEd,0.4575,843,257,13470,3083,180,12500,-84.3635338,35.5197984
+Vanderbilt University,Nashville,TN,South,Graduate,Private,CoEd,0.1309,1481,6818,43838,13151,14,13000,-86.7816016,36.1626638
+Tennessee Technological University,Cookeville,TN,South,Graduate,Public,CoEd,0.9441,1105,10039,7679,7523,79,15587,-85.5016423,36.162839
+Lincoln Memorial University,Harrogate,TN,South,Graduate,Private,CoEd,0.7437,1055,1622,19970,6226,36,18000,-83.6568579,36.5823046
+Bryan College-Dayton,Dayton,TN,South,Graduate,Private,CoEd,0.4842,1065,1124,22200,5271,36,18625,-85.0124535,35.4939587
+Tennessee Wesleyan College,Athens,TN,South,Graduate,Private,CoEd,0.6667,1002,981,22300,4094,82,18750,-84.5929898,35.4428512
+Trevecca Nazarene University,Nashville,TN,South,Graduate,Private,CoEd,0.7308,1066,1609,23126,6091,40,19500,-86.7816016,36.1626638
+The University of Tennessee-Knoxville,Knoxville,TN,South,Graduate,Public,CoEd,0.7483,1198,21396,11876,10046,55,19998.5,-83.9207392,35.9606384
+East Tennessee State University,Johnson City,TN,South,Graduate,Public,CoEd,0.9174,1030,11162,7667,6676,115,20000,-82.3534727,36.313439700000004
+The University of Tennessee-Chattanooga,Chattanooga,TN,South,Graduate,Public,CoEd,0.7728,1088,10213,8138,7484,69,20090.5,-85.3096801,35.0456297
+Johnson University,Knoxville,TN,South,Graduate,Private,CoEd,0.5637,1034,886,12050,6472,76,20199,-83.9207392,35.9606384
+Lipscomb University,Nashville,TN,South,Graduate,Private,CoEd,0.5558,1175,2875,27390,7184,49,20500,-86.7816016,36.1626638
+King University,Bristol,TN,South,Graduate,Private,CoEd,0.5668,1042,2344,25708,6295,56,21260,-82.1887444,36.5951059
+Aquinas College,Nashville,TN,South,Graduate,Private,CoEd,0.6104,1123,406,20550,5160,38,21426,-86.7816016,36.1626638
+Middle Tennessee State University,Murfreesboro,TN,South,Graduate,Public,CoEd,0.7206,1032,19928,7876,7094,93,21743,-86.39027,35.8456213
+Cumberland University,Lebanon,TN,South,Graduate,Private,CoEd,0.4642,1044,1167,20200,5511,60,21875,-86.2911024,36.2081098
+Belmont University,Nashville,TN,South,Graduate,Private,CoEd,0.8272,1176,5778,28660,8696,20,22707,-86.7816016,36.1626638
+Austin Peay State University,Clarksville,TN,South,Graduate,Public,CoEd,0.8927,1010,9003,7168,6836,112,23202,-87.3594528,36.5297706
+Milligan College,Milligan College,TN,South,Graduate,Private,CoEd,0.6241,1097,880,28730,5892,55,23500,-82.2951115,36.3016849
+The University of Tennessee-Martin,Martin,TN,South,Graduate,Public,CoEd,0.7334,1050,6387,8024,6724,106,24109,-88.8503379,36.3433965
+Carson-Newman University,Jefferson City,TN,South,Graduate,Private,CoEd,0.624,1083,1701,24460,5567,93,24648,-83.492396,36.122311
+Union University,Jackson,TN,South,Graduate,Private,CoEd,0.6858,1170,2441,28150,7531,35,25000,-88.8139469,35.6145169
+Bethel University,McKenzie,TN,South,Graduate,Private,CoEd,0.5742,930,4638,15714,3989,129,25053,-88.5186636,36.1325616
+University of Memphis,Memphis,TN,South,Graduate,Public,CoEd,0.474,1029,16093,8619,8374,98,25250,-90.0489801,35.1495343
+Visible Music College,Memphis,TN,South,Bachelor,Private,CoEd,0.2398,1031,112,19600,2997,95,25625,-90.0489801,35.1495343
+Freed-Hardeman University,Henderson,TN,South,Graduate,Private,CoEd,0.9339,1117,1310,20468,6205,53,26000,-88.641441,35.4392435
+Christian Brothers University,Memphis,TN,South,Graduate,Private,CoEd,0.4971,1105,1292,29190,6193,70,26500,-90.0489801,35.1495343
+Fisk University,Nashville,TN,South,Graduate,Private,CoEd,0.8345,946,721,20858,6043,117,27000,-86.7816016,36.1626638
+Maryville College,Maryville,TN,South,Bachelor,Private,CoEd,0.7083,1049,1213,31754,6391,67,27000,-83.9704593,35.7564719
+Rhodes College,Memphis,TN,South,Graduate,Private,CoEd,0.5999,1296,2007,41572,8062,40,27000,-90.0489801,35.1495343
+O'More College of Design,Franklin,TN,South,Bachelor,Private,CoEd,0.5234,1050,169,26688,3959,50,27250,-86.8688899,35.9250637
+Lee University,Cleveland,TN,South,Graduate,Private,CoEd,0.8905,1076,4117,14280,5854,82,27723.5,-84.8766115,35.1595182
+Tusculum College,Greeneville,TN,South,Graduate,Private,CoEd,0.7194,990,1746,22670,4798,107,28000,-82.8309861,36.1631574
+Watkins College of Art Design & Film,Nashville,TN,South,Bachelor,Private,CoEd,0.2636,1000,288,20250,4948,153,29125,-86.7816016,36.1626638
+Baptist Memorial College of Health Sciences,Memphis,TN,South,Bachelor,Private,CoEd,0.5373,1110,1169,10412,6656,40,30000,-90.0489801,35.1495343
+Memphis College of Art,Memphis,TN,South,Graduate,Private,CoEd,0.3806,1025,365,28870,3878,111,33125,-90.0489801,35.1495343
+Lane College,Jackson,TN,South,Bachelor,Private,CoEd,0.4327,762,1262,9780,4817,130,33170,-88.8139469,35.6145169
+Rice University,Houston,TX,South,Graduate,Private,CoEd,0.151,1460,3888,40566,14702,17,9641.5,-95.3698028,29.7604267
+The University of Texas Rio Grande Valley,Edinburg,TX,South,Graduate,Public,CoEd,0.628,953,17811,5173,7856,108,12036.5,-98.1633432,26.3017374
+Texas A & M University-Texarkana,Texarkana,TX,South,Graduate,Public,CoEd,0.4755,897,1386,6059,8395,84,12500,-94.0476882,33.425125
+The University of Texas of the Permian Basin,Odessa,TX,South,Graduate,Public,CoEd,0.87,963,3311,5250,7275,81,13750,-102.3676431,31.8456816
+Texas A & M International University,Laredo,TX,South,Graduate,Public,CoEd,0.467,906,6706,6453,7925,106,14929,-99.4803241,27.5305671
+Sul Ross State University,Alpine,TX,South,Graduate,Public,CoEd,0.934,890,2018,5676,6028,137,15250,-103.6610115,30.3584919
+University of Houston-Clear Lake,Houston,TX,South,Graduate,Public,CoEd,0.5736,1044,5072,5802,8185,74,17090,-95.3698028,29.7604267
+The University of Texas at Tyler,Tyler,TX,South,Graduate,Public,CoEd,0.8358,1051,5550,7312,7379,84,18345,-95.3010624,32.3512601
+The University of Texas at Arlington,Arlington,TX,South,Graduate,Public,CoEd,0.614,1053,29616,8878,8946,68,18750,-97.1080656,32.735687
+Wayland Baptist University,Plainview,TX,South,Graduate,Private,CoEd,0.9774,946,3716,12960,4652,98,18875,-101.7068417,34.1847936
+Texas A & M University-College Station,College Station,TX,South,Graduate,Public,CoEd,0.7103,1206,46941,9685,9961,42,19000,-96.3344068,30.627977
+The University of Texas at Dallas,Richardson,TX,South,Graduate,Public,CoEd,0.6194,1259,14300,10864,12307,56,19000,-96.7298519,32.9483335
+University of Houston-Downtown,Houston,TX,South,Graduate,Public,CoEd,0.8417,894,13662,5516,7458,118,19003,-95.3698028,29.7604267
+University of Houston,Houston,TX,South,Graduate,Public,CoEd,0.6299,1139,31643,8605,10542,62,19702.5,-95.3698028,29.7604267
+Texas A & M University-Kingsville,Kingsville,TX,South,Graduate,Public,CoEd,0.8357,922,8815,7554,6948,126,20000,-97.856109,27.5158689
+Texas Woman's University,Denton,TX,South,Graduate,Public,CoEd,0.8531,953,9327,7836,8085,65,20000,-97.1330683,33.2148412
+University of North Texas at Dallas,Dallas,TX,South,Graduate,Public,CoEd,0.821,887,1623,7650,8846,76,20000,-96.7969879,32.7766642
+University of North Texas,Denton,TX,South,Graduate,Public,CoEd,0.6538,1096,29758,9346,10010,76,20000,-97.1330683,33.2148412
+Texas A & M University-Commerce,Commerce,TX,South,Graduate,Public,CoEd,0.4784,909,7358,5892,6276,101,20250,-95.8999656,33.2470567
+Tarleton State University,Stephenville,TX,South,Graduate,Public,CoEd,0.5254,961,10214,6516,7428,76,20500,-98.2022633,32.2206958
+Angelo State University,San Angelo,TX,South,Graduate,Public,CoEd,0.8244,976,5290,6856,6888,119,21319.5,-100.4370375,31.4637723
+Texas State University,San Marcos,TX,South,Graduate,Public,CoEd,0.729,1032,32177,8950,7582,84,21358.5,-97.9413941,29.8832749
+West Texas A & M University,Canyon,TX,South,Graduate,Public,CoEd,0.6742,970,7121,6782,7444,107,21374,-101.9188024,34.9803342
+Trinity University,San Antonio,TX,South,Graduate,Private,CoEd,0.4842,1281,2223,36214,10153,21,21967,-98.4936282,29.4241219
+Texas Christian University,Fort Worth,TX,South,Graduate,Private,CoEd,0.4887,1207,8600,38600,10265,32,22000,-97.3307658,32.7554883
+The University of Texas at Austin,Austin,TX,South,Graduate,Public,CoEd,0.3966,1296,38914,9830,11172,36,22159.5,-97.7430608,30.267153
+Sam Houston State University,Huntsville,TX,South,Graduate,Public,CoEd,0.7367,1000,16819,7294,7338,86,22208,-95.5507771,30.7235263
+Lamar University,Beaumont,TX,South,Graduate,Public,CoEd,0.7881,963,9043,7659,7587,118,22486,-94.1265562,30.080174
+Midwestern State University,Wichita Falls,TX,South,Graduate,Public,CoEd,0.6164,995,5142,7753,7325,83,22500,-98.4933873,33.9137085
+Texas Tech University,Lubbock,TX,South,Graduate,Public,CoEd,0.6613,1110,28278,7811,8890,60,22500,-101.8551665,33.5778631
+Southern Methodist University,Dallas,TX,South,Graduate,Private,CoEd,0.524,1316,6340,45940,11624,33,22500,-96.7969879,32.7766642
+Dallas Baptist University,Dallas,TX,South,Graduate,Private,CoEd,0.4621,1075,3357,23650,7943,60,22638,-96.7969879,32.7766642
+Texas A & M University-Corpus Christi,Corpus Christi,TX,South,Graduate,Public,CoEd,0.8462,970,9074,7655,7563,87,23000,-97.396381,27.8005828
+University of Dallas,Irving,TX,South,Graduate,Private,CoEd,0.8513,1211,1324,34430,7399,21,23250,-96.9488945,32.8140177
+The University of Texas at San Antonio,San Antonio,TX,South,Graduate,Public,CoEd,0.7591,1037,23815,7457,7567,86,23348,-98.4936282,29.4241219
+Lubbock Christian University,Lubbock,TX,South,Graduate,Private,CoEd,0.9432,1010,1406,19600,6162,81,23628.5,-101.8551665,33.5778631
+University of St Thomas,Houston,TX,South,Graduate,Private,CoEd,0.7899,1111,1563,29440,5944,42,23823,-95.3698028,29.7604267
+McMurry University,Abilene,TX,South,Graduate,Private,CoEd,0.614,901,953,25019,5791,125,25000,-99.7331439,32.4487364
+Schreiner University,Kerrville,TX,South,Graduate,Private,CoEd,0.9353,997,1001,24360,5958,81,25000,-99.1403189,30.0474332
+Southwestern Adventist University,Keene,TX,South,Graduate,Private,CoEd,0.4965,905,726,19460,6173,130,25000,-97.3239042,32.3968092
+Houston Baptist University,Houston,TX,South,Graduate,Private,CoEd,0.3573,1054,2279,28800,6377,65,25000,-95.3698028,29.7604267
+Our Lady of the Lake University,San Antonio,TX,South,Graduate,Private,CoEd,0.4952,941,1556,24596,6437,79,25000,-98.4936282,29.4241219
+Stephen F Austin State University,Nacogdoches,TX,South,Graduate,Public,CoEd,0.5851,998,10692,8892,7163,111,25000,-94.6554874,31.6035129
+Texas Wesleyan University,Fort Worth,TX,South,Graduate,Private,CoEd,0.3806,984,1676,23144,7232,73,25000,-97.3307658,32.7554883
+Saint Edward's University,Austin,TX,South,Graduate,Private,CoEd,0.7836,1116,3991,36550,8140,62,25000,-97.7430608,30.267153
+Howard Payne University,Brownwood,TX,South,Graduate,Private,CoEd,0.8212,976,1037,24600,5718,76,25125,-98.9911611,31.709319700000002
+Baylor University,Waco,TX,South,Graduate,Private,CoEd,0.5536,1227,13801,38120,8985,39,25131,-97.1466695,31.549333
+Concordia University-Texas,Austin,TX,South,Graduate,Private,CoEd,0.8529,1021,1525,26960,6515,68,25680.5,-97.7430608,30.267153
+University of Mary Hardin-Baylor,Belton,TX,South,Graduate,Private,CoEd,0.7991,1064,3039,25650,7308,80,25851.5,-97.464453,31.0560132
+Hardin-Simmons University,Abilene,TX,South,Graduate,Private,CoEd,0.568,1037,1576,22350,6579,67,25864,-99.7331439,32.4487364
+Abilene Christian University,Abilene,TX,South,Graduate,Private,CoEd,0.5047,1091,3572,29450,7535,53,25985,-99.7331439,32.4487364
+East Texas Baptist University,Marshall,TX,South,Graduate,Private,CoEd,0.5599,952,1183,23280,6241,124,26000,-94.3674184,32.5448714
+Austin College,Sherman,TX,South,Graduate,Private,CoEd,0.5438,1159,1272,33840,7600,29,26000,-96.6088805,33.6356618
+Southwestern University,Georgetown,TX,South,Bachelor,Private,CoEd,0.4852,1159,1536,36120,8078,62,26278,-97.6779842,30.6332618
+The King's University,Southlake,TX,South,Graduate,Private,CoEd,1,1016,473,12390,8277,77,26500,-97.1341783,32.9412363
+Texas Lutheran University,Seguin,TX,South,Graduate,Private,CoEd,0.5587,1020,1270,26800,6727,90,27000,-97.9647269,29.5688411
+University of the Incarnate Word,San Antonio,TX,South,Graduate,Private,CoEd,0.9321,963,6325,26490,7772,75,27000,-98.4936282,29.4241219
+St Mary's University,San Antonio,TX,South,Graduate,Private,CoEd,0.5946,1033,2309,26186,9861,51,27000,-98.4936282,29.4241219
+Dallas Christian College,Dallas,TX,South,Bachelor,Private,CoEd,0.3796,996,309,15492,4159,95,27121,-96.7969879,32.7766642
+LeTourneau University,Longview,TX,South,Graduate,Private,CoEd,0.494,1177,2015,26910,7810,65,28000,-94.7404891,32.5007037
+Prairie View A & M University,Prairie View,TX,South,Graduate,Public,CoEd,0.3913,850,6905,9461,7649,176,28554,-95.9877339,30.0932737
+Texas Southern University,Houston,TX,South,Graduate,Public,CoEd,0.5192,812,6880,8126,7225,149,31000,-95.3698028,29.7604267
+Paul Quinn College,Dallas,TX,South,Bachelor,Private,CoEd,0.8997,1070,272,13375,5094,192,38125,-96.7969879,32.7766642
+Brigham Young University-Provo,Provo,UT,West,Graduate,Private,CoEd,0.47,1290,27163,5000,9911,12,11000,-111.6585337,40.2338438
+Utah State University,Logan,UT,West,Graduate,Public,CoEd,0.9783,1067,21087,6250,8462,50,13000,-111.8338359,41.7369803
+Southern Utah University,Cedar City,UT,West,Graduate,Public,CoEd,0.6103,1063,5514,6138,6339,64,13237,-113.0618931,37.6774769
+University of Utah,Salt Lake City,UT,West,Graduate,Public,CoEd,0.8142,1131,22804,7835,8467,32,15000,-111.8910474,40.7607793
+Westminster College,Salt Lake City,UT,West,Graduate,Private,CoEd,0.9576,1122,2188,30364,8317,19,25000,-111.8910474,40.7607793
+Bluefield College,Bluefield,VA,South,Bachelor,Private,CoEd,0.9799,907,897,22840,4949,77,18873,-81.2712105,37.252617
+College of William and Mary,Williamsburg,VA,South,Graduate,Public,CoEd,0.3302,1373,6256,17656,10749,6,19500,-76.7074571,37.2707022
+University of Virginia-Main Campus,Charlottesville,VA,South,Graduate,Public,CoEd,0.29,1357,15515,13208,12867,17,19633,-78.4766781,38.0293059
+University of Richmond,University of Richmond,VA,South,Graduate,Private,CoEd,0.318,1337,3223,46680,11413,15,19935,-77.5409744,37.5758681
+George Mason University,Fairfax,VA,South,Graduate,Public,CoEd,0.6665,1152,21678,10382,10466,16,20000,-77.3063733,38.8462236
+James Madison University,Harrisonburg,VA,South,Graduate,Public,CoEd,0.6573,1153,18697,9662,7993,23,20500,-78.8689155,38.4495688
+The University of Virginia's College at Wise,Wise,VA,South,Bachelor,Public,CoEd,0.6882,946,1477,8868,6844,102,20844.5,-82.5757108,36.9759345
+Radford University,Radford,VA,South,Graduate,Public,CoEd,0.7891,968,8843,9360,7820,42,21500,-80.5764477,37.1317924
+Washington and Lee University,Lexington,VA,South,Graduate,Private,CoEd,0.1946,1395,1880,45617,12264,17,21500,-79.4428157,37.7840208
+Eastern Mennonite University,Harrisonburg,VA,South,Graduate,Private,CoEd,0.6044,1003,1198,30800,5973,26,21700,-78.8689155,38.4495688
+University of Mary Washington,Fredericksburg,VA,South,Graduate,Public,CoEd,0.7672,1114,4101,10312,7533,23,22247.5,-77.4605399,38.3031837
+Old Dominion University,Norfolk,VA,South,Graduate,Public,CoEd,0.8189,1007,19842,8970,8556,51,23178.5,-76.2858726,36.8507689
+Liberty University,Lynchburg,VA,South,Graduate,Private,CoEd,0.2232,1040,49340,21000,4051,85,23250,-79.1422464,37.4137536
+Virginia Military Institute,Lexington,VA,South,Bachelor,Public,CoEd,0.444,1162,1700,15518,7655,24,24100,-79.4428157,37.7840208
+Virginia Commonwealth University,Richmond,VA,South,Graduate,Public,CoEd,0.7535,1105,22280,12398,8288,45,24151,-77.4360481,37.5407246
+Southern Virginia University,Buena Vista,VA,South,Bachelor,Private,CoEd,0.4707,1056,703,14600,5642,61,24185,-79.3539238,37.7343004
+Virginia Polytechnic Institute and State University,Blacksburg,VA,South,Graduate,Public,CoEd,0.7263,1215,24191,12017,10189,21,24250,-80.4139393,37.2295733
+Longwood University,Farmville,VA,South,Graduate,Public,CoEd,0.7292,1005,4400,11580,7032,39,24588.5,-78.3919401,37.3020965
+Averett University,Danville,VA,South,Graduate,Private,CoEd,0.5964,923,836,29150,5641,88,25000,-79.3950228,36.5859718
+Shenandoah University,Winchester,VA,South,Graduate,Private,CoEd,0.8259,994,1875,30188,7275,48,25000,-78.1633341,39.1856597
+Regent University,Virginia Beach,VA,South,Graduate,Private,CoEd,0.7982,1066,2273,16478,7327,54,25000,-75.977985,36.8529263
+Christopher Newport University,Newport News,VA,South,Graduate,Public,CoEd,0.5588,1152,5084,11646,7985,32,25000,-76.4730122,37.0870821
+Marymount University,Arlington,VA,South,Graduate,Private,CoEd,0.8396,1001,2343,27470,8347,36,25000,-77.0909809,38.8816208
+Sweet Briar College,Sweet Briar,VA,South,Graduate,Private,Women,0.9354,1056,561,34935,7157,47,25500,-79.0801084,37.5565736
+Hampden-Sydney College,Hampden-Sydney,VA,South,Bachelor,Private,Men,0.4727,1098,1105,39204,8041,78,26848.5,-78.4610298,37.2403758
+Ferrum College,Ferrum,VA,South,Bachelor,Private,CoEd,0.7331,852,1447,29795,5996,109,27000,-80.0133712,36.9229159
+Bridgewater College,Bridgewater,VA,South,Bachelor,Private,CoEd,0.4782,1056,1768,30380,6299,44,27000,-78.976696,38.3820706
+Emory & Henry College,Emory,VA,South,Graduate,Private,CoEd,0.7172,995,997,30326,6341,58,27000,-81.834939,36.773811
+Hampton University,Hampton,VA,South,Graduate,Private,CoEd,0.2906,999,3456,21760,6383,86,27000,-76.3452218,37.0298687
+Hollins University,Roanoke,VA,South,Graduate,Private,Women,0.5647,1082,588,34295,6733,25,27000,-79.9414266,37.2709704
+Lynchburg College,Lynchburg,VA,South,Graduate,Private,CoEd,0.6675,998,2079,34545,7284,36,27000,-79.1422464,37.4137536
+Roanoke College,Salem,VA,South,Bachelor,Private,CoEd,0.6932,1087,1986,38177,7355,46,27000,-80.0547626,37.2934681
+Randolph College,Lynchburg,VA,South,Graduate,Private,CoEd,0.8101,1086,658,34110,7688,61,27000,-79.1422464,37.4137536
+Virginia Wesleyan College,Norfolk,VA,South,Bachelor,Private,CoEd,0.8904,991,1492,33286,7759,95,27000,-76.2858726,36.8507689
+Randolph-Macon College,Ashland,VA,South,Bachelor,Private,CoEd,0.6034,1086,1377,36340,7760,57,27000,-77.4799837,37.7590318
+Mary Baldwin College,Staunton,VA,South,Graduate,Private,Women,0.9545,979,1296,29595,6562,45,27500,-79.0716958,38.149576
+Virginia State University,Petersburg,VA,South,Graduate,Public,CoEd,0.8006,837,4481,8002,7362,146,28685.5,-77.4019267,37.2279279
+Norfolk State University,Norfolk,VA,South,Graduate,Public,CoEd,0.6567,866,5284,7552,7599,141,31000,-76.2858726,36.8507689
+Virginia Union University,Richmond,VA,South,Graduate,Private,CoEd,0.2389,776,1322,15130,5160,185,33450,-77.4360481,37.5407246
+Middlebury College,Middlebury,VT,Northeast,Graduate,Private,CoEd,0.1717,1379,2498,46044,10753,11,17500,-73.16734,44.015337100000004
+University of Vermont,Burlington,VT,Northeast,Graduate,Public,CoEd,0.7344,1191,9958,16226,9742,37,21614.5,-73.212072,44.4758825
+Southern Vermont College,Bennington,VT,Northeast,Bachelor,Private,CoEd,0.9373,849,441,22645,5283,127,24750,-73.1967741,42.8781345
+Castleton University,Castleton,VT,Northeast,Graduate,Public,CoEd,0.9164,967,1890,10772,6082,75,25000,-73.179832,43.6106223
+Johnson State College,Johnson,VT,Northeast,Graduate,Public,CoEd,0.9546,941,1363,10604,6771,116,26000,-72.6615081,44.6400507
+Lyndon State College,Lyndonville,VT,Northeast,Graduate,Public,CoEd,0.9914,937,1266,10700,6190,160,27000,-72.0031514,44.5336665
+Norwich University,Northfield,VT,Northeast,Graduate,Private,CoEd,0.6574,1053,2584,34704,6990,44,27000,-72.6564986,44.1511723
+Champlain College,Burlington,VT,Northeast,Graduate,Private,CoEd,0.6417,1150,2918,33000,7420,44,27000,-73.212072,44.4758825
+University of Washington-Tacoma Campus,Tacoma,WA,West,Graduate,Public,CoEd,0.8452,979,3788,12262,9103,27,15797,-122.4442906,47.2528768
+University of Washington-Bothell Campus,Bothell,WA,West,Graduate,Public,CoEd,0.7915,1009,4378,11911,9933,27,15797,-122.2055884,47.76095
+University of Washington-Seattle Campus,Seattle,WA,West,Graduate,Public,CoEd,0.5521,1240,29468,12394,11224,27,15797,-122.3320708,47.6062095
+The Evergreen State College,Olympia,WA,West,Graduate,Public,CoEd,0.989,1043,3802,8682,7706,80,17264,-122.9006951,47.0378741
+Whitman College,Walla Walla,WA,West,Bachelor,Private,CoEd,0.4101,1323,1480,44800,8480,20,17500,-118.3430208,46.0645809
+Western Washington University,Bellingham,WA,West,Graduate,Public,CoEd,0.8457,1110,14054,8965,8375,29,19500,-122.4786854,48.7519112
+Washington State University,Pullman,WA,West,Graduate,Public,CoEd,0.8208,1030,23585,12428,9119,33,20500,-117.1817377,46.7297771
+Eastern Washington University,Cheney,WA,West,Graduate,Public,CoEd,0.7439,958,12402,7972,7820,52,20800,-117.5757622,47.4873895
+Central Washington University,Ellensburg,WA,West,Graduate,Public,CoEd,0.8646,978,9751,9017,7638,66,21500,-120.5478474,46.9965144
+University of Puget Sound,Tacoma,WA,West,Graduate,Private,CoEd,0.7929,1230,2550,43428,9534,32,23500,-122.4442906,47.2528768
+Northwest University,Kirkland,WA,West,Graduate,Private,CoEd,0.9612,1018,1453,26968,6352,33,23724.5,-122.2059833,47.6768927
+Saint Martin's University,Lacey,WA,West,Graduate,Private,CoEd,0.8882,1057,1316,31688,6298,58,24887,-122.8231915,47.0342629
+Seattle Pacific University,Seattle,WA,West,Graduate,Private,CoEd,0.834,1140,3253,35472,8426,23,25000,-122.3320708,47.6062095
+Seattle University,Seattle,WA,West,Graduate,Private,CoEd,0.7335,1183,4415,38205,9148,22,25000,-122.3320708,47.6062095
+Gonzaga University,Spokane,WA,West,Graduate,Private,CoEd,0.6751,1207,4754,36535,8780,15,25500,-117.4260465,47.6587802
+Pacific Lutheran University,Tacoma,WA,West,Graduate,Private,CoEd,0.7501,1115,2874,36530,7518,29,26800,-122.4442906,47.2528768
+Walla Walla University,College Place,WA,West,Graduate,Private,CoEd,0.5779,1075,1639,25866,4355,35,27000,-118.3883012,46.0493026
+DigiPen Institute of Technology,Redmond,WA,West,Graduate,Private,CoEd,0.6488,1211,932,27360,7883,23,31000,-122.121512,47.6739881
+University of Wisconsin Colleges,Madison,WI,Midwest,Associate,Public,CoEd,0.9976,970,11530,5144,5579,91,10184,-89.4012302,43.0730517
+Bellin College,Green Bay,WI,Midwest,Graduate,Private,CoEd,0.4865,1050,305,20500,7059,10,15250,-88.019826,44.519159
+University of Wisconsin-Green Bay,Green Bay,WI,Midwest,Graduate,Public,CoEd,0.8735,1050,5674,7758,6576,35,21065,-88.019826,44.519159
+University of Wisconsin-Madison,Madison,WI,Midwest,Graduate,Public,CoEd,0.5694,1286,29302,10410,11143,15,22805,-89.4012302,43.0730517
+University of Wisconsin-Parkside,Kenosha,WI,Midwest,Graduate,Public,CoEd,0.8602,990,4274,7326,6305,114,22899,-87.8211854,42.5847425
+University of Wisconsin-La Crosse,La Crosse,WI,Midwest,Graduate,Public,CoEd,0.7629,1145,9492,8795,6783,18,23105,-91.2395807,43.8013556
+University of Wisconsin-Eau Claire,Eau Claire,WI,Midwest,Graduate,Public,CoEd,0.8369,1110,9987,8743,7218,27,23304,-91.4984941,44.811349
+University of Wisconsin-Superior,Superior,WI,Midwest,Graduate,Public,CoEd,0.8857,1010,2353,7994,6343,81,23375,-92.1040796,46.7207737
+Concordia University-Wisconsin,Mequon,WI,Midwest,Graduate,Private,CoEd,0.7541,1089,4280,26160,7976,66,23476,-88.0314174,43.2159232
+University of Wisconsin-Oshkosh,Oshkosh,WI,Midwest,Graduate,Public,CoEd,0.8034,1030,10337,7437,7000,40,23982,-88.5426136,44.0247062
+University of Wisconsin-Platteville,Platteville,WI,Midwest,Graduate,Public,CoEd,0.944,1090,7888,7491,6402,40,24000,-90.4784621,42.73416
+University of Wisconsin-River Falls,River Falls,WI,Midwest,Graduate,Public,CoEd,0.8954,1050,5381,7751,7196,43,24124,-92.6238082,44.8613563
+University of Wisconsin-Stevens Point,Stevens Point,WI,Midwest,Graduate,Public,CoEd,0.8941,1050,8880,7668,6497,32,24922,-89.574563,44.5235792
+Wisconsin Lutheran College,Milwaukee,WI,Midwest,Graduate,Private,CoEd,0.6432,1079,1060,25960,5976,30,25000,-87.9064736,43.0389025
+University of Wisconsin-Stout,Menomonie,WI,Midwest,Graduate,Public,CoEd,0.908,1050,8094,9025,6723,38,25000,-91.9193422,44.8755183
+University of Wisconsin-Whitewater,Whitewater,WI,Midwest,Graduate,Public,CoEd,0.8179,1050,10533,7600,7211,53,25000,-88.7323272,42.8336205
+University of Wisconsin-Milwaukee,Milwaukee,WI,Midwest,Graduate,Public,CoEd,0.8955,1010,21577,9391,8138,56,25000,-87.9064736,43.0389025
+Edgewood College,Madison,WI,Midwest,Graduate,Private,CoEd,0.7622,1048,1863,25590,5719,24,26000,-89.4012302,43.0730517
+Silver Lake College of the Holy Family,Manitowoc,WI,Midwest,Graduate,Private,CoEd,0.474,820,296,24350,4374,65,26212,-87.657584,44.0886059
+Marian University,Fond Du Lac,WI,Midwest,Graduate,Private,CoEd,0.7674,950,1588,25930,6505,49,26798,-88.4470508,43.7730448
+Lakeland College,Plymouth,WI,Midwest,Graduate,Private,CoEd,0.547,949,2232,24090,6705,53,26915,-87.9770379,43.7486054
+Cardinal Stritch University,Milwaukee,WI,Midwest,Graduate,Private,CoEd,0.8298,1003,2304,26570,5660,55,27000,-87.9064736,43.0389025
+Northland College,Ashland,WI,Midwest,Bachelor,Private,CoEd,0.6343,1085,575,31480,6105,63,27000,-90.8837982,46.5924428
+Viterbo University,La Crosse,WI,Midwest,Graduate,Private,CoEd,0.6914,1089,2019,23790,6224,28,27000,-91.2395807,43.8013556
+Ripon College,Ripon,WI,Midwest,Bachelor,Private,CoEd,0.6745,1108,820,33482,6636,44,27000,-88.8359447,43.8422049
+Carroll University,Waukesha,WI,Midwest,Graduate,Private,CoEd,0.8084,1090,2934,28550,6708,36,27000,-88.2314813,43.0116784
+Saint Norbert College,De Pere,WI,Midwest,Graduate,Private,CoEd,0.8171,1125,2052,33023,6871,29,27000,-88.0603806,44.4488805
+Carthage College,Kenosha,WI,Midwest,Graduate,Private,CoEd,0.7165,1104,2835,36570,7889,42,27000,-87.8211854,42.5847425
+Milwaukee School of Engineering,Milwaukee,WI,Midwest,Graduate,Private,CoEd,0.6865,1243,2592,35520,8602,31,27000,-87.9064736,43.0389025
+Marquette University,Milwaukee,WI,Midwest,Graduate,Private,CoEd,0.6671,1220,8212,35930,9932,13,27000,-87.9064736,43.0389025
+Mount Mary University,Milwaukee,WI,Midwest,Graduate,Private,Women,0.3527,930,716,25852,5894,64,28134,-87.9064736,43.0389025
+Alverno College,Milwaukee,WI,Midwest,Graduate,Private,Women,0.6519,930,1689,24434,5749,78,32606.5,-87.9064736,43.0389025
+Appalachian Bible College,Mount Hope,WV,South,Graduate,Private,CoEd,0.6914,1007,196,13590,3068,57,9300,-81.1642682,37.8953906
+Bluefield State College,Bluefield,WV,South,Bachelor,Public,CoEd,0.3834,927,1529,5832,6165,189,19500,-81.2223195,37.2698395
+Concord University,Athens,WV,South,Graduate,Public,CoEd,0.3776,999,2234,6580,6084,164,21200,-81.0161994,37.4223414
+University of Charleston,Charleston,WV,South,Graduate,Private,CoEd,0.6077,988,1513,23200,6237,66,21940,-81.6326234,38.3498195
+Shepherd University,Shepherdstown,WV,South,Graduate,Public,CoEd,0.9829,999,3489,6570,6668,76,22478,-77.8041609,39.4300996
+Fairmont State University,Fairmont,WV,South,Graduate,Public,CoEd,0.6651,965,3699,6306,6479,140,22529.5,-80.1425781,39.4850848
+Marshall University,Huntington,WV,South,Graduate,Public,CoEd,0.7653,1021,8871,6526,7117,116,22705,-82.445154,38.4192496
+Ohio Valley University,Vienna,WV,South,Graduate,Private,CoEd,0.3235,944,387,19260,5029,105,23250,-81.5484578,39.3270191
+West Virginia State University,Institute,WV,South,Graduate,Public,CoEd,0.4144,942,2237,6228,6245,157,23250,-81.7657977,38.38377
+Davis & Elkins College,Elkins,WV,South,Bachelor,Private,CoEd,0.5822,986,839,27492,5444,86,23840.5,-79.8467349,38.9259397
+West Virginia University Institute of Technology,Montgomery,WV,South,Bachelor,Public,CoEd,0.6192,983,1115,6048,6634,85,23969,-81.3284452,38.1803833
+West Virginia University,Morgantown,WV,South,Graduate,Public,CoEd,0.8579,1069,21945,6960,9459,85,23969,-79.9558968,39.629526
+West Liberty University,West Liberty,WV,South,Graduate,Public,CoEd,0.7236,965,2264,6415,6527,104,24915,-80.5936851,40.169794
+West Virginia Wesleyan College,Buckhannon,WV,South,Graduate,Private,CoEd,0.7759,1005,1375,27858,5593,71,26000,-80.2320276,38.9939872
+Glenville State College,Glenville,WV,South,Bachelor,Public,CoEd,0.4656,900,1378,6696,6399,186,26000,-80.8376033,38.9342573
+Alderson Broaddus University,Philippi,WV,South,Graduate,Private,CoEd,0.4258,990,1024,22740,4964,73,27000,-80.0403578,39.1523198
+Wheeling Jesuit University,Wheeling,WV,South,Graduate,Private,CoEd,0.6263,1032,1131,28030,5917,31,27000,-80.7209149,40.0639616
+Bethany College,Bethany,WV,South,Graduate,Private,CoEd,0.6205,906,716,25736,5758,160,28549.5,-80.5567384,40.205627
+University of Wyoming,Laramie,WY,West,Graduate,Public,CoEd,0.9766,1118,9910,4646,9124,42,18750,-105.5911007,41.3113669
