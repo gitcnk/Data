@@ -39,3 +39,30 @@ two.prop.test <- function( x1, n1, x2, n2, direction)
 
   return(out)
 }
+
+
+two.prop.CI <- function( x1, n1, x2, n2, confidence)
+{
+  
+  p1hat <- x1/n1
+  p2hat <- x2/n2
+  
+  
+  difference <- p1hat - p2hat
+  
+  v1 <- p1hat*(1 - p1hat)/n1
+
+  v2 <- p2hat*(1 - p2hat)/n2
+  
+  sd <- sqrt(v1 + v2)
+  
+  z = abs(qnorm(p = (1-confidence)/2))
+  
+  lb <- difference - z*sd
+  ub <- difference + z*sd
+  
+  out <- list('difference(p1hat - p2hat)' = difference,
+              'confidence_interval' = c(lb,ub))
+  
+  return(out)
+}
