@@ -5,6 +5,8 @@
 
 Aircrafts <- read.csv('https://raw.githubusercontent.com/gitcnk/Data/master/Stat152/Aircrafts.csv')
 
+CommuteAtlanta <- read.csv('https://raw.githubusercontent.com/gitcnk/Data/master/Stat152/CommuteAtlanta.csv')
+
 
 
 ## Two proportions test
