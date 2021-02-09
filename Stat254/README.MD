@@ -4,3 +4,4 @@ Datasets for Stat 254
 2. The heart disease dataset is a cleaned version from UC Irvine.
 3. Wine descriptions from wine magazines : https://www.kaggle.com/christopheiv/winemagdata130k
 4. Covid19 Data from Mexico: https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
+5. Sumilated service time data, exponential mean = 20.
