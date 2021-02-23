@@ -1,4 +1,4 @@
-"Aircraft","Seats","Cargo","Speed","Flight_Length","Fuel_gal_per_hour","Cost_$_per_hour"
+"Aircraft","Seats","Cargo","Speed","Flight_Length","Gallons_used_per_hour","Dollar_Cost_per_hour"
 "B747-200/300",370,16.6,520,3148,3625,9153
 "B747-400",367,8.06,534,3960,3411,8443
 "L-1011",325,0.04,494,2023,1981,8042
