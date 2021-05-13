@@ -7,3 +7,5 @@ Datasets for Stat 254
 5. Sumilated service time data, exponential mean = 20.
 6. Canadian Wages 1994, from the 'car' package, Survey of Labour and Income Dynamics (SLID)
 7. House data4: Home Proces from Saratoga NY.  Owner: Richard De Veaux, Williams College.  
+8. Wages7:  A panel of 595 individuals from 1976 to 1982, taken from the Panel Study of Income Dynamics (PSID).
+
