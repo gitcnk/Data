@@ -5,5 +5,6 @@ Data for the senior seminar
 3. Home prices in Kings County in Washington State.  Source; Kaggle.  Kings county is the most populous county in WA, it is where Seattle is located.
 4. Dragons data is a artificial dataset to illustrare mixed models.
 5. GPA data for random effects models
+6. Real-estate dataset is from Cosma Shalizi's website in Carnegie Mellon
 
 
