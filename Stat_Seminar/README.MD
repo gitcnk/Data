@@ -7,5 +7,6 @@ Data for the senior seminar
 5. GPA data for random effects models
 6. Real-estate dataset is from Cosma Shalizi's website in Carnegie Mellon
 7. Ames housing data is from http://jse.amstat.org/v19n3/decock/AmesHousing.txt
+8. There is a large home prices dataset that comes with ggplot2 package.  It is called txhousing.
 
 
