@@ -10,6 +10,7 @@ Data for the senior seminar
 8. There is a large home prices dataset that comes with ggplot2 package.  It is called txhousing.
 9. Search Trems datasets are from Zaoseng and Matt - class of 2021.  Info: https://support.google.com/trends/answer/4365533?hl=en
 10. American Housing Survey 2011 is the data used in Mullainathan and Spiess, https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87
+11. High School dropout rates are from : https://datacenter.kidscount.org/data/tables/
 
 
 
