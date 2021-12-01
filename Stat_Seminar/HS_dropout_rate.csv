@@ -1,0 +1,865 @@
+﻿LocationType,Location,TimeFrame,DataFormat,Data
+Nation,United States,2005-06,Number,969082
+Nation,United States,2005-06,Percent,0.27
+Nation,United States,2006-07,Percent,0.26
+Nation,United States,2006-07,Number,1022819
+Nation,United States,2007-08,Number,1014392
+Nation,United States,2008-09,Percent,0.24
+Nation,United States,2007-08,Percent,0.25
+Nation,United States,2008-09,Number,985330
+Nation,United States,2009-10,Number,870542
+Nation,United States,2009-10,Percent,0.22
+Nation,United States,2010-11,Percent,0.2
+Nation,United States,2010-11,Number,N.A.
+Nation,United States,2011-12,Number,N.A.
+Nation,United States,2011-12,Percent,0.19
+Nation,United States,2012-13,Percent,0.18
+Nation,United States,2012-13,Number,N.A.
+State,Alabama,2011-12,Percent,0.25
+State,Alabama,2012-13,Percent,0.26
+State,Alabama,2010-11,Number,N.A.
+State,Alabama,2011-12,Number,N.A.
+State,Alabama,2012-13,Number,N.A.
+State,Alabama,2009-10,Percent,0.28
+State,Alabama,2010-11,Percent,0.24
+State,Alabama,2008-09,Number,18087
+State,Alabama,2009-10,Number,16914
+State,Alabama,2007-08,Percent,0.31
+State,Alabama,2008-09,Percent,0.3
+State,Alabama,2006-07,Number,19054
+State,Alabama,2007-08,Number,18608
+State,Alabama,2005-06,Percent,0.34
+State,Alabama,2006-07,Percent,0.33
+State,Alabama,2005-06,Number,19393
+State,Alaska,2005-06,Number,3708
+State,Alaska,2006-07,Percent,0.31
+State,Alaska,2005-06,Percent,0.33
+State,Alaska,2007-08,Number,3515
+State,Alaska,2006-07,Number,3436
+State,Alaska,2007-08,Percent,0.31
+State,Alaska,2008-09,Percent,0.27
+State,Alaska,2009-10,Number,2678
+State,Alaska,2008-09,Number,3026
+State,Alaska,2010-11,Percent,0.22
+State,Alaska,2009-10,Percent,0.25
+State,Alaska,2012-13,Number,N.A.
+State,Alaska,2011-12,Number,N.A.
+State,Alaska,2010-11,Number,N.A.
+State,Alaska,2012-13,Percent,0.2
+State,Alaska,2011-12,Percent,0.21
+State,Arizona,2011-12,Percent,0.23
+State,Arizona,2012-13,Percent,0.24
+State,Arizona,2010-11,Number,N.A.
+State,Arizona,2011-12,Number,N.A.
+State,Arizona,2012-13,Number,N.A.
+State,Arizona,2009-10,Percent,0.25
+State,Arizona,2010-11,Percent,0.21
+State,Arizona,2008-09,Number,23610
+State,Arizona,2009-10,Number,20678
+State,Arizona,2008-09,Percent,0.27
+State,Arizona,2007-08,Percent,0.29
+State,Arizona,2006-07,Number,24441
+State,Arizona,2007-08,Number,25613
+State,Arizona,2005-06,Percent,0.3
+State,Arizona,2006-07,Percent,0.3
+State,Arizona,2005-06,Number,22656
+State,Arkansas,2005-06,Number,7020
+State,Arkansas,2006-07,Percent,0.26
+State,Arkansas,2005-06,Percent,0.2
+State,Arkansas,2007-08,Number,8887
+State,Arkansas,2006-07,Number,9325
+State,Arkansas,2007-08,Percent,0.24
+State,Arkansas,2008-09,Percent,0.26
+State,Arkansas,2009-10,Number,9440
+State,Arkansas,2008-09,Number,9855
+State,Arkansas,2010-11,Percent,0.23
+State,Arkansas,2009-10,Percent,0.25
+State,Arkansas,2010-11,Number,N.A.
+State,Arkansas,2012-13,Number,N.A.
+State,Arkansas,2011-12,Number,N.A.
+State,Arkansas,2012-13,Percent,0.2
+State,Arkansas,2011-12,Percent,0.22
+State,California,2011-12,Percent,0.18
+State,California,2012-13,Percent,0.16
+State,California,2011-12,Number,N.A.
+State,California,2012-13,Number,N.A.
+State,California,2010-11,Number,N.A.
+State,California,2009-10,Percent,0.22
+State,California,2010-11,Percent,0.2
+State,California,2008-09,Number,151963
+State,California,2009-10,Number,112994
+State,California,2008-09,Percent,0.29
+State,California,2007-08,Percent,0.29
+State,California,2006-07,Number,147727
+State,California,2007-08,Number,151690
+State,California,2005-06,Percent,0.31
+State,California,2006-07,Percent,0.29
+State,California,2005-06,Number,152698
+State,Colorado,2005-06,Number,14396
+State,Colorado,2006-07,Percent,0.23
+State,Colorado,2005-06,Percent,0.24
+State,Colorado,2007-08,Number,15020
+State,Colorado,2006-07,Number,13923
+State,Colorado,2007-08,Percent,0.25
+State,Colorado,2008-09,Percent,0.22
+State,Colorado,2009-10,Number,12474
+State,Colorado,2008-09,Number,13703
+State,Colorado,2010-11,Percent,0.18
+State,Colorado,2009-10,Percent,0.2
+State,Colorado,2010-11,Number,N.A.
+State,Colorado,2012-13,Number,N.A.
+State,Colorado,2011-12,Number,N.A.
+State,Colorado,2012-13,Percent,0.17
+State,Colorado,2011-12,Percent,0.18
+State,Connecticut,2011-12,Percent,0.14
+State,Connecticut,2012-13,Percent,0.13
+State,Connecticut,2011-12,Number,N.A.
+State,Connecticut,2012-13,Number,N.A.
+State,Connecticut,2010-11,Number,N.A.
+State,Connecticut,2009-10,Percent,0.25
+State,Connecticut,2010-11,Percent,0.15
+State,Connecticut,2008-09,Number,11406
+State,Connecticut,2009-10,Number,11433
+State,Connecticut,2008-09,Percent,0.25
+State,Connecticut,2007-08,Percent,0.18
+State,Connecticut,2006-07,Number,8341
+State,Connecticut,2007-08,Number,8347
+State,Connecticut,2005-06,Percent,0.19
+State,Connecticut,2006-07,Percent,0.18
+State,Connecticut,2005-06,Number,8558
+State,Delaware,2005-06,Number,2254
+State,Delaware,2006-07,Percent,0.28
+State,Delaware,2005-06,Percent,0.24
+State,Delaware,2007-08,Number,2862
+State,Delaware,2006-07,Number,2812
+State,Delaware,2007-08,Percent,0.28
+State,Delaware,2008-09,Percent,0.26
+State,Delaware,2009-10,Number,2635
+State,Delaware,2008-09,Number,2795
+State,Delaware,2010-11,Percent,0.24
+State,Delaware,2009-10,Percent,0.24
+State,Delaware,2010-11,Number,N.A.
+State,Delaware,2012-13,Number,N.A.
+State,Delaware,2011-12,Number,N.A.
+State,Delaware,2012-13,Percent,0.23
+State,Delaware,2011-12,Percent,0.23
+City,District of Columbia,2011-12,Percent,0.29
+City,District of Columbia,2012-13,Percent,0.22
+City,District of Columbia,2011-12,Number,N.A.
+City,District of Columbia,2012-13,Number,N.A.
+City,District of Columbia,2010-11,Number,N.A.
+City,District of Columbia,2009-10,Percent,0.4
+City,District of Columbia,2010-11,Percent,0.39
+City,District of Columbia,2008-09,Number,2118
+City,District of Columbia,2009-10,Number,2407
+City,District of Columbia,2008-09,Percent,0.38
+City,District of Columbia,2007-08,Percent,0.44
+City,District of Columbia,2006-07,Number,2420
+City,District of Columbia,2007-08,Number,2634
+City,District of Columbia,2005-06,Percent,N.A.
+City,District of Columbia,2006-07,Percent,0.45
+City,District of Columbia,2005-06,Number,N.A.
+State,Florida,2005-06,Number,77236
+State,Florida,2006-07,Percent,0.35
+State,Florida,2005-06,Percent,0.36
+State,Florida,2007-08,Number,73709
+State,Florida,2006-07,Number,76770
+State,Florida,2007-08,Percent,0.33
+State,Florida,2008-09,Percent,0.31
+State,Florida,2009-10,Number,64478
+State,Florida,2008-09,Number,69117
+State,Florida,2010-11,Percent,0.28
+State,Florida,2009-10,Percent,0.29
+State,Florida,2010-11,Number,N.A.
+State,Florida,2012-13,Number,N.A.
+State,Florida,2011-12,Number,N.A.
+State,Florida,2012-13,Percent,0.24
+State,Florida,2011-12,Percent,0.25
+State,Georgia,2011-12,Percent,0.3
+State,Georgia,2012-13,Percent,0.3
+State,Georgia,2011-12,Number,N.A.
+State,Georgia,2012-13,Number,N.A.
+State,Georgia,2010-11,Number,N.A.
+State,Georgia,2009-10,Percent,0.3
+State,Georgia,2010-11,Percent,0.3
+State,Georgia,2008-09,Number,41794
+State,Georgia,2009-10,Number,39444
+State,Georgia,2008-09,Percent,0.32
+State,Georgia,2007-08,Percent,0.35
+State,Georgia,2006-07,Number,43599
+State,Georgia,2007-08,Number,44105
+State,Georgia,2005-06,Percent,0.38
+State,Georgia,2006-07,Percent,0.36
+State,Georgia,2005-06,Number,44348
+State,Hawaii,2005-06,Number,3544
+State,Hawaii,2006-07,Percent,0.25
+State,Hawaii,2005-06,Percent,0.24
+State,Hawaii,2007-08,Number,3665
+State,Hawaii,2006-07,Number,3619
+State,Hawaii,2007-08,Percent,0.24
+State,Hawaii,2008-09,Percent,0.25
+State,Hawaii,2009-10,Number,3593
+State,Hawaii,2008-09,Number,3784
+State,Hawaii,2010-11,Percent,0.26
+State,Hawaii,2009-10,Percent,0.25
+State,Hawaii,2010-11,Number,N.A.
+State,Hawaii,2012-13,Number,N.A.
+State,Hawaii,2011-12,Number,N.A.
+State,Hawaii,2012-13,Percent,0.22
+State,Hawaii,2011-12,Percent,0.22
+State,Idaho,2011-12,Percent,0.16
+State,Idaho,2012-13,Percent,0.18
+State,Idaho,2011-12,Number,N.A.
+State,Idaho,2012-13,Number,N.A.
+State,Idaho,2010-11,Number,N.A.
+State,Idaho,2009-10,Percent,0.16
+State,Idaho,2010-11,Percent,0.17
+State,Idaho,2008-09,Number,4043
+State,Idaho,2009-10,Number,3384
+State,Idaho,2008-09,Percent,0.19
+State,Idaho,2007-08,Percent,0.2
+State,Idaho,2007-08,Number,4114
+State,Idaho,2006-07,Number,3956
+State,Idaho,2005-06,Percent,0.2
+State,Idaho,2006-07,Percent,0.2
+State,Idaho,2005-06,Number,3907
+State,Illinois,2005-06,Number,32371
+State,Illinois,2006-07,Percent,0.2
+State,Illinois,2005-06,Percent,0.2
+State,Illinois,2006-07,Number,33561
+State,Illinois,2007-08,Number,32978
+State,Illinois,2007-08,Percent,0.2
+State,Illinois,2008-09,Percent,0.22
+State,Illinois,2009-10,Number,30647
+State,Illinois,2008-09,Number,37691
+State,Illinois,2010-11,Percent,0.2
+State,Illinois,2009-10,Percent,0.18
+State,Illinois,2010-11,Number,N.A.
+State,Illinois,2012-13,Number,N.A.
+State,Illinois,2011-12,Number,N.A.
+State,Illinois,2012-13,Percent,0.17
+State,Illinois,2011-12,Percent,0.18
+State,Indiana,2011-12,Percent,0.2
+State,Indiana,2012-13,Percent,0.19
+State,Indiana,2011-12,Number,N.A.
+State,Indiana,2012-13,Number,N.A.
+State,Indiana,2010-11,Number,N.A.
+State,Indiana,2009-10,Percent,0.23
+State,Indiana,2010-11,Percent,0.2
+State,Indiana,2008-09,Number,20986
+State,Indiana,2009-10,Number,19046
+State,Indiana,2008-09,Percent,0.25
+State,Indiana,2007-08,Percent,0.26
+State,Indiana,2007-08,Number,21615
+State,Indiana,2006-07,Number,21140
+State,Indiana,2005-06,Percent,0.27
+State,Indiana,2006-07,Percent,0.26
+State,Indiana,2005-06,Number,21129
+State,Iowa,2005-06,Number,5091
+State,Iowa,2006-07,Percent,0.13
+State,Iowa,2005-06,Percent,0.13
+State,Iowa,2006-07,Number,5310
+State,Iowa,2007-08,Number,5449
+State,Iowa,2007-08,Percent,0.14
+State,Iowa,2008-09,Percent,0.14
+State,Iowa,2009-10,Number,4730
+State,Iowa,2008-09,Number,5645
+State,Iowa,2010-11,Percent,0.11
+State,Iowa,2009-10,Percent,0.12
+State,Iowa,2010-11,Number,N.A.
+State,Iowa,2012-13,Number,N.A.
+State,Iowa,2011-12,Number,N.A.
+State,Iowa,2012-13,Percent,0.11
+State,Iowa,2011-12,Percent,0.11
+State,Kansas,2011-12,Percent,0.11
+State,Kansas,2012-13,Percent,0.12
+State,Kansas,2011-12,Number,N.A.
+State,Kansas,2012-13,Number,N.A.
+State,Kansas,2010-11,Number,N.A.
+State,Kansas,2009-10,Percent,0.15
+State,Kansas,2010-11,Percent,0.13
+State,Kansas,2008-09,Number,7479
+State,Kansas,2009-10,Number,5786
+State,Kansas,2008-09,Percent,0.2
+State,Kansas,2007-08,Percent,0.21
+State,Kansas,2007-08,Number,8126
+State,Kansas,2006-07,Number,8071
+State,Kansas,2005-06,Percent,0.22
+State,Kansas,2006-07,Percent,0.21
+State,Kansas,2005-06,Number,8632
+State,Kentucky,2005-06,Number,11379
+State,Kentucky,2006-07,Percent,0.24
+State,Kentucky,2005-06,Percent,0.23
+State,Kentucky,2006-07,Number,12074
+State,Kentucky,2007-08,Number,13571
+State,Kentucky,2007-08,Percent,0.26
+State,Kentucky,2008-09,Percent,0.22
+State,Kentucky,2009-10,Number,10714
+State,Kentucky,2008-09,Number,12058
+State,Kentucky,2010-11,Percent,0.19
+State,Kentucky,2009-10,Percent,0.2
+State,Kentucky,2010-11,Number,N.A.
+State,Kentucky,2012-13,Number,N.A.
+State,Kentucky,2011-12,Number,N.A.
+State,Kentucky,2012-13,Percent,0.17
+State,Kentucky,2011-12,Percent,0.18
+State,Louisiana,2011-12,Percent,0.28
+State,Louisiana,2012-13,Percent,0.27
+State,Louisiana,2011-12,Number,N.A.
+State,Louisiana,2012-13,Number,N.A.
+State,Louisiana,2010-11,Number,N.A.
+State,Louisiana,2009-10,Percent,0.31
+State,Louisiana,2010-11,Percent,0.29
+State,Louisiana,2008-09,Number,17332
+State,Louisiana,2009-10,Number,16604
+State,Louisiana,2008-09,Percent,0.33
+State,Louisiana,2007-08,Percent,0.36
+State,Louisiana,2007-08,Number,19761
+State,Louisiana,2006-07,Number,21671
+State,Louisiana,2005-06,Percent,0.41
+State,Louisiana,2006-07,Percent,0.39
+State,Louisiana,2005-06,Number,22656
+State,Maine,2005-06,Number,4016
+State,Maine,2006-07,Percent,0.22
+State,Maine,2005-06,Percent,0.24
+State,Maine,2006-07,Number,3612
+State,Maine,2007-08,Number,2322
+State,Maine,2007-08,Percent,0.14
+State,Maine,2008-09,Percent,0.2
+State,Maine,2009-10,Number,2914
+State,Maine,2008-09,Number,3242
+State,Maine,2010-11,Percent,0.14
+State,Maine,2009-10,Percent,0.17
+State,Maine,2010-11,Number,N.A.
+State,Maine,2012-13,Number,N.A.
+State,Maine,2011-12,Number,N.A.
+State,Maine,2012-13,Percent,0.13
+State,Maine,2011-12,Percent,0.13
+State,Maryland,2011-12,Percent,0.16
+State,Maryland,2012-13,Percent,0.14
+State,Maryland,2011-12,Number,N.A.
+State,Maryland,2012-13,Number,N.A.
+State,Maryland,2010-11,Number,N.A.
+State,Maryland,2009-10,Percent,0.18
+State,Maryland,2010-11,Percent,0.16
+State,Maryland,2008-09,Number,14455
+State,Maryland,2009-10,Number,12831
+State,Maryland,2008-09,Percent,0.2
+State,Maryland,2007-08,Percent,0.2
+State,Maryland,2007-08,Number,14385
+State,Maryland,2006-07,Number,14379
+State,Maryland,2005-06,Percent,0.2
+State,Maryland,2006-07,Percent,0.2
+State,Maryland,2005-06,Number,13981
+State,Massachusetts,2005-06,Number,15813
+State,Massachusetts,2006-07,Percent,0.19
+State,Massachusetts,2005-06,Percent,0.21
+State,Massachusetts,2006-07,Number,15144
+State,Massachusetts,2007-08,Number,14787
+State,Massachusetts,2007-08,Percent,0.18
+State,Massachusetts,2008-09,Percent,0.17
+State,Massachusetts,2009-10,Number,13551
+State,Massachusetts,2008-09,Number,13128
+State,Massachusetts,2010-11,Percent,0.15
+State,Massachusetts,2009-10,Percent,0.17
+State,Massachusetts,2010-11,Number,N.A.
+State,Massachusetts,2012-13,Number,N.A.
+State,Massachusetts,2011-12,Number,N.A.
+State,Massachusetts,2012-13,Percent,0.12
+State,Massachusetts,2011-12,Percent,0.14
+State,Michigan,2011-12,Percent,0.23
+State,Michigan,2012-13,Percent,0.22
+State,Michigan,2011-12,Number,N.A.
+State,Michigan,2012-13,Number,N.A.
+State,Michigan,2010-11,Number,N.A.
+State,Michigan,2009-10,Percent,0.24
+State,Michigan,2010-11,Percent,0.25
+State,Michigan,2008-09,Number,36898
+State,Michigan,2009-10,Number,35126
+State,Michigan,2008-09,Percent,0.25
+State,Michigan,2007-08,Percent,0.24
+State,Michigan,2007-08,Number,35777
+State,Michigan,2006-07,Number,33374
+State,Michigan,2006-07,Percent,0.23
+State,Michigan,2005-06,Number,39450
+State,Michigan,2005-06,Percent,0.28
+State,Minnesota,2005-06,Percent,0.14
+State,Minnesota,2005-06,Number,9392
+State,Minnesota,2006-07,Percent,0.14
+State,Minnesota,2006-07,Number,9314
+State,Minnesota,2007-08,Number,9495
+State,Minnesota,2007-08,Percent,0.14
+State,Minnesota,2008-09,Percent,0.13
+State,Minnesota,2009-10,Number,7952
+State,Minnesota,2008-09,Number,8600
+State,Minnesota,2010-11,Percent,0.11
+State,Minnesota,2009-10,Percent,0.12
+State,Minnesota,2010-11,Number,N.A.
+State,Minnesota,2012-13,Number,N.A.
+State,Minnesota,2011-12,Number,N.A.
+State,Minnesota,2011-12,Percent,0.12
+State,Minnesota,2012-13,Percent,0.09
+State,Mississippi,2012-13,Percent,0.32
+State,Mississippi,2011-12,Percent,0.32
+State,Mississippi,2011-12,Number,N.A.
+State,Mississippi,2012-13,Number,N.A.
+State,Mississippi,2010-11,Number,N.A.
+State,Mississippi,2009-10,Percent,0.36
+State,Mississippi,2010-11,Percent,0.31
+State,Mississippi,2009-10,Number,14476
+State,Mississippi,2008-09,Percent,0.38
+State,Mississippi,2008-09,Number,15031
+State,Mississippi,2007-08,Percent,0.36
+State,Mississippi,2007-08,Number,14017
+State,Mississippi,2006-07,Number,13871
+State,Mississippi,2006-07,Percent,0.36
+State,Mississippi,2005-06,Number,13682
+State,Mississippi,2005-06,Percent,0.36
+State,Missouri,2005-06,Percent,0.19
+State,Missouri,2005-06,Number,13675
+State,Missouri,2006-07,Percent,0.18
+State,Missouri,2006-07,Number,13349
+State,Missouri,2007-08,Number,13205
+State,Missouri,2007-08,Percent,0.18
+State,Missouri,2008-09,Number,12832
+State,Missouri,2008-09,Percent,0.17
+State,Missouri,2009-10,Number,12463
+State,Missouri,2010-11,Percent,0.15
+State,Missouri,2009-10,Percent,0.16
+State,Missouri,2010-11,Number,N.A.
+State,Missouri,2012-13,Number,N.A.
+State,Missouri,2011-12,Number,N.A.
+State,Missouri,2011-12,Percent,0.14
+State,Missouri,2012-13,Percent,0.13
+State,Montana,2012-13,Percent,0.15
+State,Montana,2011-12,Percent,0.14
+State,Montana,2011-12,Number,N.A.
+State,Montana,2012-13,Number,N.A.
+State,Montana,2010-11,Number,N.A.
+State,Montana,2009-10,Percent,0.18
+State,Montana,2010-11,Percent,0.16
+State,Montana,2009-10,Number,2229
+State,Montana,2008-09,Percent,0.18
+State,Montana,2008-09,Number,2214
+State,Montana,2007-08,Percent,0.18
+State,Montana,2007-08,Number,2277
+State,Montana,2006-07,Number,2299
+State,Montana,2006-07,Percent,0.19
+State,Montana,2005-06,Number,2280
+State,Montana,2005-06,Percent,0.18
+State,Nebraska,2005-06,Percent,0.13
+State,Nebraska,2005-06,Number,2956
+State,Nebraska,2006-07,Percent,0.14
+State,Nebraska,2006-07,Number,3144
+State,Nebraska,2007-08,Number,3871
+State,Nebraska,2007-08,Percent,0.16
+State,Nebraska,2008-09,Number,4021
+State,Nebraska,2008-09,Percent,0.17
+State,Nebraska,2009-10,Number,3748
+State,Nebraska,2010-11,Percent,0.1
+State,Nebraska,2009-10,Percent,0.16
+State,Nebraska,2010-11,Number,N.A.
+State,Nebraska,2012-13,Number,N.A.
+State,Nebraska,2011-12,Number,N.A.
+State,Nebraska,2011-12,Percent,0.07
+State,Nebraska,2012-13,Percent,0.07
+State,Nevada,2012-13,Percent,0.33
+State,Nevada,2011-12,Percent,0.4
+State,Nevada,2011-12,Number,N.A.
+State,Nevada,2012-13,Number,N.A.
+State,Nevada,2010-11,Number,N.A.
+State,Nevada,2009-10,Percent,0.42
+State,Nevada,2010-11,Percent,0.41
+State,Nevada,2009-10,Number,15289
+State,Nevada,2008-09,Percent,0.44
+State,Nevada,2008-09,Number,15432
+State,Nevada,2007-08,Percent,0.44
+State,Nevada,2007-08,Number,14588
+State,Nevada,2006-07,Number,14477
+State,Nevada,2006-07,Percent,0.46
+State,Nevada,2005-06,Number,13035
+State,Nevada,2005-06,Percent,0.44
+State,New Hampshire,2005-06,Percent,0.19
+State,New Hampshire,2005-06,Number,3269
+State,New Hampshire,2006-07,Percent,0.18
+State,New Hampshire,2006-07,Number,3247
+State,New Hampshire,2007-08,Number,2992
+State,New Hampshire,2007-08,Percent,0.17
+State,New Hampshire,2008-09,Number,2753
+State,New Hampshire,2008-09,Percent,0.16
+State,New Hampshire,2009-10,Number,2396
+State,New Hampshire,2010-11,Percent,0.13
+State,New Hampshire,2009-10,Percent,0.14
+State,New Hampshire,2010-11,Number,N.A.
+State,New Hampshire,2012-13,Number,N.A.
+State,New Hampshire,2011-12,Number,N.A.
+State,New Hampshire,2011-12,Percent,0.13
+State,New Hampshire,2012-13,Percent,0.13
+State,New Jersey,2012-13,Percent,0.11
+State,New Jersey,2011-12,Percent,0.13
+State,New Jersey,2011-12,Number,N.A.
+State,New Jersey,2012-13,Number,N.A.
+State,New Jersey,2010-11,Number,N.A.
+State,New Jersey,2009-10,Percent,0.13
+State,New Jersey,2010-11,Percent,0.13
+State,New Jersey,2009-10,Number,14180
+State,New Jersey,2008-09,Percent,0.15
+State,New Jersey,2008-09,Number,16326
+State,New Jersey,2007-08,Percent,0.15
+State,New Jersey,2007-08,Number,17332
+State,New Jersey,2006-07,Number,17241
+State,New Jersey,2006-07,Percent,0.16
+State,New Jersey,2005-06,Number,16124
+State,New Jersey,2005-06,Percent,0.15
+State,New Mexico,2005-06,Percent,0.33
+State,New Mexico,2005-06,Number,8676
+State,New Mexico,2006-07,Percent,0.41
+State,New Mexico,2006-07,Number,11155
+State,New Mexico,2007-08,Number,9091
+State,New Mexico,2007-08,Percent,0.33
+State,New Mexico,2008-09,Number,9744
+State,New Mexico,2008-09,Percent,0.35
+State,New Mexico,2009-10,Number,9019
+State,New Mexico,2010-11,Percent,0.29
+State,New Mexico,2009-10,Percent,0.33
+State,New Mexico,2010-11,Number,N.A.
+State,New Mexico,2012-13,Number,N.A.
+State,New Mexico,2011-12,Number,N.A.
+State,New Mexico,2011-12,Percent,0.26
+State,New Mexico,2012-13,Percent,0.28
+State,New York,2012-13,Percent,0.22
+State,New York,2011-12,Percent,0.22
+State,New York,2011-12,Number,N.A.
+State,New York,2012-13,Number,N.A.
+State,New York,2010-11,Number,N.A.
+State,New York,2009-10,Percent,0.24
+State,New York,2010-11,Percent,0.22
+State,New York,2009-10,Number,58158
+State,New York,2008-09,Percent,0.26
+State,New York,2008-09,Number,65065
+State,New York,2007-08,Percent,0.29
+State,New York,2007-08,Number,72544
+State,New York,2006-07,Number,76262
+State,New York,2006-07,Percent,0.31
+State,New York,2005-06,Number,78342
+State,New York,2005-06,Percent,0.33
+State,North Carolina,2005-06,Percent,0.28
+State,North Carolina,2005-06,Number,30126
+State,North Carolina,2006-07,Percent,0.31
+State,North Carolina,2006-07,Number,34823
+State,North Carolina,2007-08,Number,31140
+State,North Carolina,2007-08,Percent,0.27
+State,North Carolina,2008-09,Number,28775
+State,North Carolina,2008-09,Percent,0.25
+State,North Carolina,2009-10,Number,26670
+State,North Carolina,2010-11,Percent,0.23
+State,North Carolina,2009-10,Percent,0.23
+State,North Carolina,2010-11,Number,N.A.
+State,North Carolina,2012-13,Number,N.A.
+State,North Carolina,2011-12,Number,N.A.
+State,North Carolina,2011-12,Percent,0.21
+State,North Carolina,2012-13,Percent,0.2
+State,North Dakota,2012-13,Percent,0.09
+State,North Dakota,2011-12,Percent,0.09
+State,North Dakota,2011-12,Number,N.A.
+State,North Dakota,2012-13,Number,N.A.
+State,North Dakota,2010-11,Number,N.A.
+State,North Dakota,2009-10,Percent,0.12
+State,North Dakota,2010-11,Percent,0.1
+State,North Dakota,2009-10,Number,942
+State,North Dakota,2008-09,Percent,0.13
+State,North Dakota,2008-09,Number,1038
+State,North Dakota,2007-08,Percent,0.16
+State,North Dakota,2007-08,Number,1352
+State,North Dakota,2006-07,Number,1455
+State,North Dakota,2006-07,Percent,0.17
+State,North Dakota,2005-06,Number,1563
+State,North Dakota,2005-06,Percent,0.18
+State,Ohio,2005-06,Percent,0.21
+State,Ohio,2005-06,Number,30867
+State,Ohio,2006-07,Percent,0.21
+State,Ohio,2006-07,Number,31897
+State,Ohio,2007-08,Number,32148
+State,Ohio,2007-08,Percent,0.21
+State,Ohio,2008-09,Number,31325
+State,Ohio,2008-09,Percent,0.2
+State,Ohio,2009-10,Number,28237
+State,Ohio,2010-11,Percent,0.18
+State,Ohio,2009-10,Percent,0.19
+State,Ohio,2010-11,Number,N.A.
+State,Ohio,2012-13,Number,N.A.
+State,Ohio,2011-12,Number,N.A.
+State,Ohio,2011-12,Percent,0.16
+State,Ohio,2012-13,Percent,0.15
+State,Oklahoma,2012-13,Percent,0.21
+State,Oklahoma,2011-12,Percent,0.21
+State,Oklahoma,2011-12,Number,N.A.
+State,Oklahoma,2012-13,Number,N.A.
+State,Oklahoma,2010-11,Number,N.A.
+State,Oklahoma,2009-10,Percent,0.21
+State,Oklahoma,2010-11,Percent,0.2
+State,Oklahoma,2009-10,Number,10529
+State,Oklahoma,2008-09,Percent,0.23
+State,Oklahoma,2008-09,Number,10924
+State,Oklahoma,2007-08,Percent,0.22
+State,Oklahoma,2007-08,Number,10640
+State,Oklahoma,2006-07,Number,10582
+State,Oklahoma,2006-07,Percent,0.22
+State,Oklahoma,2005-06,Number,10402
+State,Oklahoma,2005-06,Percent,0.22
+State,Oregon,2005-06,Percent,0.27
+State,Oregon,2005-06,Number,11969
+State,Oregon,2006-07,Percent,0.26
+State,Oregon,2006-07,Number,11899
+State,Oregon,2007-08,Number,10600
+State,Oregon,2007-08,Percent,0.23
+State,Oregon,2008-09,Number,10806
+State,Oregon,2008-09,Percent,0.24
+State,Oregon,2009-10,Number,10754
+State,Oregon,2010-11,Percent,0.22
+State,Oregon,2009-10,Percent,0.24
+State,Oregon,2010-11,Number,N.A.
+State,Oregon,2012-13,Number,N.A.
+State,Oregon,2011-12,Number,N.A.
+State,Oregon,2011-12,Percent,0.22
+State,Oregon,2012-13,Percent,0.23
+State,Pennsylvania,2012-13,Percent,0.12
+State,Pennsylvania,2011-12,Percent,0.12
+State,Pennsylvania,2011-12,Number,N.A.
+State,Pennsylvania,2012-13,Number,N.A.
+State,Pennsylvania,2010-11,Number,N.A.
+State,Pennsylvania,2009-10,Percent,0.16
+State,Pennsylvania,2010-11,Percent,0.14
+State,Pennsylvania,2009-10,Number,24831
+State,Pennsylvania,2008-09,Percent,0.19
+State,Pennsylvania,2008-09,Number,31585
+State,Pennsylvania,2007-08,Percent,0.17
+State,Pennsylvania,2007-08,Number,27232
+State,Pennsylvania,2006-07,Number,26335
+State,Pennsylvania,2006-07,Percent,0.17
+State,Pennsylvania,2005-06,Number,N.A.
+State,Pennsylvania,2005-06,Percent,N.A.
+State,Rhode Island,2005-06,Percent,0.22
+State,Rhode Island,2005-06,Number,2891
+State,Rhode Island,2006-07,Percent,0.22
+State,Rhode Island,2006-07,Number,2868
+State,Rhode Island,2007-08,Number,3192
+State,Rhode Island,2007-08,Percent,0.24
+State,Rhode Island,2008-09,Number,3285
+State,Rhode Island,2008-09,Percent,0.25
+State,Rhode Island,2009-10,Number,3058
+State,Rhode Island,2010-11,Percent,0.23
+State,Rhode Island,2009-10,Percent,0.24
+State,Rhode Island,2010-11,Number,N.A.
+State,Rhode Island,2012-13,Number,N.A.
+State,Rhode Island,2011-12,Number,N.A.
+State,Rhode Island,2011-12,Percent,0.24
+State,Rhode Island,2012-13,Percent,0.21
+State,South Carolina,2012-13,Percent,0.26
+State,South Carolina,2011-12,Percent,0.28
+State,South Carolina,2011-12,Number,N.A.
+State,South Carolina,2012-13,Number,N.A.
+State,South Carolina,2010-11,Number,N.A.
+State,South Carolina,2009-10,Percent,0.32
+State,South Carolina,2010-11,Percent,0.31
+State,South Carolina,2009-10,Number,18891
+State,South Carolina,2008-09,Percent,0.34
+State,South Carolina,2008-09,Number,20160
+State,South Carolina,2007-08,Percent,0.38
+State,South Carolina,2007-08,Number,21439
+State,South Carolina,2006-07,Number,24484
+State,South Carolina,2006-07,Percent,0.41
+State,South Carolina,2005-06,Number,N.A.
+State,South Carolina,2005-06,Percent,N.A.
+State,South Dakota,2005-06,Percent,0.15
+State,South Dakota,2005-06,Number,1575
+State,South Dakota,2006-07,Percent,0.18
+State,South Dakota,2006-07,Number,1771
+State,South Dakota,2007-08,Number,1586
+State,South Dakota,2007-08,Percent,0.16
+State,South Dakota,2008-09,Number,1820
+State,South Dakota,2008-09,Percent,0.18
+State,South Dakota,2009-10,Number,1813
+State,South Dakota,2010-11,Percent,0.18
+State,South Dakota,2009-10,Percent,0.18
+State,South Dakota,2010-11,Number,N.A.
+State,South Dakota,2012-13,Number,N.A.
+State,South Dakota,2011-12,Number,N.A.
+State,South Dakota,2011-12,Percent,0.17
+State,South Dakota,2012-13,Percent,0.16
+State,Tennessee,2012-13,Percent,0.18
+State,Tennessee,2011-12,Percent,0.17
+State,Tennessee,2011-12,Number,N.A.
+State,Tennessee,2012-13,Number,N.A.
+State,Tennessee,2010-11,Number,N.A.
+State,Tennessee,2009-10,Percent,0.2
+State,Tennessee,2010-11,Percent,0.19
+State,Tennessee,2009-10,Number,15202
+State,Tennessee,2008-09,Percent,0.23
+State,Tennessee,2008-09,Number,17612
+State,Tennessee,2007-08,Percent,0.25
+State,Tennessee,2007-08,Number,19303
+State,Tennessee,2006-07,Number,20549
+State,Tennessee,2006-07,Percent,0.27
+State,Tennessee,2005-06,Number,21152
+State,Tennessee,2005-06,Percent,0.29
+State,Texas,2005-06,Percent,0.28
+State,Texas,2005-06,Number,91431
+State,Texas,2006-07,Percent,0.28
+State,Texas,2006-07,Number,94346
+State,Texas,2007-08,Number,92575
+State,Texas,2007-08,Percent,0.27
+State,Texas,2008-09,Number,86093
+State,Texas,2008-09,Percent,0.25
+State,Texas,2009-10,Number,74924
+State,Texas,2010-11,Percent,0.19
+State,Texas,2009-10,Percent,0.21
+State,Texas,2010-11,Number,N.A.
+State,Texas,2012-13,Number,N.A.
+State,Texas,2011-12,Number,N.A.
+State,Texas,2011-12,Percent,0.18
+State,Texas,2012-13,Percent,0.16
+State,Utah,2012-13,Percent,0.18
+State,Utah,2011-12,Percent,0.22
+State,Utah,2011-12,Number,N.A.
+State,Utah,2012-13,Number,N.A.
+State,Utah,2010-11,Number,N.A.
+State,Utah,2009-10,Percent,0.21
+State,Utah,2010-11,Percent,0.22
+State,Utah,2009-10,Number,8554
+State,Utah,2008-09,Percent,0.21
+State,Utah,2008-09,Number,7903
+State,Utah,2007-08,Percent,0.26
+State,Utah,2007-08,Number,9727
+State,Utah,2006-07,Percent,0.23
+State,Utah,2006-07,Number,8637
+State,Utah,2005-06,Number,7927
+State,Utah,2005-06,Percent,0.21
+State,Vermont,2005-06,Percent,0.18
+State,Vermont,2005-06,Number,1460
+State,Vermont,2006-07,Number,946
+State,Vermont,2006-07,Percent,0.11
+State,Vermont,2007-08,Number,883
+State,Vermont,2007-08,Percent,0.11
+State,Vermont,2008-09,Number,839
+State,Vermont,2008-09,Percent,0.1
+State,Vermont,2009-10,Number,675
+State,Vermont,2009-10,Percent,0.09
+State,Vermont,2010-11,Percent,0.07
+State,Vermont,2010-11,Number,N.A.
+State,Vermont,2011-12,Number,N.A.
+State,Vermont,2011-12,Percent,0.07
+State,Vermont,2012-13,Percent,0.11
+State,Vermont,2012-13,Number,N.A.
+State,Virginia,2012-13,Number,N.A.
+State,Virginia,2012-13,Percent,0.15
+State,Virginia,2011-12,Percent,0.16
+State,Virginia,2011-12,Number,N.A.
+State,Virginia,2010-11,Number,N.A.
+State,Virginia,2010-11,Percent,0.17
+State,Virginia,2009-10,Percent,0.19
+State,Virginia,2009-10,Number,18911
+State,Virginia,2008-09,Percent,0.22
+State,Virginia,2008-09,Number,21956
+State,Virginia,2007-08,Percent,0.23
+State,Virginia,2007-08,Number,23143
+State,Virginia,2006-07,Percent,0.25
+State,Virginia,2006-07,Number,24070
+State,Virginia,2005-06,Number,23852
+State,Virginia,2005-06,Percent,0.26
+State,Washington,2005-06,Percent,0.27
+State,Washington,2005-06,Number,22383
+State,Washington,2006-07,Number,21170
+State,Washington,2006-07,Percent,0.25
+State,Washington,2007-08,Number,24049
+State,Washington,2007-08,Percent,0.28
+State,Washington,2008-09,Number,22359
+State,Washington,2008-09,Percent,0.26
+State,Washington,2009-10,Number,19508
+State,Washington,2009-10,Percent,0.23
+State,Washington,2010-11,Percent,0.21
+State,Washington,2010-11,Number,N.A.
+State,Washington,2011-12,Number,N.A.
+State,Washington,2011-12,Percent,0.21
+State,Washington,2012-13,Percent,0.2
+State,Washington,2012-13,Number,N.A.
+State,West Virginia,2012-13,Number,N.A.
+State,West Virginia,2012-13,Percent,0.19
+State,West Virginia,2011-12,Percent,0.2
+State,West Virginia,2011-12,Number,N.A.
+State,West Virginia,2010-11,Number,N.A.
+State,West Virginia,2010-11,Percent,0.22
+State,West Virginia,2009-10,Percent,0.22
+State,West Virginia,2009-10,Number,4904
+State,West Virginia,2008-09,Percent,0.23
+State,West Virginia,2008-09,Number,5293
+State,West Virginia,2007-08,Percent,0.23
+State,West Virginia,2007-08,Number,5134
+State,West Virginia,2006-07,Percent,0.22
+State,West Virginia,2006-07,Number,4849
+State,West Virginia,2005-06,Number,5047
+State,West Virginia,2005-06,Percent,0.23
+State,Wisconsin,2005-06,Percent,0.13
+State,Wisconsin,2005-06,Number,9033
+State,Wisconsin,2006-07,Number,8280
+State,Wisconsin,2006-07,Percent,0.11
+State,Wisconsin,2007-08,Number,7565
+State,Wisconsin,2007-08,Percent,0.1
+State,Wisconsin,2008-09,Number,6679
+State,Wisconsin,2008-09,Percent,0.09
+State,Wisconsin,2009-10,Number,6331
+State,Wisconsin,2009-10,Percent,0.09
+State,Wisconsin,2010-11,Percent,0.08
+State,Wisconsin,2010-11,Number,N.A.
+State,Wisconsin,2011-12,Number,N.A.
+State,Wisconsin,2011-12,Percent,0.08
+State,Wisconsin,2012-13,Percent,0.07
+State,Wisconsin,2012-13,Number,N.A.
+State,Wyoming,2012-13,Number,N.A.
+State,Wyoming,2012-13,Percent,0.18
+State,Wyoming,2011-12,Percent,0.2
+State,Wyoming,2011-12,Number,N.A.
+State,Wyoming,2010-11,Number,N.A.
+State,Wyoming,2010-11,Percent,0.2
+State,Wyoming,2009-10,Percent,0.2
+State,Wyoming,2009-10,Number,1397
+State,Wyoming,2008-09,Percent,0.25
+State,Wyoming,2008-09,Number,1814
+State,Wyoming,2007-08,Percent,0.24
+State,Wyoming,2007-08,Number,1732
+State,Wyoming,2006-07,Percent,0.24
+State,Wyoming,2006-07,Number,1740
+State,Wyoming,2005-06,Number,1737
+State,Wyoming,2005-06,Percent,0.24
+Territory,Puerto Rico,2005-06,Percent,0.31
+Territory,Puerto Rico,2005-06,Number,14582
+Territory,Puerto Rico,2006-07,Number,15861
+Territory,Puerto Rico,2006-07,Percent,0.33
+Territory,Puerto Rico,2007-08,Number,16541
+Territory,Puerto Rico,2007-08,Percent,0.36
+Territory,Puerto Rico,2008-09,Number,14308
+Territory,Puerto Rico,2008-09,Percent,0.33
+Territory,Puerto Rico,2009-10,Number,16896
+Territory,Puerto Rico,2009-10,Percent,0.4
+Territory,Puerto Rico,2010-11,Percent,0.38
+Territory,Puerto Rico,2010-11,Number,N.A.
+Territory,Puerto Rico,2011-12,Number,N.A.
+Territory,Puerto Rico,2011-12,Percent,0.38
+Territory,Puerto Rico,2012-13,Percent,N.A.
+Territory,Puerto Rico,2012-13,Number,N.A.
+Territory,Virgin Islands,2012-13,Number,N.A.
+Territory,Virgin Islands,2012-13,Percent,0.32
+Territory,Virgin Islands,2011-12,Number,N.A.
+Territory,Virgin Islands,2011-12,Percent,0.28
+Territory,Virgin Islands,2010-11,Percent,0.32
+Territory,Virgin Islands,2010-11,Number,N.A.
+Territory,Virgin Islands,2009-10,Percent,0.34
+Territory,Virgin Islands,2009-10,Number,504
+Territory,Virgin Islands,2008-09,Percent,0.37
+Territory,Virgin Islands,2008-09,Number,550
+Territory,Virgin Islands,2007-08,Percent,0.42
+Territory,Virgin Islands,2007-08,Number,588
+Territory,Virgin Islands,2006-07,Percent,0.42
+Territory,Virgin Islands,2006-07,Number,600
+Territory,Virgin Islands,2005-06,Number,N.A.
+Territory,Virgin Islands,2005-06,Percent,N.A.
