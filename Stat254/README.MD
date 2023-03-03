@@ -10,4 +10,5 @@ Datasets for Stat 254
 8. Wages7:  A panel of 595 individuals from 1976 to 1982, taken from the Panel Study of Income Dynamics (PSID).
 9. BigMac data comes from https://calmcode.io/datasette/introduction.html
 10. Delta Delays comes from https://www.transtats.bts.gov/ONTIME/Departures.aspx
+11. Seatle and SanFrancisco crime data comes from: https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/crimeanalytics.md
 
