@@ -12,6 +12,7 @@ Data for the senior seminar
 10. American Housing Survey 2011 is the data used in Mullainathan and Spiess, https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87
 11. High School dropout rates are from : https://datacenter.kidscount.org
 12. Spiral data is from Kaggle https://www.kaggle.com/code/pliptor/spiral-test-with-xgboost-and-kneighbors/notebook
+13. County level US per capita income (from Kaggle: https://www.kaggle.com/datasets/ruddygunawan/per-capita-income-by-county-2021-vs-education)
 
 
 
