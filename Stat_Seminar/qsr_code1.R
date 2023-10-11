@@ -1,5 +1,4 @@
-
-qsr <- read.csv('QSR.csv')
+qsr <- read.csv('QSR.csv') ## Change this line according to the location of your data file 
 
 library(tidyverse)
 library(ggthemes)
