@@ -9,7 +9,7 @@
 
 # e.g. The Helmet useage data from NC
 
-# two.prop.test( x1=179, n1=1116, x2=161, n2=848, direction = 'lessthan')
+# two.prop.test( x1=179, n1=1116, x2=161, n2=848, direction = 'less than')
 
 two.prop.test <- function( x1, n1, x2, n2, direction)
 {
@@ -27,10 +27,10 @@ two.prop.test <- function( x1, n1, x2, n2, direction)
 
   z <- difference/sd
 
-  ifelse( direction == 'notequal',
+  ifelse( direction == 'not equal',
           ifelse( z < 0, pval <- 2*pnorm(z), pval <- 2*pnorm(-z)),
-  ifelse( direction == 'lessthan', pval <- pnorm(z),
-          ifelse(direction == 'greaterthan', pval <- 1 - pnorm(z))))
+  ifelse( direction == 'less than', pval <- pnorm(z),
+          ifelse(direction == 'greater than', pval <- 1 - pnorm(z))))
 
   out <- list('difference(p1hat - p2hat)' = difference,
               'standard_dev' = sd,
