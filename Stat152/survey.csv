@@ -1,0 +1,264 @@
+"","class_year","gender","athlete","Israel","overall_social_life","harsh_drinking_policy","micro_faculty","micro_student","micro_staff","micro_no"
+"1","Junior","Male","No","Yes","Yes","Yes",0,1,0,0
+"2","Sophomore","Other","No","No","Yes","Yes",0,0,0,1
+"3","Senior","Female","No","No","No","Yes",0,0,0,1
+"4","Junior","Female","No","Not sure","No","Yes",0,0,0,1
+"5","Senior","Female","No","No","No","Yes",1,0,1,0
+"6","Senior","Male","No","No","No","Yes",0,0,0,1
+"7","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"8","Sophomore","Other","No","No","No","No",0,1,1,0
+"9","Freshman","Female","Yes","Not sure","Yes","Yes",0,0,0,1
+"10","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"11","Freshman","Male","Yes","No","Yes","No",0,0,0,1
+"12","Junior","Female","No","No","No","No",1,1,1,0
+"13","Junior","Female","No","No","No","No",0,0,0,1
+"14","Senior","Male","No","Not sure","No","Yes",0,0,0,1
+"15","Junior","Male","Yes","Not sure","Yes","Yes",0,0,0,1
+"16","Freshman","Male","No","Yes","Yes","No",0,0,0,1
+"17","Senior","Male","No","No","No","No",0,0,0,1
+"18","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"19","Senior","Female","No","No","Yes","No",1,1,0,0
+"20","Senior","Female","No","No","Yes","Yes",0,0,0,1
+"21","Sophomore","Female","No","No","Yes","No",0,0,0,1
+"22","Junior","Female","Yes","Not sure","Yes","Yes",0,0,0,1
+"23","Senior","Male","No","No","No","Yes",0,0,0,1
+"24","Senior","Female","No","Not sure","Yes","No",1,1,0,0
+"25","Junior","Male","No","No","No","Yes",1,1,0,0
+"26","Junior","Female","No","Not sure","Yes","Yes",0,0,0,1
+"27","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"28","Sophomore","Female","No","Not sure","Yes","Yes",0,0,0,1
+"29","Senior","Male","No","No","No","Yes",1,1,1,0
+"30","Senior","Female","No","Yes","Yes","No",0,0,0,1
+"31","Senior","Male","No","Not sure","No","No",1,1,0,0
+"32","Senior","Male","No","Yes","Yes","No",0,1,0,0
+"33","Freshman","Male","Yes","No","No","Yes",0,1,0,0
+"34","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"35","Freshman","Female","No","Yes","No","No",1,1,0,0
+"36","Sophomore","Male","No","No","Yes","Yes",0,0,0,1
+"37","Sophomore","Male","No","Yes","Yes","No",0,0,0,1
+"38","Freshman","Female","No","Yes","Yes","No",0,0,0,1
+"39","Senior","Male","No","Yes","No","No",0,0,0,1
+"40","Junior","Female","No","No","Yes","No",0,0,0,1
+"41","Junior","Male","No","No","No","No",1,1,1,0
+"42","Senior","Female","No","No","No","Yes",1,1,1,0
+"43","Senior","Female","No","Not sure","Yes","Yes",0,0,0,1
+"44","Sophomore","Female","Yes","No","Yes","Yes",0,1,0,0
+"45","Junior","Female","No","Yes","Yes","Yes",0,0,0,1
+"46","Junior","Female","No","No","Yes","No",1,1,0,0
+"47","Senior","Male","No","Yes","No","No",1,1,0,0
+"48","Senior","Other","No","Not sure","No","No",1,0,1,0
+"49","Sophomore","Male","No","Yes","Yes","No",0,0,0,1
+"50","Freshman","Male","No","No","Yes","Yes",0,1,0,0
+"51","Senior","Female","No","Not sure","No","No",0,0,0,1
+"52","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"53","Junior","Female","No","Not sure","Yes","Yes",0,1,1,0
+"54","Freshman","Female","No","No","Yes","No",0,1,0,0
+"55","Freshman","Female","No","Yes","Yes","Yes",0,0,0,1
+"56","Senior","Male","No","Not sure","Yes","Yes",0,0,0,1
+"57","Sophomore","Female","No","No","Yes","No",1,1,1,0
+"58","Senior","Female","No","No","Yes","No",0,1,0,0
+"59","Junior","Male","No","Yes","Yes","No",0,1,0,0
+"60","Sophomore","Female","No","Not sure","No","Yes",1,1,0,0
+"61","Senior","Female","No","No","No","No",0,0,0,1
+"62","Sophomore","Female","No","Not sure","No","No",0,0,0,1
+"63","Junior","Female","No","Yes","Yes","No",0,0,0,1
+"64","Freshman","Male","No","Yes","Yes","No",0,0,0,1
+"65","Freshman","Male","No","Yes","No","Yes",0,0,0,1
+"66","Senior","Female","No","No","Yes","No",0,1,0,0
+"67","Freshman","Male","No","No","Yes","No",0,0,0,1
+"68","Senior","Male","Yes","","No","Yes",0,0,0,1
+"69","Sophomore","Female","No","No","Yes","No",0,0,0,1
+"70","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"71","Sophomore","Male","No","No","Yes","No",0,0,0,1
+"72","Senior","Other","No","No","Yes","No",1,1,0,0
+"73","Sophomore","Female","No","Not sure","Yes","No",0,0,0,1
+"74","Sophomore","Female","No","Yes","Yes","Yes",0,1,0,0
+"75","Freshman","Female","No","Yes","Yes","No",0,0,0,1
+"76","Senior","Female","No","No","Yes","Yes",0,1,0,0
+"77","Junior","Female","No","No","Yes","Yes",0,0,0,1
+"78","Junior","Female","No","Yes","No","Yes",1,1,0,0
+"79","Freshman","Female","Yes","No","Yes","No",0,0,0,1
+"80","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"81","Junior","Male","No","Yes","Yes","No",1,0,1,0
+"82","Junior","Male","Yes","Yes","Yes","Yes",0,1,0,0
+"83","Senior","Other","No","No","No","No",0,1,1,0
+"84","Senior","Female","No","Not sure","Yes","Yes",0,1,0,0
+"85","Freshman","Male","Yes","Yes","No","No",0,1,0,0
+"86","Senior","Female","Yes","Not sure","Yes","No",0,0,0,1
+"87","Sophomore","Female","Yes","Not sure","Yes","No",0,0,0,1
+"88","Sophomore","Female","No","No","Yes","No",1,1,1,0
+"89","Junior","Female","Yes","Not sure","No","Yes",1,1,0,0
+"90","Junior","Female","No","No","No","No",0,0,0,1
+"91","Sophomore","Female","No","Not sure","Yes","Yes",0,0,0,1
+"92","Junior","Female","Yes","Not sure","Yes","Yes",0,0,0,1
+"93","Sophomore","Female","Yes","Yes","Yes","No",0,0,0,1
+"94","Freshman","Female","No","Yes","No","No",0,1,0,0
+"95","Freshman","Female","Yes","No","Yes","No",0,0,0,1
+"96","Senior","Male","No","Not sure","No","Yes",0,1,0,0
+"97","Senior","Male","Yes","No","No","No",0,0,0,1
+"98","Senior","Female","No","Yes","Yes","No",0,0,0,1
+"99","Junior","Female","Yes","Not sure","No","No",0,0,0,1
+"100","Junior","Female","No","No","No","Yes",1,1,0,0
+"101","Senior","Male","No","No","No","No",0,0,0,1
+"102","Senior","Female","No","No","Yes","Yes",0,0,0,1
+"103","Freshman","Other","No","Not sure","Yes","No",0,1,0,0
+"104","","Male","No","Not sure","Yes","Yes",0,1,0,0
+"105","Senior","Male","Yes","Yes","Yes","Yes",0,0,0,1
+"106","Freshman","Male","No","Yes","Yes","No",0,0,0,1
+"107","Senior","Female","No","Not sure","Yes","No",0,1,0,0
+"108","Freshman","Female","No","Yes","Yes","No",0,0,0,1
+"109","Sophomore","Male","Yes","Not sure","Yes","No",0,0,0,1
+"110","Freshman","Male","No","Yes","Yes","No",0,1,1,0
+"111","Sophomore","Female","No","Yes","Yes","No",0,0,0,1
+"112","Sophomore","Female","Yes","Not sure","Yes","No",0,0,0,1
+"113","Junior","Female","No","Not sure","Yes","Yes",0,1,0,0
+"114","Sophomore","Female","No","No","Yes","No",0,1,0,0
+"115","Senior","Female","No","Yes","No","Yes",0,0,0,1
+"116","Junior","Female","No","No","Yes","Yes",1,0,0,0
+"117","Freshman","Male","No","Yes","Yes","No",0,0,0,1
+"118","Senior","Female","No","No","No","Yes",0,0,0,1
+"119","Sophomore","Female","No","Yes","Yes","Yes",0,1,0,0
+"120","Senior","Female","No","No","Yes","Yes",0,0,0,1
+"121","Junior","Female","No","Yes","No","Yes",0,0,0,1
+"122","Junior","Male","No","Not sure","No","Yes",0,0,0,1
+"123","Senior","Male","No","Not sure","Yes","Yes",1,1,0,0
+"124","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"125","Freshman","Female","No","Yes","Yes","Yes",1,1,0,0
+"126","Freshman","Female","Yes","Yes","Yes","Yes",0,0,0,1
+"127","Sophomore","Female","No","Not sure","Yes","No",0,0,0,1
+"128","Junior","Female","No","Yes","No","Yes",0,1,0,0
+"129","Junior","Female","Yes","Yes","Yes","No",0,0,0,1
+"130","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"131","Freshman","Female","No","No","Yes","Yes",0,0,0,1
+"132","Freshman","Male","No","No","No","No",0,0,0,1
+"133","Freshman","Male","Yes","Yes","Yes","Yes",0,0,0,1
+"134","Sophomore","Male","No","Not sure","Yes","No",0,1,0,0
+"135","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"136","Senior","Female","No","Not sure","Yes","No",0,0,0,1
+"137","Sophomore","Female","No","Not sure","Yes","Yes",0,0,0,1
+"138","Junior","Male","Yes","Not sure","Yes","Yes",0,0,0,1
+"139","Senior","Female","No","Yes","No","No",1,1,1,0
+"140","Junior","Female","No","No","Yes","Yes",0,1,0,0
+"141","Freshman","Male","No","Yes","Yes","No",0,1,0,0
+"142","Senior","Male","No","No","Yes","No",0,0,0,1
+"143","Freshman","Male","No","No","Yes","No",0,0,0,1
+"144","Sophomore","Male","Yes","Not sure","No","No",0,1,0,0
+"145","Sophomore","Female","Yes","Yes","No","Yes",0,0,0,1
+"146","Sophomore","Male","No","No","Yes","No",0,0,0,1
+"147","Senior","Male","No","No","No","Yes",0,0,0,1
+"148","Freshman","Female","No","No","Yes","No",0,0,0,1
+"149","Sophomore","Female","No","No","Yes","No",0,1,0,0
+"150","Senior","","No","Not sure","No","No",1,1,0,0
+"151","Sophomore","Male","No","Not sure","Yes","No",1,1,0,0
+"152","Senior","Male","Yes","Yes","Yes","No",0,0,0,1
+"153","Sophomore","Female","Yes","Yes","Yes","Yes",1,0,0,0
+"154","Sophomore","Female","No","Yes","Yes","Yes",0,0,0,1
+"155","Senior","Female","No","Yes","Yes","Yes",0,0,0,1
+"156","Senior","Male","Yes","Yes","Yes","Yes",0,0,0,1
+"157","Junior","Male","Yes","Not sure","No","Yes",0,1,1,0
+"158","Junior","Female","No","Yes","Yes","No",0,0,0,1
+"159","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"160","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"161","Senior","Male","No","Not sure","No","Yes",0,1,0,0
+"162","Senior","Male","No","No","No","No",0,0,1,0
+"163","Junior","Female","Yes","No","No","No",0,1,1,0
+"164","Freshman","Male","Yes","Not sure","Yes","No",0,0,0,1
+"165","Junior","Female","No","Not sure","Yes","No",0,0,0,1
+"166","Sophomore","Female","No","Not sure","Yes","Yes",0,0,0,1
+"167","Freshman","Male","No","Not sure","No","Yes",0,1,0,0
+"168","Freshman","Other","Yes","Not sure","Yes","Yes",0,1,0,0
+"169","Junior","Female","Yes","No","No","Yes",0,1,0,0
+"170","Sophomore","Male","No","Yes","Yes","No",0,1,0,0
+"171","Senior","Female","No","No","No","No",0,0,0,1
+"172","Freshman","Male","Yes","Not sure","Yes","No",0,0,0,1
+"173","Junior","Female","No","No","Yes","Yes",0,1,0,0
+"174","Senior","Male","No","No","No","Yes",0,0,0,1
+"175","Senior","Female","No","Yes","No","No",0,0,0,1
+"176","Sophomore","Other","No","Not sure","Yes","No",0,1,1,0
+"177","Freshman","Male","Yes","Yes","No","No",1,1,0,0
+"178","Sophomore","Female","No","Not sure","Yes","No",0,0,0,1
+"179","Sophomore","Other","No","No","No","Yes",0,0,0,1
+"180","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"181","Sophomore","Male","No","Yes","Yes","No",0,0,0,1
+"182","Senior","Male","Yes","Not sure","Yes","No",0,0,0,1
+"183","Sophomore","Female","No","No","No","Yes",0,0,0,1
+"184","Senior","Other","No","No","Yes","Yes",0,0,0,1
+"185","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"186","Freshman","Male","Yes","Yes","Yes","No",0,0,0,1
+"187","Senior","Female","Yes","Not sure","Yes","No",0,0,0,1
+"188","Freshman","Female","No","Not sure","No","No",0,0,0,1
+"189","Sophomore","Female","No","Yes","No","Yes",0,0,0,1
+"190","Freshman","Male","No","No","No","No",0,0,0,1
+"191","Junior","Male","No","No","Yes","No",1,1,1,0
+"192","","","","","","",0,0,0,0
+"193","Sophomore","Male","No","Yes","Yes","No",0,0,0,1
+"194","Freshman","Female","Yes","Not sure","Yes","No",0,0,0,1
+"195","Freshman","Female","No","No","Yes","Yes",1,1,1,0
+"196","Sophomore","Female","No","No","Yes","Yes",0,0,0,1
+"197","Freshman","Female","Yes","Not sure","Yes","No",0,0,0,1
+"198","Freshman","Female","Yes","Not sure","Yes","No",0,0,0,1
+"199","Senior","Female","Yes","Not sure","Yes","Yes",0,0,0,1
+"200","Freshman","Male","No","No","Yes","No",0,0,0,1
+"201","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"202","Junior","Male","No","No","Yes","No",0,1,0,0
+"203","Freshman","Female","No","No","No","No",0,0,0,1
+"204","Freshman","Female","No","Not sure","Yes","",0,0,0,1
+"205","Junior","Male","Yes","Not sure","Yes","Yes",0,0,0,1
+"206","Senior","Male","No","No","No","No",0,0,0,1
+"207","Senior","Male","No","No","Yes","No",0,0,0,1
+"208","Junior","Female","No","No","No","No",1,0,0,0
+"209","Sophomore","Male","No","No","Yes","No",1,1,1,0
+"210","Junior","Female","No","Not sure","No","Yes",0,1,0,0
+"211","Sophomore","Female","No","No","Yes","Yes",0,0,0,1
+"212","Freshman","Female","No","No","Yes","Yes",0,0,0,1
+"213","Sophomore","Male","No","Not sure","Yes","Yes",0,0,0,1
+"214","Freshman","Female","No","No","Yes","No",0,0,0,1
+"215","Freshman","Male","No","No","No","No",0,0,0,1
+"216","Freshman","Male","No","No","Yes","No",0,0,0,1
+"217","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"218","Senior","Male","No","Not sure","No","Yes",0,0,0,1
+"219","Junior","Female","Yes","Yes","Yes","Yes",1,1,0,0
+"220","Junior","Female","No","Yes","No","Yes",0,0,0,1
+"221","Senior","Female","No","Not sure","Yes","Yes",0,1,1,0
+"222","Sophomore","Male","No","Not sure","No","Yes",0,0,0,1
+"223","Junior","Female","No","No","Yes","No",0,0,0,1
+"224","Freshman","Female","No","No","Yes","No",0,1,0,0
+"225","Sophomore","Female","Yes","Yes","Yes","No",0,0,0,1
+"226","Freshman","Male","No","Not sure","Yes","No",0,0,0,1
+"227","Sophomore","Female","No","Yes","Yes","No",1,1,1,0
+"228","Senior","Female","No","Not sure","Yes","Yes",0,0,0,1
+"229","Freshman","Female","No","Not sure","Yes","Yes",0,0,0,1
+"230","Freshman","Male","No","No","Yes","No",0,0,0,1
+"231","Sophomore","Female","No","No","Yes","No",0,0,0,1
+"232","Senior","Female","No","Not sure","Yes","No",1,0,0,0
+"233","Senior","Female","No","No","Yes","Yes",0,0,0,1
+"234","Junior","Female","No","Yes","Yes","Yes",0,0,0,1
+"235","Junior","Female","Yes","No","Yes","Yes",0,1,0,0
+"236","Junior","Male","No","Not sure","Yes","No",0,0,1,0
+"237","Sophomore","Female","No","Not sure","Yes","No",0,0,0,1
+"238","Freshman","Male","Yes","Not sure","Yes","Yes",0,0,0,1
+"239","Freshman","Female","No","No","Yes","Yes",0,0,0,1
+"240","Junior","Male","No","Not sure","Yes","No",0,0,0,1
+"241","Sophomore","Female","Yes","Not sure","Yes","Yes",0,1,0,0
+"242","Freshman","Female","No","No","Yes","No",0,1,0,0
+"243","Junior","Female","No","No","No","Yes",1,1,1,0
+"244","Senior","Female","No","No","Yes","No",0,1,0,0
+"245","Junior","Female","No","No","Yes","No",0,1,0,0
+"246","Sophomore","Male","No","Not sure","Yes","Yes",0,0,0,1
+"247","Junior","Male","No","Not sure","No","No",0,0,0,1
+"248","Senior","Female","No","Not sure","Yes","Yes",0,0,0,1
+"249","Freshman","Female","No","Not sure","No","No",0,0,0,1
+"250","Freshman","Male","No","No","No","No",0,1,0,0
+"251","Senior","Female","Yes","Not sure","Yes","No",0,0,0,1
+"252","Sophomore","Female","Yes","Yes","No","Yes",1,1,1,0
+"253","Sophomore","Female","Yes","Not sure","No","Yes",0,0,0,1
+"254","Sophomore","Other","No","Not sure","Yes","No",0,0,0,1
+"255","Freshman","Female","Yes","No","Yes","Yes",0,0,0,1
+"256","Senior","Female","No","Not sure","No","No",1,0,1,0
+"257","Freshman","Female","","No","Yes","Yes",0,1,0,0
+"258","Sophomore","Female","No","No","Yes","No",1,1,1,0
+"259","Sophomore","Female","No","Not sure","No","Yes",0,0,0,1
+"260","Senior","Other","No","No","Yes","No",1,0,0,1
+"261","Junior","Male","Yes","Yes","No","Yes",0,0,0,1
+"262","Freshman","Female","No","Not sure","Yes","No",0,0,0,1
+"263","Sophomore","Male","Yes","Yes","No","Yes",0,0,0,1
