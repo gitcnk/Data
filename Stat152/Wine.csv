@@ -1,0 +1,20 @@
+Country,Alcohol_consumption(from Wine),Death_rate
+Australia,3.25,80
+Austria,4.75,100
+Belgium,2.75,60
+Canada,1.5,80
+Denmark,4.5,90
+Finland,3,120
+France,8.5,40
+Germany,3.75,90
+Iceland,1.25,110
+Ireland,2,130
+Italy,7.5,60
+Netherlands,2.75,70
+New Zealand,2.5,100
+Norway,1.75,80
+Spain,5,50
+Sweden,2.5,90
+Switzerland,6,70
+United Kingdom,2.75,120
+United States,1.25,120
