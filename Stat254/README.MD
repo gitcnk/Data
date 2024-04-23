@@ -13,4 +13,5 @@ Datasets for Stat 254
 11. Seattle and San Francisco crime data comes from: https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/crimeanalytics.md
 12. World Population data is from World Bank.  Dowloaded April 07 2023.
 13. Bone Mineral Density data from University of Sydney, Austrailia.
+14. DXA-T scores from Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UDZIJS
 
