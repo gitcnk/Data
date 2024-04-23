@@ -12,4 +12,5 @@ Datasets for Stat 254
 10. Delta Delays comes from https://www.transtats.bts.gov/ONTIME/Departures.aspx
 11. Seattle and San Francisco crime data comes from: https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/crimeanalytics.md
 12. World Population data is from World Bank.  Dowloaded April 07 2023.
+13. Bone Mineral Density data from University of Sydney, Austrailia.
 
