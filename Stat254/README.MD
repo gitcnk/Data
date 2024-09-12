@@ -14,4 +14,5 @@ Datasets for Stat 254
 12. World Population data is from World Bank.  Dowloaded April 07 2023.
 13. Bone Mineral Density data from University of Sydney, Austrailia.
 14. DXA-T scores from Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UDZIJS
+15. OkCupid data is from the oringinal okcupid profiles dataset from Kaggel.
 
