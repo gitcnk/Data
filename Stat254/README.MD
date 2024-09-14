@@ -15,4 +15,6 @@ Datasets for Stat 254
 13. Bone Mineral Density data from University of Sydney, Austrailia.
 14. DXA-T scores from Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UDZIJS
 15. OkCupid data is from the oringinal okcupid profiles dataset from Kaggel.  Modified to suit CLT simulations.
+16. Sex data is from Chatterjee's book
+
 
