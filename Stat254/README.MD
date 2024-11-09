@@ -1,4 +1,4 @@
-Datasets for Stat 254
+#Datasets for Stat 254
 
 1. The Chicago insurance data comes from Faraway (2005, 1st edition), chapter 11. Book is in Gdrive.
 2. The heart disease dataset is a cleaned version from UC Irvine.
@@ -15,6 +15,7 @@ Datasets for Stat 254
 13. Bone Mineral Density data from University of Sydney, Austrailia.
 14. DXA-T scores from Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UDZIJS
 15. OkCupid data is from the oringinal okcupid profiles dataset from Kaggel.  Modified to suit CLT simulations.
-16. Sex data is from Chatterjee's book
+16. Sex data is from Chatterjee's book.
+17. Minnesota farm land sales is from Weisburg's book.-- Every farm sale in 6 economic regions in Minnesota from 2002-2011
 
 
