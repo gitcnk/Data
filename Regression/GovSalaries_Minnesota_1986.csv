@@ -1,4 +1,4 @@
-"JobClass","Total_Women","Total_Employees","Job_Difficulty_Score","MaxSalary"
+"JobClass","Women","Total_Employees","Difficulty_Score","MaxSalary"
 "Account_clerk",52,68,258,1549
 "Account_clerk_Intermediate",26,29,269,1712
 "Account_clerk_Principal",10,13,321,2182
