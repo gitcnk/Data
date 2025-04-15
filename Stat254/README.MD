@@ -17,5 +17,6 @@
 15. OkCupid data is from the oringinal okcupid profiles dataset from Kaggel.  Modified to suit CLT simulations.
 16. Sex data is from Chatterjee's book.
 17. Minnesota farm land sales is from Weisburg's book.-- Every farm sale in 6 economic regions in Minnesota from 2002-2011
+18. Student perfirmance data from Portugla -- UCI ML repo.
 
 
