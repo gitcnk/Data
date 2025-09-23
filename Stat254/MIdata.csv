@@ -1,4 +1,4 @@
-"Score","Patients","Deaths","NRMI.Mortality","Expected.Deaths"
+"Risk_Score","Patients","Deaths","National_rate","Expected_Deaths"
 "0",34,0,0.17,0.06
 "1",75,0,0.67,0.51
 "2",88,1,1.7,1.49
