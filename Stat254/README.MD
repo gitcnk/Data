@@ -18,5 +18,6 @@
 16. Sex data is from Chatterjee's book.
 17. Minnesota farm land sales is from Weisburg's book.-- Every farm sale in 6 economic regions in Minnesota from 2002-2011
 18. Student perfirmance data from Portugla -- UCI ML repo.
+19. Drug Discovery Data is from paper: QSAR paper -- Hirst et. al, Journla of Computer Aided Molecular Design.
 
 
