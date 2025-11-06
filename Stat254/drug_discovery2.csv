@@ -1,4 +1,4 @@
-"p3_polar","p3_size","p3_flex","p3_h_doner","p3_h_acceptor","p3_pi_doner","p3_pi_acceptor","p3_polarisable","p3_sigma","p4_polar","p4_size","p4_flex","p4_h_doner","p4_h_acceptor","p4_pi_doner","p4_pi_acceptor","p4_polarisable","p4_sigma","p5_polar","p5_size","p5_flex","p5_h_doner","p5_h_acceptor","p5_pi_doner","p5_pi_acceptor","p5_polarisable","p5_sigma","activity"
+"p1_polar","p1_size","p1_flex","p1_h_doner","p1_h_acceptor","p1_pi_doner","p1_pi_acceptor","p1_polarisable","p1_sigma","p2_polar","p2_size","p2_flex","p2_h_doner","p2_h_acceptor","p2_pi_doner","p2_pi_acceptor","p2_polarisable","p2_sigma","p3_polar","p3_size","p3_flex","p3_h_doner","p3_h_acceptor","p3_pi_doner","p3_pi_acceptor","p3_polarisable","p3_sigma","activity"
 0.5,0.26,0.1,0.9,0.9,0.9,0.1,0.367,0.42,0.26,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.367,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,0.571
 0.5,0.26,0.1,0.1,0.1,0.5,0.1,0.367,0.58,0.42,0.26,0.1,0.9,0.1,0.9,0.1,0.1,0.26,0.9,0.367,0.1,0.1,0.1,0.5,0,0.367,0.9,0.9
 0.3,0.42,0.1,0.1,0.5,0.5,0.1,0.367,0.26,0.26,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.633,0.633,0.1,0.1,0.5,0.5,0,0.367,0.367,0.833
