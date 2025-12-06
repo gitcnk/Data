@@ -20,6 +20,7 @@
 18. Student perfirmance data from Portugla -- UCI ML repo.
 19. Drug Discovery Data is from paper: QSAR paper -- Hirst et. al, Journla of Computer Aided Molecular Design.
 20. Income Data -- UCI ML repo: https://archive.ics.uci.edu/dataset/2/adult
+
 I filterted only 'White' and 'Black' groups.
 
 
