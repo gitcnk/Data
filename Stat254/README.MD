@@ -19,8 +19,6 @@
 17. Minnesota farm land sales is from Weisburg's book.-- Every farm sale in 6 economic regions in Minnesota from 2002-2011
 18. Student perfirmance data from Portugla -- UCI ML repo.
 19. Drug Discovery Data is from paper: QSAR paper -- Hirst et. al, Journla of Computer Aided Molecular Design.
-20. Income Data -- UCI ML repo: https://archive.ics.uci.edu/dataset/2/adult
-
-I filterted only 'White' and 'Black' groups.
+20. Income Data -- UCI ML repo: https://archive.ics.uci.edu/dataset/2/adult  (I filterted only 'White' and 'Black' groups.)
 
 
